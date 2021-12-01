@@ -1,0 +1,1918 @@
+,BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Typepouvoiradjudicateur_Agencenational,D_03_03_Typepouvoiradjudicateur_Autotriteregional,D_03_04_Typepouvoiradjudicateur_Agenceregional,D_03_05_Typepouvoiradjudicateur_Orgdroitpublic,D_03_06_Typepouvoiradjudicateur_Institutioneuropeenne,D_03_07_Typepouvoiradjudicateur_Autre
+1916,21-150993,True,False,False,False,False,False,
+1917,21-150997,False,False,False,False,True,False,
+1918,21-150998,False,False,True,False,False,False,
+1919,21-150999,False,False,True,False,False,False,
+1920,21-151000,False,False,True,False,False,False,
+1921,21-151003,False,False,False,False,False,False,SYNDICAT MIXTE
+1922,21-151004,True,False,False,False,False,False,
+1923,21-151006,False,False,False,False,True,False,
+1924,21-151007,True,False,False,False,False,False,
+1925,21-151008,False,False,False,False,False,False,CAF DU NORD
+1926,21-151010,False,False,False,False,True,False,
+1927,21-151011,False,False,True,False,False,False,
+1928,21-151012,False,False,True,False,False,False,
+1929,21-151013,False,False,False,False,False,False,autre
+1930,21-151016,False,False,True,False,False,False,
+1931,21-151017,False,False,True,False,False,False,
+1932,21-151018,False,False,True,False,False,False,
+1933,21-151020,False,False,True,False,False,False,
+1934,21-151021,False,False,False,False,False,False,Etablissement public de santé
+1935,21-151023,False,False,False,False,False,False,Santé
+1936,21-151027,False,False,False,False,False,False,Conseil constitutionnel
+1937,21-151028,True,False,False,False,False,False,
+1938,21-151041,False,False,True,False,False,False,
+1939,21-151051,False,False,False,False,True,False,
+1940,21-151065,False,False,True,False,False,False,
+1941,21-151066,False,False,True,False,False,False,
+1942,21-151068,False,False,True,False,False,False,
+1943,21-151069,False,False,True,False,False,False,
+1944,21-151070,True,False,False,False,False,False,
+1945,21-151071,False,False,True,False,False,False,
+1946,21-151072,False,False,True,False,False,False,
+1947,21-151073,False,False,True,False,False,False,
+1948,21-151074,False,False,True,False,False,False,
+1949,21-151078,False,False,False,False,True,False,
+1950,21-151086,False,False,False,True,False,False,
+1951,21-151089,False,False,False,False,False,False,Etablissement public de santé
+1952,21-151092,False,False,True,False,False,False,
+1953,21-151093,False,False,False,False,True,False,
+1954,21-151094,False,False,True,False,False,False,
+1955,21-151097,False,False,False,False,True,False,
+1956,21-151100,False,False,False,False,True,False,
+1957,21-151101,False,False,True,False,False,False,
+1958,21-151102,False,False,True,False,False,False,
+1959,21-151103,False,False,True,False,False,False,
+1960,21-151104,False,False,False,True,False,False,
+1961,21-151107,False,False,True,False,False,False,
+1962,21-151113,False,False,False,False,True,False,
+1963,21-151114,False,False,True,False,False,False,
+1964,21-151122,False,False,False,False,False,False,SEM
+1965,21-151123,False,False,True,False,False,False,
+1966,21-151125,False,False,False,False,False,False,EPCI
+1967,21-151126,False,False,True,False,False,False,
+1968,21-151130,False,False,True,False,False,False,
+1969,21-151134,False,False,True,False,False,False,
+1970,21-151136,False,False,False,False,False,False,établissement intercommunal
+1971,21-151139,False,False,False,False,False,False,EPCI
+1972,21-151140,False,False,True,False,False,False,
+1973,21-151149,False,False,False,True,False,False,
+1974,21-151150,False,False,False,False,True,False,
+1975,21-151152,False,False,False,False,True,False,
+1976,21-151155,False,False,False,False,True,False,
+1977,21-151157,False,False,True,False,False,False,
+1978,21-151158,True,False,False,False,False,False,
+1979,21-151160,False,False,True,False,False,False,
+1980,21-151163,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+1981,21-151165,False,False,False,False,False,False,Etablissement public de santé
+1982,21-151167,False,False,False,False,False,False,EHPAD
+1983,21-151172,False,False,True,False,False,False,
+1984,21-151176,False,False,False,False,True,False,
+1985,21-151182,False,False,True,False,False,False,
+1986,21-151186,False,False,True,False,False,False,
+1987,21-151188,False,False,True,False,False,False,
+1988,21-151192,False,False,False,False,False,False,Etablissement public de santé
+1989,21-151193,False,False,True,False,False,False,
+1990,21-151197,False,False,True,False,False,False,
+1991,21-151198,False,False,True,False,False,False,
+1992,21-151201,False,False,True,False,False,False,
+1993,21-151203,False,False,False,False,True,False,
+1994,21-151204,False,False,True,False,False,False,
+1995,21-151205,False,False,True,False,False,False,
+1996,21-151206,False,False,False,False,True,False,
+1997,21-151208,False,False,False,False,True,False,
+1998,21-151212,False,False,False,False,True,False,
+1999,21-151213,False,False,False,False,False,False,EPCI
+2000,21-151215,False,False,False,False,False,False,Santé
+2001,21-151217,False,False,False,False,True,False,
+2002,21-151219,False,False,True,False,False,False,
+2003,21-151220,False,False,True,False,False,False,
+2004,21-151226,False,False,False,False,True,False,
+2005,21-151228,True,False,False,False,False,False,
+2006,21-151229,False,False,True,False,False,False,
+2007,21-151234,False,False,False,False,False,False,Etablissement Public de santé
+2008,21-151235,False,False,True,False,False,False,
+2009,21-151238,False,False,False,False,True,False,
+2010,21-151244,False,False,False,False,True,False,
+2011,21-151251,False,False,False,False,True,False,
+2012,21-151252,False,False,False,False,True,False,
+2013,21-151254,False,False,True,False,False,False,
+2014,21-151255,False,False,True,False,False,False,
+2015,21-151256,False,False,True,False,False,False,
+2016,21-151259,False,False,False,False,True,False,
+2017,21-151261,False,False,False,False,True,False,
+2018,21-151264,False,False,True,False,False,False,
+2019,21-151270,False,False,True,False,False,False,
+2020,21-151271,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+2021,21-151273,False,False,False,False,True,False,
+2022,21-151275,False,False,True,False,False,False,
+2023,21-151276,False,False,False,False,True,False,
+2024,21-151280,False,False,False,False,True,False,
+2025,21-151283,False,False,False,False,True,False,
+2026,21-151291,False,False,True,False,False,False,
+2027,21-151292,False,False,False,False,True,False,
+2028,21-151294,False,False,False,False,True,False,
+2029,21-151301,False,False,True,False,False,False,
+2030,21-151302,True,False,False,False,False,False,
+2031,21-151303,False,False,False,False,False,False,COLLECTIVITE LOCALE
+2032,21-151306,False,False,False,False,True,False,
+2033,21-151307,False,False,False,False,True,False,
+2034,21-151308,False,False,False,False,False,False,autre
+2035,21-151310,False,False,True,False,False,False,
+2036,21-151311,False,False,True,False,False,False,
+2037,21-151313,False,False,True,False,False,False,
+2038,21-151314,False,False,True,False,False,False,
+2039,21-151316,False,False,False,False,True,False,
+2040,21-151323,False,False,True,False,False,False,
+2041,21-151328,False,False,True,False,False,False,
+2042,21-151330,False,False,True,False,False,False,
+2043,21-151331,False,False,False,False,False,False,Fondation partenariale
+2044,21-151338,False,False,False,False,False,False,Santé
+2045,21-151342,False,False,True,False,False,False,
+2046,21-151344,False,False,False,False,False,False,Ordre professionnel
+2047,21-151346,False,False,False,False,False,False,Établissement de santé
+2048,21-151347,False,False,False,False,True,False,
+2049,21-151348,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+2050,21-151349,False,False,False,False,True,False,
+2051,21-151351,False,False,True,False,False,False,
+2052,21-151353,False,False,False,False,False,False,Établissement Public de Coopération Culturelle sous forme d'Établissement Public Industriel et Commercial
+2053,21-151355,False,False,False,False,True,False,
+2054,21-151356,False,False,True,False,False,False,
+2055,21-151357,False,False,False,False,True,False,
+2056,21-151358,False,False,False,False,True,False,
+2057,21-151362,False,False,False,False,True,False,
+2058,21-151363,False,False,True,False,False,False,
+2059,21-151364,False,False,False,False,True,False,
+2060,21-151366,False,False,False,False,True,False,
+2061,21-151367,False,False,False,False,False,False,autre
+2062,21-151369,False,False,False,False,True,False,
+2063,21-151370,False,True,False,False,False,False,
+2064,21-151372,False,False,False,False,True,False,
+2065,21-151373,False,False,False,False,True,False,
+2066,21-151374,False,False,False,False,False,False,autre
+2067,21-151375,False,False,False,False,False,False,autre
+2068,21-151381,False,False,False,False,False,False,Établissement Public de Coopération Culturelle sous forme d'Établissement Public Industriel et Commercial
+2069,21-151382,False,False,False,False,True,False,
+2070,21-151383,False,False,False,False,True,False,
+2071,21-151387,False,False,True,False,False,False,
+2072,21-151404,False,False,False,False,False,False,collectivité territoriale
+2073,21-151407,False,False,False,False,False,False,collectivité territoriale
+2074,21-151409,True,False,False,False,False,False,
+2075,21-151415,False,False,False,False,False,False,Commune
+2076,21-151418,True,False,False,False,False,False,
+2077,21-151421,False,False,False,False,True,False,
+2078,21-151422,False,False,True,False,False,False,
+2079,21-151423,False,False,True,False,False,False,
+2080,21-151429,False,False,True,False,False,False,
+2081,21-151439,False,False,False,False,False,False,SAEM
+2082,21-151447,False,False,True,False,False,False,
+2083,21-151448,False,False,False,False,True,False,
+2084,21-151449,False,False,False,False,False,False,Etablissement public de santé
+2085,21-151455,False,False,True,False,False,False,
+2086,21-151460,False,False,False,False,True,False,
+2087,21-151462,False,False,True,False,False,False,
+2088,21-151464,False,False,False,False,True,False,
+2089,21-151472,False,False,True,False,False,False,
+2090,21-151473,False,False,False,False,True,False,
+2091,21-151474,False,False,True,False,False,False,
+2092,21-151476,False,False,False,False,True,False,
+2093,21-151479,False,False,True,False,False,False,
+2094,21-151484,False,False,False,False,False,False,Assemblée parlementaire
+2095,21-151485,True,False,False,False,False,False,
+2096,21-151488,False,False,True,False,False,False,
+2097,21-151496,False,False,True,False,False,False,
+2098,21-151499,False,True,False,False,False,False,
+2099,21-151500,False,False,False,False,False,False,Organisme de droit privé de la MSA
+2100,21-151504,True,False,False,False,False,False,
+2101,21-151506,False,False,False,False,True,False,
+2102,21-151509,False,False,False,False,False,False,Parlement
+2103,21-151510,False,False,False,False,False,False,Environnement
+2104,21-151516,False,False,False,False,True,False,
+2105,21-151523,False,False,True,False,False,False,
+2106,21-151530,False,False,False,False,True,False,
+2107,21-151532,False,False,True,False,False,False,
+2108,21-151533,False,False,False,False,False,False,autre
+2109,21-151539,False,False,False,False,True,False,
+2110,21-151540,False,False,False,False,False,False,autre
+2111,21-151541,False,False,True,False,False,False,
+2112,21-151542,False,False,True,False,False,False,
+2113,21-151543,False,False,True,False,False,False,
+2114,21-151546,False,False,False,False,False,False,autre
+2115,21-151547,False,False,True,False,False,False,
+2116,21-151549,False,False,True,False,False,False,
+2117,21-151550,False,False,False,False,False,False,autre
+2118,21-151551,False,False,False,False,True,False,
+2119,21-151554,False,False,False,False,True,False,
+2120,21-151555,False,False,False,False,True,False,
+2121,21-151557,False,False,False,False,False,False,Opérateur de compétences
+2122,21-151559,False,False,True,False,False,False,
+2123,21-151560,False,False,False,False,True,False,
+2124,21-151562,False,False,False,False,True,False,
+2125,21-151564,False,False,False,False,False,False,Opérateur de Compétences
+2126,21-151565,False,False,True,False,False,False,
+2127,21-151566,True,False,False,False,False,False,
+2128,21-151570,False,False,False,False,True,False,
+2129,21-151571,False,False,False,False,False,False,Établissement public de santé
+2130,21-151572,True,False,False,False,False,False,
+2131,21-151574,False,False,False,False,True,False,
+2132,21-151575,False,False,False,False,True,False,
+2133,21-151578,False,False,False,False,True,False,
+2134,21-151579,False,False,True,False,False,False,
+2135,21-151583,False,False,False,False,True,False,
+2136,21-151589,False,False,False,False,True,False,
+2137,21-151590,False,False,True,False,False,False,
+2138,21-151596,False,False,False,False,False,False,Union des caisses nationales de Sécurité sociale-centrale d'achats
+2139,21-151598,False,False,False,False,False,False,Organisation professionnelle de droit privé exerçant des missions de services publics
+2140,21-151601,False,False,True,False,False,False,
+2141,21-151602,False,False,False,False,True,False,
+2142,21-151604,False,False,True,False,False,False,
+2143,21-151609,False,False,True,False,False,False,
+2144,21-151610,False,False,True,False,False,False,
+2145,21-151616,False,False,True,False,False,False,
+2146,21-151624,False,False,True,False,False,False,
+2147,21-151625,False,False,False,False,True,False,
+2148,21-151629,False,False,True,False,False,False,
+2149,21-151630,False,False,True,False,False,False,
+2150,21-151636,False,False,True,False,False,False,
+2151,21-151641,False,False,False,False,True,False,
+2152,21-151642,False,False,False,False,False,False,SAEML
+2153,21-151649,False,False,True,False,False,False,
+2154,21-151651,False,False,True,False,False,False,
+2155,21-151652,False,False,False,False,False,False,Centre Communal d'Action Social
+2156,21-151657,False,False,False,False,True,False,
+2157,21-151659,False,False,True,False,False,False,
+2158,21-151660,False,False,True,False,False,False,
+2159,21-151662,False,False,False,False,True,False,
+2160,21-151663,False,False,False,False,True,False,
+2161,21-151664,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+2162,21-151666,False,False,True,False,False,False,
+2163,21-151669,False,False,False,False,False,False,Etablissement Public de Santé
+2164,21-151672,False,False,True,False,False,False,
+2165,21-151673,False,False,False,False,True,False,
+2166,21-151674,False,False,True,False,False,False,
+2167,21-151675,False,False,True,False,False,False,
+2168,21-151676,False,False,True,False,False,False,
+2169,21-151677,False,False,False,False,True,False,
+2170,21-151680,False,False,True,False,False,False,
+2171,21-151682,True,False,False,False,False,False,
+2172,21-151683,False,False,False,False,False,False,Collectivité territoriale - Mairie
+2173,21-151684,False,False,True,False,False,False,
+2174,21-151685,False,False,True,False,False,False,
+2175,21-151686,False,False,False,False,False,False,Etablissement public autonome
+2176,21-151689,False,False,True,False,False,False,
+2177,21-151690,False,False,True,False,False,False,
+2178,21-151696,False,False,True,False,False,False,
+2179,21-151701,False,False,False,False,True,False,
+2180,21-151702,False,False,True,False,False,False,
+2181,21-151706,False,False,True,False,False,False,
+2182,21-151707,False,False,False,False,True,False,
+2183,21-151711,False,False,True,False,False,False,
+2184,21-151712,False,False,True,False,False,False,
+2185,21-151714,False,False,False,False,True,False,
+2186,21-151722,False,False,False,False,False,False,SANTE
+2187,21-151724,False,False,False,False,False,False,Société Publique Locale - Personne morale de droit privé
+2188,21-151726,False,False,False,False,False,False,association
+2189,21-151729,False,False,False,False,True,False,
+2190,21-151733,False,False,False,False,True,False,
+2191,21-151739,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+2192,21-151740,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+2193,21-151742,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+2194,21-151751,True,False,False,False,False,False,
+2195,21-151754,True,False,False,False,False,False,
+2196,21-151756,False,False,False,False,False,False,EPIC
+2197,21-151759,False,False,False,False,True,False,
+2198,21-151764,False,False,False,False,False,False,GIE
+2199,21-151765,False,False,True,False,False,False,
+2200,21-151766,False,False,False,False,True,False,
+2201,21-151769,False,False,False,True,False,False,
+2202,21-151772,False,False,True,False,False,False,
+2203,21-151774,False,False,False,False,True,False,
+2204,21-151777,False,False,False,True,False,False,
+2205,21-151778,False,False,False,False,True,False,
+2206,21-151779,False,False,False,False,False,False,autre
+2207,21-151781,False,False,False,True,False,False,
+2208,21-151782,False,False,False,False,False,False,autre
+2209,21-151784,False,False,True,False,False,False,
+2210,21-151785,False,False,True,False,False,False,
+2211,21-151787,False,False,False,False,False,False,Santé
+2212,21-151788,False,False,False,False,True,False,
+2213,21-151789,False,False,True,False,False,False,
+2214,21-151793,False,False,False,False,True,False,
+2215,21-151801,False,False,False,False,False,False,Entité adjudicatrice
+2216,21-151802,False,False,False,False,True,False,
+2217,21-151806,False,False,True,False,False,False,
+2218,21-151808,False,False,False,False,False,False,Protection sociale
+2219,21-151823,False,False,False,False,True,False,
+2220,21-151824,False,False,False,False,True,False,
+2221,21-151828,False,False,False,False,True,False,
+2222,21-151831,False,False,True,False,False,False,
+2223,21-151833,False,False,False,False,False,False,Autre
+2224,21-151836,False,False,False,False,True,False,
+2225,21-151840,False,False,True,False,False,False,
+2226,21-151842,False,False,True,False,False,False,
+2227,21-151846,False,False,False,False,True,False,
+2228,21-151847,False,False,False,False,False,False,CENTRE HOSPITALIER DE PERPIGNAN
+2229,21-151848,False,False,True,False,False,False,
+2230,21-151849,False,False,False,False,True,False,
+2231,21-151852,False,False,True,False,False,False,
+2232,21-151854,False,False,True,False,False,False,
+2233,21-151861,False,False,False,False,False,False,Enseignement supérieur
+2234,21-151864,False,False,False,False,False,False,Enseignement Supérieur
+2235,21-151868,False,False,False,True,False,False,
+2236,21-151869,False,False,False,False,False,False,autre
+2237,21-151872,False,False,True,False,False,False,
+2238,21-151875,False,False,True,False,False,False,
+2239,21-151876,False,False,True,False,False,False,
+2240,21-151877,False,False,False,False,True,False,
+2241,21-151883,False,False,True,False,False,False,
+2242,21-151884,False,False,True,False,False,False,
+2243,21-151885,False,False,False,False,True,False,
+2244,21-151886,False,False,True,False,False,False,
+2245,21-151889,True,False,False,False,False,False,
+2246,21-151892,False,False,False,False,True,False,
+2247,21-151894,False,False,False,False,False,False,Organisme de sécurité sociale
+2248,21-151897,False,False,True,False,False,False,
+2249,21-151899,False,False,True,False,False,False,
+2250,21-151900,False,False,False,False,True,False,
+2251,21-151902,False,False,True,False,False,False,
+2252,21-151904,True,False,False,False,False,False,
+2253,21-151905,True,False,False,False,False,False,
+2254,21-151906,False,False,False,False,False,False,Etablissement Public de Santé
+2255,21-151909,False,False,True,False,False,False,
+2256,21-151915,False,False,False,False,True,False,
+2257,21-151916,True,False,False,False,False,False,
+2258,21-151918,False,False,True,False,False,False,
+2259,21-151920,False,False,False,False,False,False,SEM
+2260,21-151927,False,False,False,False,True,False,
+2261,21-151930,False,False,False,False,True,False,
+2262,21-151934,False,False,True,False,False,False,
+2263,21-151936,False,False,False,True,False,False,
+2264,21-151938,False,False,True,False,False,False,
+2265,21-151941,False,False,False,False,True,False,
+2266,21-151942,False,False,False,False,True,False,
+2267,21-151943,False,False,False,False,True,False,
+2268,21-151946,True,False,False,False,False,False,
+2269,21-151949,False,False,True,False,False,False,
+2270,21-151953,False,False,False,False,True,False,
+2271,21-151958,False,False,True,False,False,False,
+2272,21-151959,False,False,True,False,False,False,
+2273,21-151963,False,False,False,False,True,False,
+2274,21-151964,False,False,False,False,True,False,
+2275,21-151966,False,False,False,False,True,False,
+2276,21-151967,True,False,False,False,False,False,
+2277,21-151968,False,False,False,False,False,False,groupement de commande d'acteurs privés et publics
+2278,21-151969,True,False,False,False,False,False,
+2279,21-151970,False,False,True,False,False,False,
+2280,21-151974,False,False,False,False,False,False,autre
+2281,21-151982,False,False,False,False,True,False,
+2282,21-151984,False,False,False,False,False,False,autre
+2283,21-151988,False,False,True,False,False,False,
+2284,21-151989,False,False,False,False,False,False,EPIC
+2285,21-151990,False,False,False,False,True,False,
+2286,21-151991,False,False,True,False,False,False,
+2287,21-151992,False,False,False,False,True,False,
+2288,21-151993,False,False,False,False,True,False,
+2289,21-151994,False,False,False,False,True,False,
+2290,21-151996,False,False,False,False,True,False,
+2291,21-151997,False,False,False,False,True,False,
+2292,21-151999,True,False,False,False,False,False,
+2293,21-152000,False,False,False,False,False,False,Etablissement public de santé
+2294,21-152003,False,False,False,False,False,False,Etablissement public de santé
+2295,21-152011,False,False,True,False,False,False,
+2296,21-152013,False,False,True,False,False,False,
+2297,21-152016,False,False,False,False,True,False,
+2298,21-152017,False,False,False,False,True,False,
+2299,21-152018,False,False,True,False,False,False,
+2300,21-152019,False,False,False,False,True,False,
+2301,21-152020,False,False,True,False,False,False,
+2302,21-152022,False,False,True,False,False,False,
+2303,21-152023,False,False,False,False,False,False,GIP
+2304,21-152024,False,False,True,False,False,False,
+2305,21-152026,False,False,False,False,True,False,
+2306,21-152028,False,False,False,False,True,False,
+2307,21-152033,False,False,True,False,False,False,
+2308,21-152038,False,False,True,False,False,False,
+2309,21-152039,False,False,True,False,False,False,
+2310,21-152041,False,False,False,False,False,False,Communauté de Communes
+2311,21-152042,False,False,False,False,False,False,autre
+2312,21-152044,True,False,False,False,False,False,
+2313,21-152046,False,False,True,False,False,False,
+2314,21-152052,False,False,True,False,False,False,
+2315,21-152054,False,False,True,False,False,False,
+2316,21-152062,False,False,True,False,False,False,
+2317,21-152063,False,False,True,False,False,False,
+2318,21-152064,False,False,False,False,False,False,Groupement de Coopération Sanitaire UniHA
+2319,21-152065,False,False,True,False,False,False,
+2320,21-152066,False,False,True,False,False,False,
+2321,21-152074,False,False,True,False,False,False,
+2322,21-152075,False,False,True,False,False,False,
+2323,21-152077,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+2324,21-152078,False,False,False,False,True,False,
+2325,21-152080,False,False,True,False,False,False,
+2326,21-152083,False,False,True,False,False,False,
+2327,21-152087,False,False,False,False,True,False,
+2328,21-152094,False,False,False,False,True,False,
+2329,21-152095,False,False,False,True,False,False,
+2330,21-152096,False,False,False,False,True,False,
+2331,21-152097,False,False,False,False,False,False,autre
+2332,21-152101,False,False,False,False,True,False,
+2333,21-152102,False,False,True,False,False,False,
+2334,21-152108,False,False,True,False,False,False,
+2335,21-152110,False,False,False,False,False,False,EHPAD
+2336,21-152111,False,False,True,False,False,False,
+2337,21-152118,True,False,False,False,False,False,
+2338,21-152123,True,False,False,False,False,False,
+2339,21-152126,False,False,False,False,True,False,
+2340,21-152128,False,False,False,False,False,False,Prestations sociales
+2341,21-152129,False,False,False,False,True,False,
+2342,21-152134,False,False,False,False,False,False,Organisme de sécurité sociale
+2343,21-152136,False,False,False,False,True,False,
+2344,21-152137,False,False,False,False,False,False,Chambre de commerce et d'industrie
+2345,21-152142,False,False,True,False,False,False,
+2346,21-152143,True,False,False,False,False,False,
+2347,21-152144,False,False,False,False,True,False,
+2348,21-152145,False,False,True,False,False,False,
+2349,21-152147,False,False,False,False,False,False,Etablissement public de santé
+2350,21-152153,False,False,True,False,False,False,
+2351,21-152165,False,False,False,False,True,False,
+2352,21-152166,False,False,False,False,True,False,
+2353,21-152175,False,False,False,False,False,False,autre
+2354,21-152177,False,False,True,False,False,False,
+2355,21-152180,False,False,True,False,False,False,
+2356,21-152182,False,False,True,False,False,False,
+2357,21-152185,False,False,False,False,False,False,Collectivité territoriale
+2358,21-152186,False,False,False,False,True,False,
+2359,21-152189,False,False,False,False,False,False,collectivité territoriale
+2360,21-152190,False,False,False,False,True,False,
+2361,21-152199,False,False,True,False,False,False,
+2362,21-152203,False,False,False,False,True,False,
+2363,21-152213,False,False,True,False,False,False,
+2364,21-152214,False,False,False,False,True,False,
+2365,21-152215,False,False,False,False,True,False,
+2366,21-152216,False,False,False,False,True,False,
+2367,21-152217,False,False,True,False,False,False,
+2368,21-152218,False,False,True,False,False,False,
+2369,21-152220,False,False,False,False,True,False,
+2370,21-152223,False,False,True,False,False,False,
+2371,21-152224,False,False,False,False,True,False,
+2372,21-152225,False,False,True,False,False,False,
+2373,21-152226,False,False,False,False,False,False,Autre
+2374,21-152227,False,False,False,False,False,False,Enseignement supérieur et recherche
+2375,21-152228,False,False,False,False,False,False,Logement social
+2376,21-152230,False,False,False,False,False,False,EPIC
+2377,21-152232,False,False,True,False,False,False,
+2378,21-152234,True,False,False,False,False,False,
+2379,21-152241,False,False,True,False,False,False,
+2380,21-152245,True,False,False,False,False,False,
+2381,21-152246,False,False,True,False,False,False,
+2382,21-152253,False,False,True,False,False,False,
+2383,21-152254,False,False,True,False,False,False,
+2384,21-152255,False,False,False,False,True,False,
+2385,21-152256,False,False,False,False,False,False,SEM
+2386,21-152257,False,False,True,False,False,False,
+2387,21-152260,False,False,True,False,False,False,
+2388,21-152261,False,False,False,False,True,False,
+2389,21-152262,False,False,False,False,True,False,
+2390,21-152265,False,False,True,False,False,False,
+2391,21-152268,False,False,True,False,False,False,
+2392,21-152269,False,False,True,False,False,False,
+2393,21-152270,False,False,False,False,True,False,
+2394,21-152274,False,False,False,False,True,False,
+2395,21-152275,False,False,False,False,True,False,
+2396,21-152277,False,False,True,False,False,False,
+2397,21-152278,False,False,False,False,True,False,
+2398,21-152281,False,False,True,False,False,False,
+2399,21-152282,False,False,True,False,False,False,
+2400,21-152283,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+2401,21-152286,True,False,False,False,False,False,
+2402,21-152287,False,False,False,False,False,False,Établissement public de santé
+2403,21-152291,False,False,False,False,True,False,
+2404,21-152292,False,False,True,False,False,False,
+2405,21-152293,False,False,False,False,True,False,
+2406,21-152303,False,False,False,False,False,False,Parlement - Sénat
+2407,21-152304,False,False,False,False,True,False,
+2408,21-152305,False,False,False,False,False,False,Etablissement public
+2409,21-152306,False,False,True,False,False,False,
+2410,21-152309,False,False,False,False,False,False,autre
+2411,21-152316,False,False,True,False,False,False,
+2412,21-152319,False,False,False,False,False,False,autre
+2413,21-152320,False,False,True,False,False,False,
+2414,21-152321,False,False,False,False,True,False,
+2415,21-152322,False,False,False,False,True,False,
+2416,21-152326,False,False,True,False,False,False,
+2417,21-152327,False,False,True,False,False,False,
+2418,21-152329,True,False,False,False,False,False,
+2419,21-152330,False,False,False,False,False,False,SAEM
+2420,21-152331,False,False,False,False,True,False,
+2421,21-152332,True,False,False,False,False,False,
+2422,21-152336,True,False,False,False,False,False,
+2423,21-152339,False,False,False,False,True,False,
+2424,21-152347,False,False,True,False,False,False,
+2425,21-152348,False,False,False,False,False,False,autre
+2426,21-152349,False,False,True,False,False,False,
+2427,21-152351,False,False,True,False,False,False,
+2428,21-152352,False,False,True,False,False,False,
+2429,21-152354,False,False,False,False,True,False,
+2430,21-152356,False,False,True,False,False,False,
+2431,21-152359,True,False,False,False,False,False,
+2432,21-152360,True,False,False,False,False,False,
+2433,21-152361,False,False,True,False,False,False,
+2434,21-152365,False,False,False,False,True,False,
+2435,21-152366,False,False,True,False,False,False,
+2436,21-152367,True,False,False,False,False,False,
+2437,21-152371,False,False,True,False,False,False,
+2438,21-152372,True,False,False,False,False,False,
+2439,21-152373,False,False,True,False,False,False,
+2440,21-152374,False,False,False,False,False,False,Etablissement public de santé
+2441,21-152381,False,False,True,False,False,False,
+2442,21-152384,True,False,False,False,False,False,
+2443,21-152387,False,False,True,False,False,False,
+2444,21-152395,False,False,False,True,False,False,
+2445,21-152396,False,False,True,False,False,False,
+2446,21-152399,False,False,False,False,True,False,
+2447,21-152403,False,False,True,False,False,False,
+2448,21-152404,False,False,False,False,True,False,
+2449,21-152406,False,False,True,False,False,False,
+2450,21-152408,False,False,False,False,True,False,
+2451,21-152409,False,False,False,False,True,False,
+2452,21-152410,True,False,False,False,False,False,
+2453,21-152411,False,False,False,False,True,False,
+2454,21-152416,False,False,False,False,True,False,
+2455,21-152417,False,False,True,False,False,False,
+2456,21-152419,False,False,False,False,True,False,
+2457,21-152421,False,False,False,False,True,False,
+2458,21-152424,False,False,False,False,False,False,Etablissement public industriel et commercial
+2459,21-152426,False,False,False,False,False,False,EPIC
+2460,21-152431,False,False,False,False,True,False,
+2461,21-152434,False,False,True,False,False,False,
+2462,21-152438,False,False,True,False,False,False,
+2463,21-152444,False,False,False,False,True,False,
+2464,21-152452,False,False,False,False,False,False,Etablissement public
+2465,21-152453,False,False,True,False,False,False,
+2466,21-152454,False,False,True,False,False,False,
+2467,21-152456,False,False,False,False,False,False,Communauté d'Agglomération Grand Sud Caraïbe
+2468,21-152457,False,False,True,False,False,False,
+2469,21-152467,False,False,True,False,False,False,
+2470,21-152473,False,False,True,False,False,False,
+2471,21-152474,False,False,True,False,False,False,
+2472,21-152476,False,False,True,False,False,False,
+2473,21-152480,False,False,False,False,True,False,
+2474,21-152483,False,False,False,False,True,False,
+2475,21-152487,False,False,True,False,False,False,
+2476,21-152491,True,False,False,False,False,False,
+2477,21-152502,False,False,True,False,False,False,
+2478,21-152508,False,False,True,False,False,False,
+2479,21-152509,False,False,False,False,False,False,Organisme consulaire
+2480,21-152511,True,False,False,False,False,False,
+2481,21-152513,False,False,False,False,False,False,Opérateur de Compétences
+2482,21-152515,False,False,False,False,False,False,Hôpitaux
+2483,21-152517,False,False,False,False,False,False,GIE
+2484,21-152519,False,False,True,False,False,False,
+2485,21-152522,False,False,True,False,False,False,
+2486,21-152528,False,False,False,False,True,False,
+2487,21-152535,False,False,False,False,True,False,
+2488,21-152536,False,False,False,False,True,False,
+2489,21-152539,False,False,True,False,False,False,
+2490,21-152540,False,False,False,False,True,False,
+2491,21-152542,False,False,False,False,True,False,
+2492,21-152545,False,False,True,False,False,False,
+2493,21-152546,False,False,False,False,False,False,Métropole
+2494,21-152550,False,True,False,False,False,False,
+2495,21-152554,False,False,False,False,True,False,
+2496,21-152556,False,False,True,False,False,False,
+2497,21-152558,False,False,False,False,False,False,Santé
+2498,21-152560,False,False,True,False,False,False,
+2499,21-152561,False,False,False,False,True,False,
+2500,21-152562,False,False,False,False,False,False,Organisme de sécurité sociale
+2501,21-152563,False,False,False,False,True,False,
+2502,21-152564,False,False,True,False,False,False,
+2503,21-152566,True,False,False,False,False,False,
+2504,21-152567,False,False,True,False,False,False,
+2505,21-152572,False,False,False,False,True,False,
+2506,21-152573,False,False,False,False,False,False,EPIC
+2507,21-152574,False,False,False,False,True,False,
+2508,21-152577,False,False,True,False,False,False,
+2509,21-152581,False,False,False,False,True,False,
+2510,21-152582,True,False,False,False,False,False,
+2511,21-152585,True,False,False,False,False,False,
+2512,21-152590,False,False,False,False,False,False,Commune
+2513,21-152591,False,False,False,False,True,False,
+2514,21-152595,False,False,True,False,False,False,
+2515,21-152596,False,False,True,False,False,False,
+2516,21-152607,False,False,False,False,True,False,
+2517,21-152608,False,False,True,False,False,False,
+2518,21-152609,False,False,True,False,False,False,
+2519,21-152610,False,False,False,False,True,False,
+2520,21-152616,False,False,True,False,False,False,
+2521,21-152619,False,False,False,False,False,False,Opérateur de Compétences
+2522,21-152620,False,False,True,False,False,False,
+2523,21-152622,False,False,True,False,False,False,
+2524,21-152626,False,False,False,False,True,False,
+2525,21-152627,False,False,True,False,False,False,
+2526,21-152630,False,False,True,False,False,False,
+2527,21-152631,False,False,False,False,True,False,
+2528,21-152634,False,True,False,False,False,False,
+2529,21-152638,True,False,False,False,False,False,
+2530,21-152641,False,False,True,False,False,False,
+2531,21-152643,True,False,False,False,False,False,
+2532,21-152644,False,False,True,False,False,False,
+2533,21-152648,False,False,False,False,False,False,Association
+2534,21-152654,False,False,True,False,False,False,
+2535,21-152657,False,False,False,False,False,False,Institution de retraite complémentaire
+2536,21-152658,True,False,False,False,False,False,
+2537,21-152661,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+2538,21-152662,False,False,True,False,False,False,
+2539,21-152678,False,False,False,False,True,False,
+2540,21-152680,False,False,True,False,False,False,
+2541,21-152682,False,False,False,False,False,False,Collectivité territoriale
+2542,21-152686,False,False,False,False,False,False,Santé
+2543,21-152688,False,False,True,False,False,False,
+2544,21-152689,False,False,False,False,True,False,
+2545,21-152691,False,False,False,False,True,False,
+2546,21-152696,False,False,True,False,False,False,
+2547,21-152699,False,False,True,False,False,False,
+2548,21-152700,False,False,True,False,False,False,
+2549,21-152701,False,False,False,False,False,False,Gestionnaire de l'eau et de l'asainissement.
+2550,21-152707,False,False,True,False,False,False,
+2551,21-152709,False,False,True,False,False,False,
+2552,21-152710,False,False,False,False,True,False,
+2553,21-152713,False,False,True,False,False,False,
+2554,21-152715,False,False,False,False,False,False,EPCI
+2555,21-152717,False,False,True,False,False,False,
+2556,21-152718,True,False,False,False,False,False,
+2557,21-152721,False,False,True,False,False,False,
+2558,21-152725,False,False,False,False,False,False,EPCI
+2559,21-152727,True,False,False,False,False,False,
+2560,21-152733,True,False,False,False,False,False,
+2561,21-152735,False,False,True,False,False,False,
+2562,21-152739,False,False,False,False,False,False,Société Economie Mixte
+2563,21-152740,True,False,False,False,False,False,
+2564,21-152741,False,False,True,False,False,False,
+2565,21-152742,True,False,False,False,False,False,
+2566,21-152748,False,False,False,False,True,False,
+2567,21-152749,False,False,True,False,False,False,
+2568,21-152752,False,False,False,False,True,False,
+2569,21-152756,False,False,True,False,False,False,
+2570,21-152757,False,False,True,False,False,False,
+2571,21-152760,False,False,False,False,True,False,
+2572,21-152762,False,False,True,False,False,False,
+2573,21-152763,False,False,True,False,False,False,
+2574,21-152765,False,False,True,False,False,False,
+2575,21-152767,False,False,False,False,False,False,Collectivité territoriale
+2576,21-152774,False,False,True,False,False,False,
+2577,21-152783,False,False,True,False,False,False,
+2578,21-152786,False,False,True,False,False,False,
+2579,21-152793,False,False,False,False,True,False,
+2580,21-152795,False,False,True,False,False,False,
+2581,21-152798,False,False,False,False,True,False,
+2582,21-152806,False,False,False,False,True,False,
+2583,21-152812,False,False,True,False,False,False,
+2584,21-152814,False,False,False,False,False,False,Etablissement public de santé
+2585,21-152819,False,False,False,False,True,False,
+2586,21-152820,False,False,False,True,False,False,
+2587,21-152821,False,False,True,False,False,False,
+2588,21-152824,False,False,True,False,False,False,
+2589,21-152834,False,False,True,False,False,False,
+2590,21-152836,False,False,False,False,True,False,
+2591,21-152838,False,False,True,False,False,False,
+2592,21-152856,False,False,False,False,False,False,autre
+2593,21-152857,False,False,False,False,True,False,
+2594,21-152858,False,False,False,False,False,False,autre
+2595,21-152859,False,False,True,False,False,False,
+2596,21-152860,False,False,True,False,False,False,
+2597,21-152861,False,False,True,False,False,False,
+2598,21-152862,False,False,False,False,False,False,autre
+2599,21-152864,False,False,True,False,False,False,
+2600,21-152866,False,False,False,False,True,False,
+2601,21-152867,False,False,False,False,True,False,
+2602,21-152869,False,False,False,False,True,False,
+2603,21-152870,False,False,True,False,False,False,
+2604,21-152871,False,False,True,False,False,False,
+2605,21-152874,False,False,True,False,False,False,
+2606,21-152875,False,False,False,False,True,False,
+2607,21-152876,False,False,False,False,False,False,Établissement public de santé - Centre Hospitalier Universitaire
+2608,21-152877,False,False,False,False,True,False,
+2609,21-152879,False,False,False,False,False,False,Etablissement Public de Santé
+2610,21-152881,False,False,True,False,False,False,
+2611,21-152885,True,False,False,False,False,False,
+2612,21-152887,False,False,False,False,True,False,
+2613,21-152888,False,False,False,False,True,False,
+2614,21-152889,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale
+2615,21-152892,False,False,True,False,False,False,
+2616,21-152893,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+2617,21-152894,False,False,False,False,True,False,
+2618,21-152895,False,False,False,False,True,False,
+2619,21-152897,False,False,False,False,True,False,
+2620,21-152906,False,False,True,False,False,False,
+2621,21-152909,False,False,False,False,True,False,
+2622,21-152910,False,False,False,False,False,False,autre
+2623,21-152912,False,False,False,False,False,False,Autre
+2624,21-152913,False,False,False,False,False,False,autre
+2625,21-152914,False,False,False,False,True,False,
+2626,21-152926,False,False,False,False,True,False,
+2627,21-152927,False,False,False,False,True,False,
+2628,21-152929,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+2629,21-152931,False,False,True,False,False,False,
+2630,21-152933,False,False,True,False,False,False,
+2631,21-152934,False,False,False,False,True,False,
+2632,21-152935,False,False,False,False,False,False,autre
+2633,21-152938,False,False,False,False,True,False,
+2634,21-152939,False,False,True,False,False,False,
+2635,21-152942,False,False,False,False,False,False,Etablissement Public de Santé
+2636,21-152943,False,False,True,False,False,False,
+2637,21-152944,False,False,False,False,True,False,
+2638,21-152945,False,False,False,False,True,False,
+2639,21-152946,False,False,True,False,False,False,
+2640,21-152949,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+2641,21-152957,False,False,True,False,False,False,
+2642,21-152960,False,False,False,False,False,False,Etablissement public administratif
+2643,21-152961,False,False,True,False,False,False,
+2644,21-152972,False,False,True,False,False,False,
+2645,21-152974,False,False,False,False,True,False,
+2646,21-152981,False,False,False,False,True,False,
+2647,21-152983,False,False,False,False,True,False,
+2648,21-152991,False,False,True,False,False,False,
+2649,21-152992,False,False,False,False,False,False,autre
+2650,21-152994,False,False,True,False,False,False,
+2651,21-152995,False,False,False,False,True,False,
+2652,21-152998,False,False,True,False,False,False,
+2653,21-153000,False,False,False,False,True,False,
+2654,21-153002,False,False,False,False,False,False,ÉTABLISEMENT PUBLIC DE SANTE
+2655,21-153003,False,False,True,False,False,False,
+2656,21-153007,False,False,False,False,False,False,Syndicat intercommunal d'énergie et de e-communication.
+2657,21-153011,False,False,False,False,False,False,Association
+2658,21-153012,False,False,True,False,False,False,
+2659,21-153016,False,False,True,False,False,False,
+2660,21-153017,True,False,False,False,False,False,
+2661,21-153018,False,False,False,False,True,False,
+2662,21-153020,False,False,True,False,False,False,
+2663,21-153021,False,False,False,False,True,False,
+2664,21-153022,False,False,True,False,False,False,
+2665,21-153023,False,False,False,False,False,False,Régulation des marchés financiers
+2666,21-153024,False,False,True,False,False,False,
+2667,21-153025,False,False,True,False,False,False,
+2668,21-153027,False,False,False,False,False,False,oph
+2669,21-153031,False,False,False,False,False,False,Etablissement Public de Santé
+2670,21-153033,False,False,True,False,False,False,
+2671,21-153037,False,False,False,True,False,False,
+2672,21-153048,False,False,True,False,False,False,
+2673,21-153054,False,False,True,False,False,False,
+2674,21-153056,False,False,False,False,True,False,
+2675,21-153057,False,False,False,False,True,False,
+2676,21-153061,True,False,False,False,False,False,
+2677,21-153064,False,False,False,False,False,False,autre
+2678,21-153070,False,False,False,False,True,False,
+2679,21-153071,False,False,True,False,False,False,
+2680,21-153072,False,False,False,False,True,False,
+2681,21-153074,False,False,False,False,False,False,autre
+2682,21-153078,False,False,False,False,True,False,
+2683,21-153081,True,False,False,False,False,False,
+2684,21-153083,False,False,False,False,True,False,
+2685,21-153085,False,False,False,False,False,False,Etablissements publics de santé
+2686,21-153087,True,False,False,False,False,False,
+2687,21-153092,False,False,True,False,False,False,
+2688,21-153096,False,False,True,False,False,False,
+2689,21-153099,False,False,True,False,False,False,
+2690,21-153102,False,False,False,False,False,False,Etablissement public territorial
+2691,21-153105,False,False,False,False,False,False,Etablissement de santé
+2692,21-153106,False,False,True,False,False,False,
+2693,21-153107,False,False,False,False,True,False,
+2694,21-153108,False,False,True,False,False,False,
+2695,21-153110,False,False,True,False,False,False,
+2696,21-153111,False,False,False,False,True,False,
+2697,21-153118,False,False,True,False,False,False,
+2698,21-153121,False,False,False,False,False,False,Établissement public de Coopération Intercommunale
+2699,21-153124,False,False,True,False,False,False,
+2700,21-153125,False,False,False,False,False,False,LOGEMENT SOCIAL
+2701,21-153127,False,False,False,False,True,False,
+2702,21-153128,False,False,False,False,True,False,
+2703,21-153129,True,False,False,False,False,False,
+2704,21-153130,False,False,True,False,False,False,
+2705,21-153133,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale (EPCI)
+2706,21-153140,False,False,True,False,False,False,
+2707,21-153144,False,False,False,False,True,False,
+2708,21-153145,False,False,False,False,True,False,
+2709,21-153147,False,False,True,False,False,False,
+2710,21-153151,False,False,True,False,False,False,
+2711,21-153152,False,False,True,False,False,False,
+2712,21-153157,False,False,True,False,False,False,
+2713,21-153158,False,False,False,False,True,False,
+2714,21-153160,False,False,True,False,False,False,
+2715,21-153164,False,False,False,False,True,False,
+2716,21-153167,False,False,True,False,False,False,
+2717,21-153169,False,False,True,False,False,False,
+2718,21-153170,False,False,True,False,False,False,
+2719,21-153171,False,False,False,False,False,False,autre
+2720,21-153173,False,False,False,False,False,False,Parlement
+2721,21-153174,False,False,True,False,False,False,
+2722,21-153176,False,False,True,False,False,False,
+2723,21-153177,False,False,True,False,False,False,
+2724,21-153178,False,False,True,False,False,False,
+2725,21-153182,False,False,True,False,False,False,
+2726,21-153189,True,False,False,False,False,False,
+2727,21-153194,False,False,False,False,False,False,Société d'économie mixte
+2728,21-153195,False,False,False,False,True,False,
+2729,21-153197,False,False,False,False,True,False,
+2730,21-153198,False,False,False,False,False,False,collectivite territoriale
+2731,21-153199,False,False,False,False,True,False,
+2732,21-153201,False,False,False,False,True,False,
+2733,21-153204,False,False,True,False,False,False,
+2734,21-153205,False,False,False,False,True,False,
+2735,21-153216,False,False,True,False,False,False,
+2736,21-153218,False,False,False,False,True,False,
+2737,21-153222,False,False,True,False,False,False,
+2738,21-153223,False,False,True,False,False,False,
+2739,21-153224,False,False,True,False,False,False,
+2740,21-153225,False,False,False,False,True,False,
+2741,21-153232,False,False,True,False,False,False,
+2742,21-153234,False,False,False,False,False,False,autre
+2743,21-153235,False,False,True,False,False,False,
+2744,21-153241,False,False,False,False,True,False,
+2745,21-153243,False,False,False,False,True,False,
+2746,21-153244,False,False,False,False,True,False,
+2747,21-153246,False,False,True,False,False,False,
+2748,21-153249,False,False,False,False,True,False,
+2749,21-153250,False,False,False,False,False,False,Syndicat mixte ouvert
+2750,21-153259,False,False,False,False,True,False,
+2751,21-153271,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+2752,21-153273,False,False,False,False,False,False,Etablissement public de santé
+2753,21-153274,False,False,False,False,True,False,
+2754,21-153276,False,False,False,False,True,False,
+2755,21-153281,False,False,False,False,True,False,
+2756,21-153282,False,False,True,False,False,False,
+2757,21-153283,False,False,False,False,True,False,
+2758,21-153286,False,False,False,True,False,False,
+2759,21-153287,False,False,True,False,False,False,
+2760,21-153291,False,False,True,False,False,False,
+2761,21-153293,False,False,False,False,False,False,Santé
+2762,21-153294,False,False,False,False,False,False,EPIC
+2763,21-153297,False,False,True,False,False,False,
+2764,21-153299,False,False,True,False,False,False,
+2765,21-153304,False,False,False,False,False,False,ASA
+2766,21-153305,False,False,False,False,True,False,
+2767,21-153308,False,False,True,False,False,False,
+2768,21-153312,False,False,False,False,False,False,EPCI
+2769,21-153315,True,False,False,False,False,False,
+2770,21-153321,True,False,False,False,False,False,
+2771,21-153322,False,False,True,False,False,False,
+2772,21-153332,False,False,False,False,False,False,Établissement public administratif
+2773,21-153334,False,False,True,False,False,False,
+2774,21-153336,False,False,True,False,False,False,
+2775,21-153338,False,False,False,False,False,False,activitamp;eacute; portuaire
+2776,21-153345,True,False,False,False,False,False,
+2777,21-153346,False,False,False,False,False,False,HOPITAUX
+2778,21-153347,False,False,False,False,True,False,
+2779,21-153349,True,False,False,False,False,False,
+2780,21-153350,False,False,True,False,False,False,
+2781,21-153354,True,False,False,False,False,False,
+2782,21-153355,False,False,True,False,False,False,
+2783,21-153362,False,False,True,False,False,False,
+2784,21-153363,False,False,False,False,False,False,EPCI
+2785,21-153367,False,False,False,False,False,False,Département
+2786,21-153368,False,False,False,False,False,False,EPCI
+2787,21-153369,False,False,True,False,False,False,
+2788,21-153371,False,False,True,False,False,False,
+2789,21-153373,False,False,False,True,False,False,
+2790,21-153375,False,False,False,False,False,False,autre
+2791,21-153376,False,False,True,False,False,False,
+2792,21-153377,False,False,True,False,False,False,
+2793,21-153378,False,False,False,False,False,False,Services généraux des administrations publiques.
+2794,21-153379,False,False,True,False,False,False,
+2795,21-153380,False,False,False,False,False,False,autre
+2796,21-153381,False,False,True,False,False,False,
+2797,21-153385,False,False,True,False,False,False,
+2798,21-153386,False,False,False,False,False,False,collectivité territoriale
+2799,21-153389,False,False,True,False,False,False,
+2800,21-153393,False,False,False,False,False,False,Etablissement public de santé
+2801,21-153395,False,False,True,False,False,False,
+2802,21-153399,False,False,True,False,False,False,
+2803,21-153401,False,False,False,False,True,False,
+2804,21-153402,False,False,True,False,False,False,
+2805,21-153405,False,False,True,False,False,False,
+2806,21-153408,False,False,False,False,True,False,
+2807,21-153409,False,False,False,False,True,False,
+2808,21-153410,True,False,False,False,False,False,
+2809,21-153411,False,False,False,False,False,False,EPCI
+2810,21-153414,False,False,False,False,True,False,
+2811,21-153416,False,False,True,False,False,False,
+2812,21-153417,True,False,False,False,False,False,
+2813,21-153419,False,False,True,False,False,False,
+2814,21-153425,False,False,True,False,False,False,
+2815,21-153428,False,False,True,False,False,False,
+2816,21-153429,False,False,False,False,True,False,
+2817,21-153431,False,False,True,False,False,False,
+2818,21-153432,False,False,False,False,False,False,université
+2819,21-153433,False,False,False,False,True,False,
+2820,21-153434,False,False,True,False,False,False,
+2821,21-153436,False,False,False,False,True,False,
+2822,21-153439,False,False,True,False,False,False,
+2823,21-153449,False,False,True,False,False,False,
+2824,21-153453,False,False,True,False,False,False,
+2825,21-153456,False,False,True,False,False,False,
+2826,21-153461,False,False,True,False,False,False,
+2827,21-153463,False,False,True,False,False,False,
+2828,21-153464,False,False,True,False,False,False,
+2829,21-153465,False,False,True,False,False,False,
+2830,21-153466,False,False,True,False,False,False,
+2831,21-153467,False,False,True,False,False,False,
+2832,21-153470,False,False,False,False,False,False,EPSCP
+2833,21-153473,False,False,False,False,True,False,
+2834,21-153475,False,False,False,False,False,False,Commune
+2835,21-153477,False,False,False,False,True,False,
+2836,21-153482,False,False,False,False,False,False,EPSCP
+2837,21-153486,False,False,True,False,False,False,
+2838,21-153487,False,False,False,False,False,False,Établissement public de santé
+2839,21-153491,False,False,True,False,False,False,
+2840,21-153492,False,False,True,False,False,False,
+2841,21-153493,False,False,False,False,True,False,
+2842,21-153495,False,False,False,False,True,False,
+2843,21-153498,False,False,True,False,False,False,
+2844,21-153499,False,False,False,False,True,False,
+2845,21-153505,False,False,False,False,True,False,
+2846,21-153508,False,False,False,True,False,False,
+2847,21-153511,False,False,True,False,False,False,
+2848,21-153514,False,False,False,False,False,False,autre
+2849,21-153517,False,False,False,False,False,False,Collectivité territoriale
+2850,21-153518,False,False,True,False,False,False,
+2851,21-153519,False,False,True,False,False,False,
+2852,21-153522,False,False,True,False,False,False,
+2853,21-153523,True,False,False,False,False,False,
+2854,21-153526,False,False,False,False,False,False,Centrale d'achat
+2855,21-153528,False,False,True,False,False,False,
+2856,21-153532,False,False,False,False,True,False,
+2857,21-153533,False,False,False,False,True,False,
+2858,21-153534,False,False,False,False,True,False,
+2859,21-153535,False,False,False,False,False,False,SANTE
+2860,21-153539,False,False,False,False,True,False,
+2861,21-153544,True,False,False,False,False,False,
+2862,21-153548,False,False,False,False,False,False,OPH
+2863,21-153549,False,False,True,False,False,False,
+2864,21-153554,False,False,True,False,False,False,
+2865,21-153555,False,False,True,False,False,False,
+2866,21-153559,False,False,False,True,False,False,
+2867,21-153566,False,False,True,False,False,False,
+2868,21-153568,False,False,False,False,True,False,
+2869,21-153570,False,False,False,False,True,False,
+2870,21-153572,False,False,False,False,True,False,
+2871,21-153576,False,False,False,False,True,False,
+2872,21-153577,False,False,False,True,False,False,
+2873,21-153578,False,False,False,False,True,False,
+2874,21-153579,False,False,False,False,True,False,
+2875,21-153580,False,False,True,False,False,False,
+2876,21-153582,False,False,True,False,False,False,
+2877,21-153589,False,False,False,False,False,False,Organisme de sécurité sociale
+2878,21-153590,True,False,False,False,False,False,
+2879,21-153591,False,False,True,False,False,False,
+2880,21-153592,False,False,False,False,True,False,
+2881,21-153596,False,False,True,False,False,False,
+2882,21-153603,False,False,False,False,True,False,
+2883,21-153608,True,False,False,False,False,False,
+2884,21-153610,False,False,True,False,False,False,
+2885,21-153611,False,False,True,False,False,False,
+2886,21-153614,False,False,False,False,False,False,Etablissement public administratif
+2887,21-153617,False,False,True,False,False,False,
+2888,21-153621,False,False,True,False,False,False,
+2889,21-153625,False,False,False,False,True,False,
+2890,21-153626,False,False,False,False,False,False,Collectivité territoriale
+2891,21-153629,False,False,False,False,True,False,
+2892,21-153632,False,False,False,False,False,False,Services généraux des administrations publiques.
+2893,21-153634,False,False,True,False,False,False,
+2894,21-153640,False,False,False,True,False,False,
+2895,21-153643,False,False,False,False,True,False,
+2896,21-153644,False,False,False,True,False,False,
+2897,21-153646,False,False,True,False,False,False,
+2898,21-153649,False,False,True,False,False,False,
+2899,21-153651,False,False,True,False,False,False,
+2900,21-153653,False,False,False,False,True,False,
+2901,21-153654,False,False,True,False,False,False,
+2902,21-153658,False,False,True,False,False,False,
+2903,21-153661,False,False,False,False,True,False,
+2904,21-153663,False,False,False,False,False,False,Commune
+2905,21-153667,False,False,True,False,False,False,
+2906,21-153668,False,False,False,False,False,False,Établissement public de l'enseignement et de la recherche
+2907,21-153669,False,False,False,True,False,False,
+2908,21-153670,False,False,False,False,False,False,Organisme privé de sécurité sociale
+2909,21-153672,False,False,False,False,False,False,caisse de sécurité sociale
+2910,21-153674,True,False,False,False,False,False,
+2911,21-153679,False,False,False,False,True,False,
+2912,21-153683,False,False,False,False,False,False,Protection sociale
+2913,21-153688,True,False,False,False,False,False,
+2914,21-153689,True,False,False,False,False,False,
+2915,21-153690,False,False,True,False,False,False,
+2916,21-153692,False,False,False,False,True,False,
+2917,21-153693,False,False,True,False,False,False,
+2918,21-153694,False,False,True,False,False,False,
+2919,21-153701,False,False,True,False,False,False,
+2920,21-153702,False,False,False,False,True,False,
+2921,21-153709,False,False,False,False,True,False,
+2922,21-153710,False,False,False,False,True,False,
+2923,21-153711,False,False,True,False,False,False,
+2924,21-153715,False,False,True,False,False,False,
+2925,21-153717,False,False,False,False,False,False,Syndicat mixte d'alimentation en eau potable
+2926,21-153718,False,False,True,False,False,False,
+2927,21-153719,False,False,False,False,False,False,chu
+2928,21-153721,False,False,True,False,False,False,
+2929,21-153722,False,False,True,False,False,False,
+2930,21-153726,False,False,False,False,False,False,Régulation des marchés financiers
+2931,21-153727,True,False,False,False,False,False,
+2932,21-153728,False,False,False,False,True,False,
+2933,21-153734,False,False,True,False,False,False,
+2934,21-153736,False,False,False,False,False,False,PALAIS CONSULAIRE
+2935,21-153737,False,False,False,False,False,False,Régulation des marchés financiers
+2936,21-153738,False,True,False,False,False,False,
+2937,21-153742,False,False,True,False,False,False,
+2938,21-153743,False,False,True,False,False,False,
+2939,21-153744,False,False,False,False,False,False,PALAIS CONSULAIRE
+2940,21-153750,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+2941,21-153758,False,False,True,False,False,False,
+2942,21-153764,False,False,True,False,False,False,
+2943,21-153765,False,False,False,False,True,False,
+2944,21-153771,False,False,False,False,True,False,
+2945,21-153775,False,False,False,False,True,False,
+2946,21-153776,False,False,True,False,False,False,
+2947,21-153777,False,False,True,False,False,False,
+2948,21-153780,True,False,False,False,False,False,
+2949,21-153785,False,False,True,False,False,False,
+2950,21-153791,False,False,False,False,True,False,
+2951,21-153792,False,False,False,False,True,False,
+2952,21-153793,False,False,True,False,False,False,
+2953,21-153795,False,False,False,False,False,False,Opérateur de compétences
+2954,21-153796,False,False,True,False,False,False,
+2955,21-153800,True,False,False,False,False,False,
+2956,21-153804,True,False,False,False,False,False,
+2957,21-153818,False,False,False,False,True,False,
+2958,21-153820,False,False,False,False,True,False,
+2959,21-153822,False,False,False,False,True,False,
+2960,21-153824,False,False,False,False,True,False,
+2961,21-153825,False,False,False,False,True,False,
+2962,21-153832,True,False,False,False,False,False,
+2963,21-153833,False,False,False,False,True,False,
+2964,21-153836,True,False,False,False,False,False,
+2965,21-153841,False,False,True,False,False,False,
+2966,21-153843,False,False,False,False,True,False,
+2967,21-153845,False,False,True,False,False,False,
+2968,21-153846,False,False,False,False,True,False,
+2969,21-153847,False,False,True,False,False,False,
+2970,21-153848,False,False,True,False,False,False,
+2971,21-153849,False,False,False,False,False,False,Autre organisme privé
+2972,21-153850,False,False,True,False,False,False,
+2973,21-153858,False,False,False,False,False,False,autre
+2974,21-153859,False,False,False,False,False,False,autre
+2975,21-153861,False,False,True,False,False,False,
+2976,21-153867,False,False,False,False,True,False,
+2977,21-153868,False,False,True,False,False,False,
+2978,21-153869,False,False,False,False,True,False,
+2979,21-153871,False,False,False,False,False,False,Métropole
+2980,21-153872,False,False,False,False,False,False,Etablissement public de santé
+2981,21-153877,False,False,False,False,True,False,
+2982,21-153878,False,False,False,False,False,False,Société d'économie mixte
+2983,21-153880,False,False,True,False,False,False,
+2984,21-153881,False,False,True,False,False,False,
+2985,21-153887,False,False,False,False,True,False,
+2986,21-153892,False,False,False,False,False,False,OPH
+2987,21-153894,False,False,False,False,True,False,
+2988,21-153896,False,False,False,False,False,False,Restauration collective
+2989,21-153897,False,False,True,False,False,False,
+2990,21-153899,False,False,False,False,False,False,SAEM Aménagement et construction
+2991,21-153901,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+2992,21-153902,False,False,True,False,False,False,
+2993,21-153903,False,False,True,False,False,False,
+2994,21-153904,False,False,False,False,True,False,
+2995,21-153905,False,False,False,False,False,False,ASA
+2996,21-153906,False,False,True,False,False,False,
+2997,21-153907,False,False,False,False,True,False,
+2998,21-153908,False,False,False,False,False,False,autre
+2999,21-153910,False,False,True,False,False,False,
+3000,21-153913,False,False,True,False,False,False,
+3001,21-153915,False,False,True,False,False,False,
+3002,21-153916,False,False,False,False,False,False,autre
+3003,21-153921,False,False,False,False,True,False,
+3004,21-153922,False,False,True,False,False,False,
+3005,21-153924,False,False,True,False,False,False,
+3006,21-153931,False,False,True,False,False,False,
+3007,21-153932,False,False,False,False,False,False,autre
+3008,21-153933,False,False,False,False,False,False,autre
+3009,21-153934,False,False,False,False,False,False,autre
+3010,21-153936,False,False,True,False,False,False,
+3011,21-153937,False,False,False,False,True,False,
+3012,21-153942,False,False,True,False,False,False,
+3013,21-153944,True,False,False,False,False,False,
+3014,21-153947,False,False,False,False,False,False,Etablissement public territorial
+3015,21-153953,False,False,False,False,False,False,Personne morale de droit privé
+3016,21-153957,False,False,True,False,False,False,
+3017,21-153959,True,False,False,False,False,False,
+3018,21-153961,False,False,False,False,False,False,autre
+3019,21-153963,False,False,True,False,False,False,
+3020,21-153964,False,False,True,False,False,False,
+3021,21-153968,False,False,True,False,False,False,
+3022,21-153972,False,False,False,True,False,False,
+3023,21-153975,True,False,False,False,False,False,
+3024,21-153977,False,False,True,False,False,False,
+3025,21-153982,False,False,True,False,False,False,
+3026,21-153983,False,False,False,False,True,False,
+3027,21-153984,False,False,True,False,False,False,
+3028,21-153985,False,False,False,False,True,False,
+3029,21-153989,False,False,False,False,True,False,
+3030,21-153990,False,False,True,False,False,False,
+3031,21-153994,False,False,True,False,False,False,
+3032,21-153997,False,False,False,False,False,False,autre
+3033,21-154007,False,False,True,False,False,False,
+3034,21-154008,False,False,False,False,False,False,Agence/office régional(e) ou local(e)
+3035,21-154010,False,False,True,False,False,False,
+3036,21-154019,False,False,False,False,False,False,collectivité territoriale
+3037,21-154022,False,False,False,False,True,False,
+3038,21-154023,False,False,True,False,False,False,
+3039,21-154025,False,False,True,False,False,False,
+3040,21-154027,False,False,True,False,False,False,
+3041,21-154039,False,False,False,False,True,False,
+3042,21-154047,False,False,False,False,True,False,
+3043,21-154051,True,False,False,False,False,False,
+3044,21-154052,False,False,False,False,False,False,Établissement public de coopération intercommunale
+3045,21-154055,False,False,False,False,True,False,
+3046,21-154058,True,False,False,False,False,False,
+3047,21-154060,False,False,False,False,False,False,Etablissement Public de Santé
+3048,21-154061,False,False,False,False,True,False,
+3049,21-154063,False,False,False,False,True,False,
+3050,21-154070,False,False,True,False,False,False,
+3051,21-154071,False,False,True,False,False,False,
+3052,21-154073,False,False,False,False,False,False,Union des caisses nationales de Sécurité sociale (UCANSS)
+3053,21-154074,False,False,False,False,False,False,Etablissement public de l'Etat dans le domaine de la santé
+3054,21-154077,False,False,False,False,True,False,
+3055,21-154081,False,False,False,False,True,False,
+3056,21-154082,False,False,False,False,True,False,
+3057,21-154083,False,False,True,False,False,False,
+3058,21-154085,False,False,False,False,False,False,établissement intercommunal
+3059,21-154086,False,False,False,False,True,False,
+3060,21-154089,False,False,False,False,False,False,Centrale d'Achat Public
+3061,21-154090,False,False,True,False,False,False,
+3062,21-154091,False,False,True,False,False,False,
+3063,21-154093,False,False,False,False,True,False,
+3064,21-154094,True,False,False,False,False,False,
+3065,21-154095,False,False,True,False,False,False,
+3066,21-154098,False,False,True,False,False,False,
+3067,21-154099,False,False,False,False,True,False,
+3068,21-154102,False,False,False,False,True,False,
+3069,21-154103,False,False,True,False,False,False,
+3070,21-154114,False,False,True,False,False,False,
+3071,21-154116,False,False,False,False,False,False,OSS
+3072,21-154121,False,False,False,False,True,False,
+3073,21-154123,False,False,False,False,True,False,
+3074,21-154124,False,False,True,False,False,False,
+3075,21-154128,False,False,False,False,True,False,
+3076,21-154131,False,False,True,False,False,False,
+3077,21-154133,False,False,False,False,False,False,autre
+3078,21-154134,False,False,True,False,False,False,
+3079,21-154135,False,False,True,False,False,False,
+3080,21-154141,False,False,True,False,False,False,
+3081,21-154143,True,False,False,False,False,False,
+3082,21-154157,False,False,False,False,True,False,
+3083,21-154161,False,False,True,False,False,False,
+3084,21-154163,False,False,False,False,True,False,
+3085,21-154164,False,False,True,False,False,False,
+3086,21-154165,False,False,False,False,False,False,PALAIS CONSULAIRE
+3087,21-154166,False,False,False,False,False,False,EPCI
+3088,21-154167,False,False,False,False,False,False,EPCI
+3089,21-154171,False,False,False,False,True,False,
+3090,21-154172,False,False,True,False,False,False,
+3091,21-154173,False,False,True,False,False,False,
+3092,21-154179,False,False,True,False,False,False,
+3093,21-154184,False,False,True,False,False,False,
+3094,21-154185,True,False,False,False,False,False,
+3095,21-154189,False,False,False,False,True,False,
+3096,21-154198,False,False,False,False,False,False,autre
+3097,21-154203,False,False,False,False,True,False,
+3098,21-154204,False,False,False,False,False,False,autre
+3099,21-154207,False,False,False,False,True,False,
+3100,21-154208,False,False,True,False,False,False,
+3101,21-154210,False,False,False,False,True,False,
+3102,21-154211,False,False,True,False,False,False,
+3103,21-154213,True,False,False,False,False,False,
+3104,21-154216,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+3105,21-154218,False,False,True,False,False,False,
+3106,21-154221,False,False,False,False,True,False,
+3107,21-154223,True,False,False,False,False,False,
+3108,21-154227,False,False,False,False,False,False,Syndicat Mixte Informatique
+3109,21-154231,False,False,True,False,False,False,
+3110,21-154232,False,False,False,False,True,False,
+3111,21-154233,False,False,True,False,False,False,
+3112,21-154235,False,False,True,False,False,False,
+3113,21-154237,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+3114,21-154241,False,False,False,False,True,False,
+3115,21-154243,False,False,True,False,False,False,
+3116,21-154247,False,False,False,False,False,False,ETABLISSEMENT DE SANTE
+3117,21-154249,False,False,False,False,True,False,
+3118,21-154250,False,False,False,False,False,False,CCAS
+3119,21-154251,True,False,False,False,False,False,
+3120,21-154258,False,False,True,False,False,False,
+3121,21-154264,False,False,True,False,False,False,
+3122,21-154266,False,False,True,False,False,False,
+3123,21-154268,False,False,False,False,True,False,
+3124,21-154271,False,False,False,False,True,False,
+3125,21-154274,False,False,False,False,False,False,autre
+3126,21-154275,False,False,True,False,False,False,
+3127,21-154276,False,False,True,False,False,False,
+3128,21-154277,False,False,True,False,False,False,
+3129,21-154278,False,False,False,False,True,False,
+3130,21-154280,False,False,False,False,False,False,Santé
+3131,21-154283,False,False,False,False,False,False,Santé
+3132,21-154284,False,False,True,False,False,False,
+3133,21-154286,True,False,False,False,False,False,
+3134,21-154289,False,False,False,True,False,False,
+3135,21-154291,False,False,False,False,False,False,SAEM
+3136,21-154304,False,False,True,False,False,False,
+3137,21-154306,False,False,True,False,False,False,
+3138,21-154307,False,False,False,False,False,False,SPL
+3139,21-154310,False,False,False,False,True,False,
+3140,21-154311,False,False,True,False,False,False,
+3141,21-154313,False,False,False,False,True,False,
+3142,21-154318,False,False,True,False,False,False,
+3143,21-154319,False,False,True,False,False,False,
+3144,21-154324,False,False,False,False,False,False,EPA
+3145,21-154326,False,False,True,False,False,False,
+3146,21-154327,False,False,False,False,True,False,
+3147,21-154330,True,False,False,False,False,False,
+3148,21-154338,False,False,False,False,False,False,EPCI
+3149,21-154345,False,False,False,False,False,False,SAEM
+3150,21-154353,False,False,False,False,False,False,EPIC
+3151,21-154355,False,False,False,True,False,False,
+3152,21-154356,True,False,False,False,False,False,
+3153,21-154362,False,False,True,False,False,False,
+3154,21-154366,False,False,False,False,False,False,SANTE
+3155,21-154369,False,False,False,False,False,False,Logement social
+3156,21-154371,False,False,False,False,False,False,Société d'Economie Mixte (SEM)
+3157,21-154381,False,False,False,False,False,False,EPS
+3158,21-154382,False,False,False,False,True,False,
+3159,21-154386,False,False,False,False,True,False,
+3160,21-154388,False,False,False,False,True,False,
+3161,21-154389,True,False,False,False,False,False,
+3162,21-154393,True,False,False,False,False,False,
+3163,21-154396,False,False,True,False,False,False,
+3164,21-154398,False,False,False,False,False,False,Santé
+3165,21-154400,False,False,True,False,False,False,
+3166,21-154401,False,False,False,False,True,False,
+3167,21-154403,False,False,True,False,False,False,
+3168,21-154404,False,False,False,False,False,False,Assemblée Parlementaire
+3169,21-154412,False,False,False,False,True,False,
+3170,21-154417,False,False,False,False,True,False,
+3171,21-154420,False,False,False,True,False,False,
+3172,21-154428,False,False,True,False,False,False,
+3173,21-154429,False,False,True,False,False,False,
+3174,21-154430,False,False,False,False,True,False,
+3175,21-154431,False,False,False,False,True,False,
+3176,21-154433,False,False,False,False,True,False,
+3177,21-154434,False,False,False,False,False,False,Personne moral de droit privé
+3178,21-154437,False,False,False,False,False,False,commune
+3179,21-154439,False,False,False,False,True,False,
+3180,21-154440,False,False,False,True,False,False,
+3181,21-154441,False,False,False,False,False,False,EPIC OFFICE DE TOURISME
+3182,21-154447,False,False,False,False,False,False,Etablissement public national
+3183,21-154450,False,False,False,False,True,False,
+3184,21-154451,False,False,False,False,True,False,
+3185,21-154453,False,False,False,False,True,False,
+3186,21-154454,True,False,False,False,False,False,
+3187,21-154457,False,False,False,False,True,False,
+3188,21-154458,False,False,True,False,False,False,
+3189,21-154463,False,False,False,False,False,False,EPCI
+3190,21-154465,False,False,False,False,False,False,Commune
+3191,21-154468,True,False,False,False,False,False,
+3192,21-154469,False,False,True,False,False,False,
+3193,21-154470,True,False,False,False,False,False,
+3194,21-154473,False,False,True,False,False,False,
+3195,21-154474,False,False,True,False,False,False,
+3196,21-154475,False,False,True,False,False,False,
+3197,21-154479,False,False,True,False,False,False,
+3198,21-154481,False,False,True,False,False,False,
+3199,21-154482,False,False,True,False,False,False,
+3200,21-154483,False,False,False,False,True,False,
+3201,21-154485,False,False,False,False,False,False,Etablissement Public de Santé
+3202,21-154491,False,False,False,False,True,False,
+3203,21-154492,False,False,False,False,True,False,
+3204,21-154494,False,False,False,False,True,False,
+3205,21-154495,False,False,False,False,True,False,
+3206,21-154498,False,False,False,False,True,False,
+3207,21-154499,False,False,True,False,False,False,
+3208,21-154500,False,False,False,False,False,False,Société d'Economie Mixte - Personne morale de droit privé
+3209,21-154503,False,False,False,False,False,False,EPCI
+3210,21-154504,True,False,False,False,False,False,
+3211,21-154505,False,False,False,False,True,False,
+3212,21-154510,False,False,True,False,False,False,
+3213,21-154511,False,False,False,False,False,False,Etablissement public de santé
+3214,21-154512,False,False,True,False,False,False,
+3215,21-154517,False,False,True,False,False,False,
+3216,21-154519,False,False,True,False,False,False,
+3217,21-154521,False,False,False,False,False,False,Etablissement public de coopération culturelle
+3218,21-154522,False,False,True,False,False,False,
+3219,21-154523,False,False,False,False,False,False,EPCI
+3220,21-154526,False,False,True,False,False,False,
+3221,21-154533,False,False,True,False,False,False,
+3222,21-154534,False,False,False,False,True,False,
+3223,21-154539,False,False,True,False,False,False,
+3224,21-154541,True,False,False,False,False,False,
+3225,21-154543,False,False,True,False,False,False,
+3226,21-154544,False,False,False,False,True,False,
+3227,21-154547,False,False,True,False,False,False,
+3228,21-154551,False,False,True,False,False,False,
+3229,21-154552,False,False,False,False,False,False,autre
+3230,21-154554,False,False,True,False,False,False,
+3231,21-154557,False,False,True,False,False,False,
+3232,21-154558,False,False,True,False,False,False,
+3233,21-154561,False,False,True,False,False,False,
+3234,21-154562,False,False,True,False,False,False,
+3235,21-154565,False,False,True,False,False,False,
+3236,21-154568,False,False,True,False,False,False,
+3237,21-154571,False,False,False,False,False,False,Gestion Musée de la Romanité à Nîmes
+3238,21-154572,False,False,False,False,False,False,Etablissement public de santé
+3239,21-154573,False,False,True,False,False,False,
+3240,21-154576,False,False,False,True,False,False,
+3241,21-154577,False,False,False,False,True,False,
+3242,21-154578,False,False,False,False,True,False,
+3243,21-154580,False,False,False,False,False,False,Société d'Economie Mixte - Personne morale de droit privé
+3244,21-154581,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+3245,21-154587,False,False,False,True,False,False,
+3246,21-154590,False,False,True,False,False,False,
+3247,21-154592,False,False,True,False,False,False,
+3248,21-154594,False,False,False,False,True,False,
+3249,21-154595,False,False,False,False,True,False,
+3250,21-154596,True,False,False,False,False,False,
+3251,21-154599,False,False,False,False,True,False,
+3252,21-154600,False,False,False,False,False,False,Association loi 1901
+3253,21-154601,False,False,False,False,True,False,
+3254,21-154603,False,False,True,False,False,False,
+3255,21-154604,False,False,True,False,False,False,
+3256,21-154605,False,False,True,False,False,False,
+3257,21-154608,False,False,False,False,True,False,
+3258,21-154616,False,False,True,False,False,False,
+3259,21-154621,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+3260,21-154624,True,False,False,False,False,False,
+3261,21-154637,False,False,True,False,False,False,
+3262,21-154647,False,False,True,False,False,False,
+3263,21-154654,False,False,True,False,False,False,
+3264,21-154656,False,False,True,False,False,False,
+3265,21-154657,False,False,False,False,False,False,Société Publique Locale (SPL)
+3266,21-154659,False,False,False,False,True,False,
+3267,21-154663,False,False,True,False,False,False,
+3268,21-154668,False,False,True,False,False,False,
+3269,21-154671,False,False,True,False,False,False,
+3270,21-154673,False,False,False,False,True,False,
+3271,21-154675,False,False,True,False,False,False,
+3272,21-154680,False,False,True,False,False,False,
+3273,21-154683,True,False,False,False,False,False,
+3274,21-154687,False,False,False,False,False,False,CHU
+3275,21-154692,False,False,False,False,False,False,Etablissement public administratif
+3276,21-154694,False,False,True,False,False,False,
+3277,21-154701,False,False,False,False,True,False,
+3278,21-154702,False,False,False,False,False,False,Métropole
+3279,21-154707,False,False,True,False,False,False,
+3280,21-154710,True,False,False,False,False,False,
+3281,21-154713,False,False,False,False,True,False,
+3282,21-154719,False,False,True,False,False,False,
+3283,21-154723,False,False,True,False,False,False,
+3284,21-154726,False,False,True,False,False,False,
+3285,21-154727,False,False,False,False,True,False,
+3286,21-154733,False,False,False,True,False,False,
+3287,21-154734,False,False,True,False,False,False,
+3288,21-154735,False,False,True,False,False,False,
+3289,21-154744,False,False,False,False,True,False,
+3290,21-154750,False,False,True,False,False,False,
+3291,21-154755,False,False,True,False,False,False,
+3292,21-154757,False,False,True,False,False,False,
+3293,21-154760,False,False,False,False,False,False,Association
+3294,21-154765,False,False,False,False,False,False,Centre Hospitalier
+3295,21-154767,True,False,False,False,False,False,
+3296,21-154768,False,False,False,False,True,False,
+3297,21-154770,False,False,False,False,False,False,Enseignement et recherche
+3298,21-154775,True,False,False,False,False,False,
+3299,21-154776,False,False,False,False,False,False,collectivité territoriale
+3300,21-154777,False,False,False,False,False,False,Etablissement public de santé
+3301,21-154783,False,False,True,False,False,False,
+3302,21-154784,False,False,True,False,False,False,
+3303,21-154793,False,False,True,False,False,False,
+3304,21-154794,False,False,True,False,False,False,
+3305,21-154795,False,False,True,False,False,False,
+3306,21-154796,False,False,False,False,True,False,
+3307,21-154798,False,False,True,False,False,False,
+3308,21-154803,False,False,True,False,False,False,
+3309,21-154807,False,False,False,False,False,False,Métropole
+3310,21-154808,False,False,False,False,True,False,
+3311,21-154809,False,False,False,False,False,False,Entité adjudicatrice : Autorité organisatrice de la distribution publique d'électricité
+3312,21-154811,False,False,True,False,False,False,
+3313,21-154812,False,False,False,True,False,False,
+3314,21-154813,False,False,True,False,False,False,
+3315,21-154815,False,False,True,False,False,False,
+3316,21-154816,False,False,False,False,False,False,Organisme de protection sociale agricole
+3317,21-154817,False,False,False,True,False,False,
+3318,21-154819,False,False,True,False,False,False,
+3319,21-154822,False,False,False,False,False,False,Etablissement public
+3320,21-154829,False,False,True,False,False,False,
+3321,21-154830,False,False,True,False,False,False,
+3322,21-154833,False,False,False,False,False,False,EPCI
+3323,21-154835,False,False,True,False,False,False,
+3324,21-154840,False,False,True,False,False,False,
+3325,21-154849,False,False,True,False,False,False,
+3326,21-154850,False,False,True,False,False,False,
+3327,21-154853,False,False,True,False,False,False,
+3328,21-154855,False,False,False,False,False,False,autre
+3329,21-154857,False,False,True,False,False,False,
+3330,21-154858,False,False,True,False,False,False,
+3331,21-154860,False,False,False,False,False,False,Etablissement public intercommunal
+3332,21-154862,False,False,False,False,False,False,Etablissement Public National
+3333,21-154863,False,False,False,False,False,False,EPCI
+3334,21-154864,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+3335,21-154866,False,False,True,False,False,False,
+3336,21-154867,False,False,True,False,False,False,
+3337,21-154869,False,False,True,False,False,False,
+3338,21-154870,False,False,False,False,True,False,
+3339,21-154872,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+3340,21-154876,False,False,True,False,False,False,
+3341,21-154877,False,False,True,False,False,False,
+3342,21-154878,False,False,False,False,True,False,
+3343,21-154881,False,False,False,False,True,False,
+3344,21-154885,False,False,False,False,True,False,
+3345,21-154886,True,False,False,False,False,False,
+3346,21-154888,False,False,True,False,False,False,
+3347,21-154892,False,False,True,False,False,False,
+3348,21-154898,False,False,False,False,False,False,autre
+3349,21-154905,False,False,True,False,False,False,
+3350,21-154915,True,False,False,False,False,False,
+3351,21-154918,False,False,False,False,False,False,GIE INFORMATIQUE
+3352,21-154920,False,False,False,False,True,False,
+3353,21-154922,False,False,True,False,False,False,
+3354,21-154930,False,False,True,False,False,False,
+3355,21-154931,False,False,False,False,True,False,
+3356,21-154936,False,False,False,False,False,False,Etablissement Public de Santé
+3357,21-154938,False,False,True,False,False,False,
+3358,21-154939,False,False,True,False,False,False,
+3359,21-154941,False,False,False,False,True,False,
+3360,21-154943,False,False,False,False,True,False,
+3361,21-154944,False,False,True,False,False,False,
+3362,21-154945,False,False,False,False,True,False,
+3363,21-154946,False,False,False,False,True,False,
+3364,21-154947,False,False,False,False,True,False,
+3365,21-154949,False,False,False,False,True,False,
+3366,21-154951,False,False,True,False,False,False,
+3367,21-154962,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunal
+3368,21-154963,False,False,True,False,False,False,
+3369,21-154965,False,False,False,False,True,False,
+3370,21-154967,False,False,True,False,False,False,
+3371,21-154969,False,False,False,False,True,False,
+3372,21-154975,False,False,True,False,False,False,
+3373,21-154978,False,False,False,False,True,False,
+3374,21-154982,False,False,True,False,False,False,
+3375,21-154984,False,False,True,False,False,False,
+3376,21-154985,False,False,True,False,False,False,
+3377,21-154986,False,False,True,False,False,False,
+3378,21-154987,False,False,False,False,True,False,
+3379,21-154988,False,False,False,False,True,False,
+3380,21-154990,False,False,False,False,True,False,
+3381,21-154993,False,False,True,False,False,False,
+3382,21-154995,False,False,False,False,True,False,
+3383,21-154998,False,False,False,False,False,False,EPCI
+3384,21-155003,False,False,True,False,False,False,
+3385,21-155009,False,False,True,False,False,False,
+3386,21-155011,False,False,False,False,True,False,
+3387,21-155013,False,False,False,False,True,False,
+3388,21-155015,False,False,True,False,False,False,
+3389,21-155016,False,False,False,False,False,False,EPCI
+3390,21-155021,True,False,False,False,False,False,
+3391,21-155022,False,False,True,False,False,False,
+3392,21-155025,False,False,False,False,True,False,
+3393,21-155027,False,False,False,False,False,False,Collectivité territoriale
+3394,21-155029,False,False,False,False,False,False,Etablissement Public de Santé
+3395,21-155031,True,False,False,False,False,False,
+3396,21-155034,False,False,True,False,False,False,
+3397,21-155036,False,False,True,False,False,False,
+3398,21-155044,False,False,True,False,False,False,
+3399,21-155045,False,False,True,False,False,False,
+3400,21-155046,False,False,False,False,True,False,
+3401,21-155048,False,False,False,False,False,False,Société publique locale d'aménagement
+3402,21-155051,False,False,False,False,False,False,bailleur social
+3403,21-155053,False,False,True,False,False,False,
+3404,21-155055,False,False,False,False,False,False,Commune
+3405,21-155056,False,False,True,False,False,False,
+3406,21-155057,False,False,True,False,False,False,
+3407,21-155061,False,False,True,False,False,False,
+3408,21-155062,False,False,True,False,False,False,
+3409,21-155064,False,False,True,False,False,False,
+3410,21-155068,False,False,True,False,False,False,
+3411,21-155076,False,False,False,False,True,False,
+3412,21-155077,False,False,False,False,True,False,
+3413,21-155082,False,False,False,False,True,False,
+3414,21-155085,False,False,True,False,False,False,
+3415,21-155089,False,False,False,False,True,False,
+3416,21-155093,False,False,False,False,False,False,Santé
+3417,21-155095,False,False,False,False,True,False,
+3418,21-155099,True,False,False,False,False,False,
+3419,21-155101,False,False,True,False,False,False,
+3420,21-155104,False,False,False,False,False,False,Établissement public de coopération intercommunale
+3421,21-155105,False,False,False,False,True,False,
+3422,21-155106,False,False,False,False,True,False,
+3423,21-155108,False,False,False,False,True,False,
+3424,21-155111,False,False,True,False,False,False,
+3425,21-155118,False,False,True,False,False,False,
+3426,21-155121,False,False,True,False,False,False,
+3427,21-155124,False,False,False,False,False,False,Régime général de la sécurité sociale
+3428,21-155126,False,False,False,False,True,False,
+3429,21-155130,False,False,True,False,False,False,
+3430,21-155134,False,False,False,False,False,False,Société Publique Locale (SPL)
+3431,21-155137,False,False,False,False,True,False,
+3432,21-155138,False,False,True,False,False,False,
+3433,21-155139,False,False,True,False,False,False,
+3434,21-155141,False,False,True,False,False,False,
+3435,21-155147,False,False,True,False,False,False,
+3436,21-155151,False,False,False,False,False,False,Organisme de protection sociale
+3437,21-155153,False,False,False,False,False,False,Syndicat Mixte
+3438,21-155154,False,False,False,False,True,False,
+3439,21-155155,False,False,True,False,False,False,
+3440,21-155165,False,False,True,False,False,False,
+3441,21-155167,False,False,False,False,True,False,
+3442,21-155172,False,False,True,False,False,False,
+3443,21-155174,False,False,True,False,False,False,
+3444,21-155179,False,False,False,False,True,False,
+3445,21-155180,False,False,True,False,False,False,
+3446,21-155187,False,False,False,False,False,False,"Établissements publics à caractère scientifique, culturel et professionnel, d'enseignement supérieur et de recherche"
+3447,21-155190,False,False,True,False,False,False,
+3448,21-155193,False,False,True,False,False,False,
+3449,21-155197,False,False,False,False,True,False,
+3450,21-155204,False,False,False,False,True,False,
+3451,21-155205,False,False,True,False,False,False,
+3452,21-155214,True,False,False,False,False,False,
+3453,21-155219,False,False,True,False,False,False,
+3454,21-155221,False,False,True,False,False,False,
+3455,21-155226,False,False,True,False,False,False,
+3456,21-155228,False,False,True,False,False,False,
+3457,21-155238,False,False,True,False,False,False,
+3458,21-155239,False,False,True,False,False,False,
+3459,21-155240,True,False,False,False,False,False,
+3460,21-155248,True,False,False,False,False,False,
+3461,21-155249,False,False,True,False,False,False,
+3462,21-155250,False,False,False,False,True,False,
+3463,21-155270,False,False,False,False,True,False,
+3464,21-155274,False,False,True,False,False,False,
+3465,21-155276,False,False,True,False,False,False,
+3466,21-155282,False,False,False,False,False,False,Caisse nationale militaire de sécurité sociale
+3467,21-155285,False,False,False,False,True,False,
+3468,21-155287,False,False,False,False,True,False,
+3469,21-155291,False,False,False,False,True,False,
+3470,21-155295,True,False,False,False,False,False,
+3471,21-155302,False,False,True,False,False,False,
+3472,21-155303,False,False,True,False,False,False,
+3473,21-155310,False,False,True,False,False,False,
+3474,21-155313,False,False,True,False,False,False,
+3475,21-155318,False,False,False,False,True,False,
+3476,21-155319,False,False,True,False,False,False,
+3477,21-155323,False,False,False,False,True,False,
+3478,21-155326,False,False,True,False,False,False,
+3479,21-155327,True,False,False,False,False,False,
+3480,21-155332,False,False,False,False,True,False,
+3481,21-155333,False,False,True,False,False,False,
+3482,21-155336,False,False,True,False,False,False,
+3483,21-155338,False,True,False,False,False,False,
+3484,21-155339,False,False,False,False,True,False,
+3485,21-155341,True,False,False,False,False,False,
+3486,21-155347,False,False,True,False,False,False,
+3487,21-155348,False,False,True,False,False,False,
+3488,21-155350,False,False,False,False,True,False,
+3489,21-155353,False,False,True,False,False,False,
+3490,21-155354,False,False,True,False,False,False,
+3491,21-155355,False,False,True,False,False,False,
+3492,21-155357,False,False,False,False,True,False,
+3493,21-155358,False,False,False,False,True,False,
+3494,21-155363,True,False,False,False,False,False,
+3495,21-155364,False,False,False,False,True,False,
+3496,21-155366,False,False,False,False,False,False,Communauté d'agglomération
+3497,21-155368,False,False,True,False,False,False,
+3498,21-155372,False,False,True,False,False,False,
+3499,21-155373,False,False,True,False,False,False,
+3500,21-155378,False,False,False,False,True,False,
+3501,21-155379,False,False,True,False,False,False,
+3502,21-155380,False,False,False,False,True,False,
+3503,21-155381,False,False,False,False,True,False,
+3504,21-155383,False,False,True,False,False,False,
+3505,21-155384,False,False,True,False,False,False,
+3506,21-155387,True,False,False,False,False,False,
+3507,21-155389,False,False,True,False,False,False,
+3508,21-155393,False,False,True,False,False,False,
+3509,21-155396,False,False,True,False,False,False,
+3510,21-155397,False,False,False,False,False,False,EPCI
+3511,21-155400,False,False,False,False,True,False,
+3512,21-155401,False,False,True,False,False,False,
+3513,21-155402,False,False,True,False,False,False,
+3514,21-155403,False,False,True,False,False,False,
+3515,21-155404,False,False,True,False,False,False,
+3516,21-155405,False,False,False,False,True,False,
+3517,21-155407,False,False,True,False,False,False,
+3518,21-155408,False,False,False,False,True,False,
+3519,21-155409,False,False,False,False,True,False,
+3520,21-155414,False,False,False,False,False,False,autre
+3521,21-155416,False,False,True,False,False,False,
+3522,21-155417,False,False,False,False,False,False,EPCI
+3523,21-155419,False,False,False,False,False,False,Protection sociale
+3524,21-155420,False,False,False,False,True,False,
+3525,21-155421,False,False,True,False,False,False,
+3526,21-155422,False,False,False,False,True,False,
+3527,21-155424,False,False,False,False,False,False,Aménagement et foncier
+3528,21-155425,False,False,True,False,False,False,
+3529,21-155427,False,False,True,False,False,False,
+3530,21-155438,False,False,True,False,False,False,
+3531,21-155440,False,False,False,False,True,False,
+3532,21-155442,True,False,False,False,False,False,
+3533,21-155444,False,False,False,False,False,False,hopital
+3534,21-155448,False,False,False,False,False,False,Organisme de protection sociale
+3535,21-155449,False,False,False,False,False,False,Établissement public de santé
+3536,21-155454,True,False,False,False,False,False,
+3537,21-155455,False,False,False,False,True,False,
+3538,21-155457,False,False,False,False,True,False,
+3539,21-155459,False,False,True,False,False,False,
+3540,21-155467,False,False,False,False,False,False,autre
+3541,21-155468,False,False,False,False,False,False,Restaurant Administratif
+3542,21-155470,False,False,True,False,False,False,
+3543,21-155472,False,False,True,False,False,False,
+3544,21-155474,False,False,True,False,False,False,
+3545,21-155488,False,False,True,False,False,False,
+3546,21-155491,False,False,True,False,False,False,
+3547,21-155499,False,False,False,False,True,False,
+3548,21-155500,False,False,True,False,False,False,
+3549,21-155501,False,False,True,False,False,False,
+3550,21-155506,False,False,True,False,False,False,
+3551,21-155509,False,False,False,False,True,False,
+3552,21-155514,False,False,False,False,False,False,EPCI
+3553,21-155518,False,False,False,False,True,False,
+3554,21-155519,False,False,False,False,False,False,Logement
+3555,21-155521,False,False,True,False,False,False,
+3556,21-155523,False,False,True,False,False,False,
+3557,21-155526,False,False,False,False,True,False,
+3558,21-155528,False,False,True,False,False,False,
+3559,21-155530,False,False,True,False,False,False,
+3560,21-155532,False,False,True,False,False,False,
+3561,21-155533,False,False,True,False,False,False,
+3562,21-155534,False,False,False,False,False,False,autre
+3563,21-155537,False,False,False,False,False,False,Interprofession viticole
+3564,21-155548,False,False,False,False,True,False,
+3565,21-155558,False,False,False,False,False,False,autre
+3566,21-155568,False,False,False,False,False,False,SEM
+3567,21-155576,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+3568,21-155579,False,False,True,False,False,False,
+3569,21-155580,False,False,False,False,True,False,
+3570,21-155581,False,False,False,False,False,False,Aménagement
+3571,21-155583,True,False,False,False,False,False,
+3572,21-155589,False,False,True,False,False,False,
+3573,21-155592,False,False,True,False,False,False,
+3574,21-155598,False,False,True,False,False,False,
+3575,21-155613,True,False,False,False,False,False,
+3576,21-155619,False,False,True,False,False,False,
+3577,21-155620,False,False,True,False,False,False,
+3578,21-155621,False,False,True,False,False,False,
+3579,21-155624,False,False,False,False,False,False,Société anonyme à loyer modéré
+3580,21-155626,False,False,False,False,True,False,
+3581,21-155630,False,False,True,False,False,False,
+3582,21-155631,False,False,False,False,True,False,
+3583,21-155634,False,False,False,False,False,False,Société d'économie mixte - Personne morale de droit privé
+3584,21-155635,False,False,False,False,False,False,SYNDICAT
+3585,21-155638,False,False,True,False,False,False,
+3586,21-155643,False,False,True,False,False,False,
+3587,21-155644,False,False,False,False,True,False,
+3588,21-155645,False,False,True,False,False,False,
+3589,21-155656,False,False,True,False,False,False,
+3590,21-155658,False,False,True,False,False,False,
+3591,21-155663,False,False,True,False,False,False,
+3592,21-155670,False,False,False,False,True,False,
+3593,21-155671,False,False,True,False,False,False,
+3594,21-155673,False,False,True,False,False,False,
+3595,21-155674,False,False,True,False,False,False,
+3596,21-155676,False,False,True,False,False,False,
+3597,21-155677,False,False,False,False,False,False,autre
+3598,21-155681,True,False,False,False,False,False,
+3599,21-155685,False,False,True,False,False,False,
+3600,21-155691,False,False,True,False,False,False,
+3601,21-155693,False,False,False,False,False,False,Etablissement public de santé
+3602,21-155695,False,False,True,False,False,False,
+3603,21-155703,False,False,True,False,False,False,
+3604,21-155709,True,False,False,False,False,False,
+3605,21-155714,False,False,True,False,False,False,
+3606,21-155722,False,False,False,False,False,False,autre
+3607,21-155725,False,False,False,False,True,False,
+3608,21-155727,False,False,True,False,False,False,
+3609,21-155729,False,False,True,False,False,False,
+3610,21-155734,False,False,False,False,True,False,
+3611,21-155742,False,False,False,False,False,False,SA D'HLM
+3612,21-155744,False,False,True,False,False,False,
+3613,21-155745,False,False,False,False,False,False,EPCI
+3614,21-155747,False,False,True,False,False,False,
+3615,21-155748,False,False,True,False,False,False,
+3616,21-155749,False,False,True,False,False,False,
+3617,21-155754,False,False,True,False,False,False,
+3618,21-155755,False,False,False,False,True,False,
+3619,21-155756,False,False,False,False,False,False,Etablissement public local d'enseignement
+3620,21-155764,False,False,False,False,False,False,autre
+3621,21-155765,False,False,False,False,False,False,autre
+3622,21-155766,True,False,False,False,False,False,
+3623,21-155777,False,False,False,False,True,False,
+3624,21-155789,False,False,True,False,False,False,
+3625,21-155794,False,False,True,False,False,False,
+3626,21-155798,True,False,False,False,False,False,
+3627,21-155809,True,False,False,False,False,False,
+3628,21-155824,False,False,True,False,False,False,
+3629,21-155825,False,False,True,False,False,False,
+3630,21-155826,False,False,False,False,False,False,EPCI
+3631,21-155830,False,False,True,False,False,False,
+3632,21-155831,True,False,False,False,False,False,
+3633,21-155836,True,False,False,False,False,False,
+3634,21-155844,False,False,False,False,True,False,
+3635,21-155851,False,False,True,False,False,False,
+3636,21-155859,True,False,False,False,False,False,
+3637,21-155860,False,False,True,False,False,False,
+3638,21-155861,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+3639,21-155863,False,False,True,False,False,False,
+3640,21-155864,False,False,True,False,False,False,
+3641,21-155868,False,False,False,False,True,False,
+3642,21-155875,True,False,False,False,False,False,
+3643,21-155876,False,False,True,False,False,False,
+3644,21-155879,True,False,False,False,False,False,
+3645,21-155881,True,False,False,False,False,False,
+3646,21-155882,False,False,False,False,True,False,
+3647,21-155883,False,False,False,False,False,False,Etablissement publics de santé
+3648,21-155886,False,False,False,True,False,False,
+3649,21-155888,False,False,False,False,True,False,
+3650,21-155891,False,False,False,False,False,False,Établissement public de santé
+3651,21-155895,False,False,False,False,True,False,
+3652,21-155896,False,False,False,False,False,False,SA HLM
+3653,21-155903,False,False,False,False,False,False,Société publique locale d'aménagement
+3654,21-155906,False,False,True,False,False,False,
+3655,21-155909,False,False,True,False,False,False,
+3656,21-155910,False,False,True,False,False,False,
+3657,21-155912,False,False,True,False,False,False,
+3658,21-155915,False,False,True,False,False,False,
+3659,21-155918,False,False,False,False,True,False,
+3660,21-155920,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+3661,21-155921,False,False,True,False,False,False,
+3662,21-155926,False,False,False,False,True,False,
+3663,21-155927,False,False,True,False,False,False,
+3664,21-155928,True,False,False,False,False,False,
+3665,21-155930,False,False,True,False,False,False,
+3666,21-155931,False,False,False,False,False,False,Logement social
+3667,21-155932,False,False,True,False,False,False,
+3668,21-155933,False,False,False,False,False,False,Etablissement public de santé
+3669,21-155936,False,False,False,False,False,False,Logement social
+3670,21-155937,False,False,False,False,False,False,Métropole
+3671,21-155938,True,False,False,False,False,False,
+3672,21-155939,False,False,True,False,False,False,
+3673,21-155941,True,False,False,False,False,False,
+3674,21-155946,False,False,False,False,True,False,
+3675,21-155948,False,False,True,False,False,False,
+3676,21-155951,False,False,False,False,True,False,
+3677,21-155952,False,False,False,False,True,False,
+3678,21-155956,False,False,True,False,False,False,
+3679,21-155957,False,False,False,False,True,False,
+3680,21-155958,False,False,True,False,False,False,
+3681,21-155960,False,False,False,False,True,False,
+3682,21-155961,False,False,False,False,False,False,Logement social
+3683,21-155962,False,False,False,False,False,False,Etablissement public
+3684,21-155964,False,False,False,False,True,False,
+3685,21-155967,False,False,False,False,True,False,
+3686,21-155971,False,False,False,False,False,False,Commune
+3687,21-155972,False,False,True,False,False,False,
+3688,21-155973,True,False,False,False,False,False,
+3689,21-155974,False,False,True,False,False,False,
+3690,21-155975,False,False,True,False,False,False,
+3691,21-155976,False,False,False,False,True,False,
+3692,21-155977,False,False,False,False,False,False,Logement social
+3693,21-155980,False,False,True,False,False,False,
+3694,21-155985,False,False,True,False,False,False,
+3695,21-155990,False,False,False,False,True,False,
+3696,21-155994,False,False,False,False,False,False,Etablissement public administratif
+3697,21-155995,False,False,True,False,False,False,
+3698,21-156000,False,False,True,False,False,False,
+3699,21-156004,False,False,False,False,True,False,
+3700,21-156007,False,False,True,False,False,False,
+3701,21-156012,False,False,True,False,False,False,
+3702,21-156013,False,False,False,False,True,False,
+3703,21-156017,False,False,False,False,True,False,
+3704,21-156018,False,False,False,False,True,False,
+3705,21-156023,False,False,True,False,False,False,
+3706,21-156030,False,False,True,False,False,False,
+3707,21-156032,False,False,False,False,True,False,
+3708,21-156033,False,False,False,False,True,False,
+3709,21-156034,False,False,True,False,False,False,
+3710,21-156036,False,False,False,False,False,False,Association loi 1901
+3711,21-156037,False,False,True,False,False,False,
+3712,21-156048,False,False,True,False,False,False,
+3713,21-156050,False,False,True,False,False,False,
+3714,21-156056,False,False,True,False,False,False,
+3715,21-156060,False,False,True,False,False,False,
+3716,21-156069,False,False,True,False,False,False,
+3717,21-156070,False,False,True,False,False,False,
+3718,21-156072,False,False,True,False,False,False,
+3719,21-156073,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel (EPSCP)"
+3720,21-156078,False,False,True,False,False,False,
+3721,21-156080,False,False,False,False,True,False,
+3722,21-156084,False,False,False,False,False,False,Établissement public de santé
+3723,21-156087,False,False,True,False,False,False,
+3724,21-156092,False,False,True,False,False,False,
+3725,21-156097,False,False,True,False,False,False,
+3726,21-156100,False,False,True,False,False,False,
+3727,21-156101,False,False,True,False,False,False,
+3728,21-156102,False,False,True,False,False,False,
+3729,21-156105,False,False,True,False,False,False,
+3730,21-156111,False,False,True,False,False,False,
+3731,21-156116,False,False,False,True,False,False,
+3732,21-156118,False,False,True,False,False,False,
+3733,21-156125,False,False,False,False,True,False,
+3734,21-156126,False,False,False,False,True,False,
+3735,21-156128,False,False,False,False,True,False,
+3736,21-156134,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel (EPSCP)"
+3737,21-156136,False,False,False,False,False,False,Commune
+3738,21-156137,False,False,False,False,True,False,
+3739,21-156142,False,False,False,True,False,False,
+3740,21-156143,False,False,False,False,True,False,
+3741,21-156145,False,False,False,False,True,False,
+3742,21-156148,False,False,True,False,False,False,
+3743,21-156149,True,False,False,False,False,False,
+3744,21-156152,False,False,True,False,False,False,
+3745,21-156153,False,False,False,False,False,False,Commune
+3746,21-156161,True,False,False,False,False,False,
+3747,21-156164,False,False,True,False,False,False,
+3748,21-156168,False,False,False,False,True,False,
+3749,21-156174,False,False,False,False,False,False,autre
+3750,21-156178,False,False,True,False,False,False,
+3751,21-156181,False,False,True,False,False,False,
+3752,21-156182,False,False,False,False,False,False,ESPIC
+3753,21-156183,False,False,True,False,False,False,
+3754,21-156185,False,False,True,False,False,False,
+3755,21-156186,False,False,True,False,False,False,
+3756,21-156188,False,False,True,False,False,False,
+3757,21-156190,False,False,True,False,False,False,
+3758,21-156191,False,False,False,False,True,False,
+3759,21-156192,True,False,False,False,False,False,
+3760,21-156196,False,False,True,False,False,False,
+3761,21-156208,True,False,False,False,False,False,
+3762,21-156210,False,False,True,False,False,False,
+3763,21-156212,False,False,False,False,False,False,Métropole
+3764,21-156215,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+3765,21-156217,True,False,False,False,False,False,
+3766,21-156219,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+3767,21-156225,False,False,False,False,True,False,
+3768,21-156228,False,False,False,False,True,False,
+3769,21-156229,False,False,False,False,True,False,
+3770,21-156230,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+3771,21-156242,False,False,False,False,False,False,Établissement public de coopération intercommunale
+3772,21-156244,False,False,True,False,False,False,
+3773,21-156246,False,False,True,False,False,False,
+3774,21-156248,False,False,False,True,False,False,
+3775,21-156252,False,False,True,False,False,False,
+3776,21-156253,False,False,False,False,True,False,
+3777,21-156258,False,False,False,False,True,False,
+3778,21-156260,False,False,False,True,False,False,
+3779,21-156261,False,False,False,False,False,False,autre
+3780,21-156265,False,False,False,False,True,False,
+3781,21-156267,False,False,True,False,False,False,
+3782,21-156270,False,False,False,False,False,False,autre
+3783,21-156273,False,False,False,False,False,False,Etablissement de recherches et d'enseignement supérieur
+3784,21-156278,True,False,False,False,False,False,
+3785,21-156279,False,False,True,False,False,False,
+3786,21-156288,True,False,False,False,False,False,
+3787,21-156289,False,False,True,False,False,False,
+3788,21-156290,False,False,True,False,False,False,
+3789,21-156292,False,False,True,False,False,False,
+3790,21-156293,False,False,True,False,False,False,
+3791,21-156297,False,False,True,False,False,False,
+3792,21-156300,False,False,True,False,False,False,
+3793,21-156301,False,False,False,False,False,False,association ordonnance 2004-632 du 1er juillet 2004
+3794,21-156302,False,False,True,False,False,False,
+3795,21-156304,False,False,True,False,False,False,
+3796,21-156305,False,False,True,False,False,False,
+3797,21-156308,True,False,False,False,False,False,
+3798,21-156311,False,False,True,False,False,False,
+3799,21-156313,False,False,False,False,False,False,Autorité administrative indépendante
+3800,21-156321,False,False,False,False,False,False,autre
+3801,21-156326,False,False,False,False,False,False,autre
+3802,21-156327,False,False,False,False,True,False,
+3803,21-156329,False,False,False,False,True,False,
+3804,21-156335,False,True,False,False,False,False,
+3805,21-156337,False,False,False,False,True,False,
+3806,21-156338,False,False,True,False,False,False,
+3807,21-156339,False,True,False,False,False,False,
+3808,21-156344,True,False,False,False,False,False,
+3809,21-156348,False,False,True,False,False,False,
+3810,21-156349,False,False,False,False,True,False,
+3811,21-156350,False,False,False,False,True,False,
+3812,21-156352,False,False,True,False,False,False,
+3813,21-156353,False,False,True,False,False,False,
+3814,21-156357,False,False,False,False,False,False,autre
+3815,21-156358,False,False,True,False,False,False,
+3816,21-156364,False,False,False,False,True,False,
+3817,21-156366,False,False,True,False,False,False,
+3818,21-156368,False,False,True,False,False,False,
+3819,21-156369,False,False,True,False,False,False,
+3820,21-156370,False,False,False,False,True,False,
+3821,21-156371,False,False,True,False,False,False,
+3822,21-156372,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire."
+3823,21-156373,False,False,False,False,False,False,EPIC
+3824,21-156598,False,False,False,False,False,False,collectivité territoriale
+3825,21-156680,False,False,True,False,False,False,
+3826,21-156712,False,False,True,False,False,False,
+3827,21-156907,False,False,True,False,False,False,
+3828,21-156910,False,False,True,False,False,False,
+3829,21-30547,False,False,False,False,False,False,Collectivité territoriale
+3830,21-66022,False,False,True,False,False,False,
+3831,21-81513,True,False,False,False,False,False,
+3832,21-93733,False,False,False,False,True,False,
