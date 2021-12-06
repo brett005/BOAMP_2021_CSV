@@ -1,272 +1,4 @@
 BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Conditionadministrative_Etudesconcours,D_15_03_Conditionadministrative_Recompenseslaureatoui,D_15_04_Conditionadministrative_Recompensesaureatnon,D_15_05_Conditionadministrative_Recompenseslaureat,D_15_06_Conditionadministrative_Indemnisationparticipants,D_15_07_Conditionadministrative_Conditionsremiseoffres,D_15_08_Conditionadministrative_Conditionsetmodepaiementobtenirdocuments,D_15_09_Conditionadministrative_Datelimiteobtentiondocuments,D_15_10_Conditionadministrative_Documentpayantoui,D_15_10_01_Conditionadministrative_Documentpayantoui_Valeur,D_15_10_01_01_Conditionadministrative_Documentpayantoui_Valeur_Value,D_15_10_01_02_Conditionadministrative_Documentpayantoui_Valeur_Devise,D_15_11_Conditionadministrative_Documentpayantnon,D_15_12_Conditionadministrative_Persouvertureoffresoui,D_15_13_Conditionadministrative_Persouvertureoffresnon,D_15_14_Conditionadministrative_Datedebutattribution,D_15_15_Conditionadministrative_Dateouvertureoffres,D_15_16_Conditionadministrative_Lieuouvertureoffres,D_15_17_Conditionadministrative_Abandonsadoui,D_15_18_Conditionadministrative_Abandonsadnon,D_15_19_Conditionadministrative_Finattributionoui,D_15_20_Conditionadministrative_Finattributionnon,D_15_21_Conditionadministrative_Envoielectroniqueavecoutiloui,D_15_22_Conditionadministrative_Envoielectroniqueavecoutilnon
-21-151140,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151142,21-EPI-19,,False,False,,,Remise des offres uniquement sur la plateforme dématérialisée AWS.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151144,2021BAT064,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151148,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151149,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151150,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151152,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151154,2110061530,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151155,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151156,ACPA 21-02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151157,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-22 00:00:00,,,False,False,False,True,False
-21-151158,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-22 00:00:00,,,False,False,False,True,False
-21-151160,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151163,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151164,,,False,False,,,La remise des offres se fera de manière dématérialisée à l'adresse URL suivante : https://www.e-marchespublics.com,Les documents et informations sont accessibles gratuitement à l'adresse URL suivante : https://www.e-marchespublics.com,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151165,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151167,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151169,F-2022-01,,False,False,,,https://www.marches-securises.fr,SANS OBJET,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151171,2021/16,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151172,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,CAEN,,False,False,False,True,False
-21-151175,2021-09,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151176,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151178,DP-21-015,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151182,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151184,MAPA_21-10,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151186,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-13 00:00:00,,,False,False,False,False,True
-21-151187,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151188,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151192,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,True,False
-21-151193,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151196,2021F0215,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151197,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-05 00:00:00,,,False,False,False,False,True
-21-151198,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151200,GRPT-2021-F-05,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151201,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,True,False
-21-151203,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151204,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,Nantes,,False,False,False,False,True
-21-151205,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-22 00:00:00,,,False,False,False,True,False
-21-151206,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-15 00:00:00,"Jardin des Plantes, 75005 Paris",,False,False,False,False,True
-21-151207,,,False,False,,,"Le pouvoir adjudicateur impose la transmission des plis par voie électronique pour cette consultation, en application de l'article R.2132-7 du C.C.P. Par conséquent, la transmission par voie papier n'est pas autorisée. Les offres doivent être déposées avant la date et l'heure limite de remise des plis sur le profil acheteur de la Ville de Biarritz : https://demat-ampa.fr, conformément aux instructions du règlement de la consultation.",Le dossier de consultation est gratuitement et librement téléchargeable sur le profil acheteur de la Ville de Biarritz à l'adresse suivante : https://demat-ampa.fr.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151208,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151211,2021-53,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151212,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151213,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151214,2021SMM275,,False,False,,,offre électronique obligatoire sur la plateforme www.marches-securises.fr,DCE disponible gratuitement sur la plateforme www.marches-securises.fr,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151215,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-22 00:00:00,,,False,False,False,False,True
-21-151217,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,True
-21-151219,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151220,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151223,2021-036-TDFMONT,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151224,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151225,124,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151226,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151228,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151229,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151232,21PI003,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151234,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151235,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-22 00:00:00,,,False,False,False,False,True
-21-151236,asst_rsx_ctrles_2022,,False,False,,,Modalités de transmission des offres : Obligatoirement par voie dématérialisée sur le profil acheteur (pas d'offre papier).,Conditions damp;#039;obtention du dossier : Dossier amp;agrave; tamp;eacute;lamp;eacute;charger gratuitement sur le profil acheteur de la Collectivitamp;eacute; http://www.proxilegales.fr/grandsoissons-agglo,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151237,2021-FCS-0133,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151238,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151240,21S0174,,False,False,,,,,2021-12-16 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,Locaux du SYTRAL,,False,False,False,False,False
-21-151241,Travaux voirie,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2021-12-22 00:00:00,,,False,False,False,False,False
-21-151243,V1M38500AU,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-15 00:00:00,,,False,False,False,False,False
-21-151244,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151245,2021051800,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151247,CDA 21/85 (38A),,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151249,,,False,False,,,"Le pouvoir adjudicateur impose la transmission des plis par voie électronique pour cette consultation, en application de l'article R.2132-7 du C.C.P. Par conséquent, la transmission par voie papier n'est pas autorisée. Les offres doivent être déposées avant la date et l'heure limite de remise des plis sur le profil acheteur de la Ville de Biarritz : https://demat-ampa.fr, conformément aux instructions du règlement de la consultation.",Le dossier de consultation est gratuitement et librement téléchargeable sur le profil acheteur de la Ville de Biarritz à l'adresse suivante : https://demat-ampa.fr,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151250,MA/11/21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151251,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151252,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151253,MA21-17AMP,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151254,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151255,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151256,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151259,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151261,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,Toulouse,,False,False,False,False,True
-21-151264,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-23 00:00:00,,,False,False,False,True,False
-21-151265,2021-TX-0016,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151266,21M34,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151268,2021-ESID-TLN-0174,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151270,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151271,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-15 00:00:00,Hayange,,False,False,False,False,True
-21-151273,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151275,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151276,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151277,05SB21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151278,MAPA062021CHBriveEntetienLocaux,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151280,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151281,210293,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151283,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-22 00:00:00,,,False,False,False,False,True
-21-151287,2101584,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151288,2021-58bis-RUO,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151289,2021-211,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151291,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151292,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,Monsieur le Président de la CCVO3F,False,,2021-12-22 00:00:00,CCVO3F,,False,False,False,False,True
-21-151293,2021AFF036,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151294,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151295,numéro d'opération : 2016 4A 003,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151296,MP21022,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151297,DSI_EXT_INTERNET_INTRANET,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151299,MOE_TOIT_LEPUY,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151301,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,L'ouverture des plis n'est pas publique,False,,2021-12-29 00:00:00,Mâcon,,False,False,False,False,True
-21-151302,FI2100167TATLS,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151303,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-03 00:00:00,Service des marchés publics,,False,False,False,False,True
-21-151304,CNIL111,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151305,2021T011,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151306,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151307,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,Ajaccio,,False,False,False,False,True
-21-151308,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151309,2446_1_00,,False,False,,,,,2021-11-25 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2021-12-06 00:00:00,Essonne,,False,False,False,False,False
-21-151310,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,,,False,False,False,False,True
-21-151311,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,,,False,False,False,False,True
-21-151312,221501,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151313,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,"Cette date est donnée à titre indicatif, la séance ne sera pas publique",False,,2021-12-20 00:00:00,,,False,False,False,True,False
-21-151314,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151315,L487TN,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151316,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151317,GN21PF04,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-09 00:00:00,,,False,False,False,False,False
-21-151318,2022009,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151323,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151325,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151327,AP-HP.SU21-055,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151328,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-22 00:00:00,mairie d'Ambierle,,False,False,False,False,True
-21-151329,T_20_2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151330,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151331,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-15 00:00:00,,,False,False,False,True,False
-21-151332,LAEPAnim_2022-2023,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151333,MENESQ-scol,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151334,MAPA082021DCP,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151336,LAEPSup_2022-2023,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151337,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151338,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151339,SPLTA 2045 travaux,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151341,DGASH_INTERP_2021011,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151342,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,True
-21-151343,2-2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151344,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151345,2021-CCS-SE-009,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151346,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,,,False,False,False,False,True
-21-151347,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-15 00:00:00,151 rue des universités 38400 saint martin d'hère,,False,False,False,False,True
-21-151348,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151349,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,True,False
-21-151351,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,True
-21-151353,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151354,2020-160,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151355,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151356,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,True
-21-151357,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151358,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151359,20211115,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151360,2021-06,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151361,21PA65,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151362,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151363,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151364,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151365,10001_TVX_AMGT_PH2,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-06 00:00:00,,,False,False,False,False,False
-21-151366,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151367,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151368,2021INT01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151369,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-29 00:00:00,,,False,False,False,False,True
-21-151370,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151371,2021.23,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151372,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151373,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,Grenoble,,False,False,False,True,False
-21-151374,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,Montreuil,,False,False,False,False,True
-21-151375,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-15 00:00:00,Paris,,False,False,False,False,True
-21-151378,2100030,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151381,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,True,False
-21-151382,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
-21-151383,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151384,SCI2021-15,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151385,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151386,2133TPA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151387,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-18 00:00:00,,,False,False,False,False,True
-21-151388,21P078,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151392,2021M29,,False,False,,,"La transmission des candidatures se fait obligatoirement par voie électronique via le profil d'acheteur : https://www.marches-securises.frUn mode d'emploi est disponible sur le site. Les frais d'accès au réseau sont à la charge des candidats..La présentation sur un support physique électronique n'est pas autorisée.La remise des candidatures contre récépissé n'est pas autorisée.L'envoi des candidatures par voie postale n'est pas autorisé.Conditions d'envoi de la copie de sauvegarde : Cette copie est transmise sous pli par voie postale ou par dépôt chez l'acheteur dans les délais impartis pour la remise des candidatures ou des offres. Ce pli, fermé, doit mentionner "" copie de sauvegarde "" de manière claire et lisible, porter également le nom de l'opérateur économique candidat, l'identification de la procédure et l'éventuel lot concerné. La copie de sauvegarde ne peut être commune à l'ensemble des lots pour lesquels candidate éventuellement l'opérateur économique",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151395,0188LS-Lot 6b,,False,False,,,Les candidatures et offres seront remises par la voie dématérialisée via le profil d'acheteur www.marches-securises.fr. Ainsi que les compléments d'informations sur le DCE.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151397,21PA06,,False,False,,,,"M. JOLY NICOLAS , EPCC 9-9bis, Chemin duTordoir CS 50163, 62590 Oignies, tél. : 03 21 08 08 00, courriel : info@9-9bis.co",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151399,2021-chgt-men-le-braz,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151403,21PI08,,False,False,,,via le profil d'acheteur susvisé,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151404,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151405,,,False,False,,,"La transmission des candidatures et des offres des entreprises est réalisée obligatoirement par voie électronique à l'adresse suivante : https://marchespublics-maineetloire.safetender.comPar conséquent, la transmission par voie papier ou sur un support physique électronique (CD ROM, clé USB...) n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151407,,,True,False,Nombre de primes:2Montant : 15 000.00 euroHT,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151409,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151410,21IIPN07,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151414,2021-chgt-men-le-braz,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151416,21VCP052,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151421,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,True
-21-151422,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,,,False,False,False,False,True
-21-151423,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151428,SISS01-2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151433,CG_60_20211001W2_01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151434,2021/08,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151436,,,False,False,,,"La transmission des documents par voie électronique est effectuée sur le profil d'acheteur du pouvoir adjudicateur, à l'adresse URL suivante : https://marches-agglo-compiegne.safetender.comLes modalités de remise des offres sont indiquées dans le règlement de la consultation.",Le Dossier de Consultation des Entreprises est en accès libre et gratuit pour téléchargement sur le profil acheteur : https://marches-agglo-compiegne.safetender.com,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151437,2021-036,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151438,SNIA_BM-TOU_MAPA_21-056,,False,False,,,"Le dossier de consultation des entreprises est mis à la disposition des candidats sur la plateforme de dématérialisation (http://www.marches-publics.gouv.fr), sous la référence publique ""SNIA_BM-TOU_MAPA_21-056"".Les candidats prendront le soin de laisser leurs coordonnées afin de recevoir les éventuels modificatifs.Les réponses à la présente consultation doit se faire par voie électroniqueRemise de la copie de sauvegardeLe candidat ou le soumissionnaire peut faire parvenir une copie de sauvegarde prévue à l'article R.2132-11 du CCP, dans les délais impartis pour la remise des candidatures ou des offres.La copie de sauvegarde transmise à l'acheteur sur support papier ou sur support physique électronique doit être placée dans un pli comportant la mention lisible ""copie de sauvegarde"".La copie de sauvegarde sera transmise sous pli cacheté :Service National d'Ingénierie Aéroportuaire (SNIA)AMOE GTPIAéroport de Mérignac Bloc technique - 12 rue Marthe Niel TSA 8500233688 Merignac CedexA l'attention de Ramon EmmaCopie de sauvegarde pour : Construction d'un bâtiment préfabriqué pour l'odorologie au STAC de Biscarrosse - Nom du candidat ou des membres du groupement candidat - NE PAS OUVRIR(*) En cas de groupement, l'identité du mandataire sera précisée.Elle devra parvenir à destination avant la date et l'heure indiquées dans la page de garde du présent règlement.Dans l'hypothèse d'un envoi sur support physique électronique (CD-Rom formaté 'Joliet'), les documents pour lesquels une signature est requise sont signés électroniquement. Un zip signé ne vaut pas signature des documents qu'il contient. En cas de fichier zippé, chaque document pour lequel une signature est requise doit être signé séparément et ne doit pas être verrouillé.",Gratuit,2021-11-30 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151439,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151442,2021065,,False,False,,,La remise des offres se fait obligatoirement par voie dématérialisée sur le site : https://www.marches.megalisbretagne.bzh.,Le dossier de consultation est disponible de manière électronique sur le profil d'acheteur :https://www.marches.megalisbretagne.bzh.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151445,,,False,False,,,les offres dématérialisées seront envoyées à l'adresse suivante http://www.saint-amand-les-eaux.fr onglet 'marchés publics'.,dossier gratuit à télécharger à l'adresse suivante http://www.saint-amand-les-eaux.fr onglet 'marchés publics'.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151446,2021118,,False,False,,,Par voie électronique à l'adresse suivante :https://www.e-occitanie.fr/,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151447,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,,,False,False,False,False,True
-21-151448,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151449,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151451,21.102,,False,False,,,,Le dossier de consultation des entreprises est disponible gratuitement sur la plateforme acheteur à l'adresse suivante :https://www.megalis.bretagne.bzh/jcms/j_6/accueil.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151452,2022220800,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151455,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151460,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151461,,,False,False,,,Les dépôts de plis doivent être impérativement remis par voie dématérialisée : http://www.sarthe-marchespublics.fr,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151462,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,Courbevoie,,False,False,False,False,True
-21-151464,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-14 00:00:00,,,False,False,False,False,True
-21-151472,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151473,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151474,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151476,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151479,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,True
-21-151483,21-150722,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151484,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151485,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151486,2022-DAA-LABO-032,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151487,MARCHE 07-21-26,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151488,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151491,21EV49,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151493,2021_17302_0178,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151494,2021-11-01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151496,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-30 00:00:00,Mulhouse,,False,False,False,False,True
-21-151497,2100069,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151498,21SPA04,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151499,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151500,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-02-04 00:00:00,,,False,False,False,False,True
-21-151503,DM21129,,False,False,,,,,2021-12-06 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151504,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151506,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151509,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
-21-151510,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151513,VV-21-034,,False,False,,,La remise des plis s'effectue par voie électronique sur le profil d'acheteur: www.marches-securises.fr. Les modalités de remise des copies de sauvegarde sont fixées au règlement de la consultation.,,2021-12-15 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151515,2021026,,False,False,,,Voir RC article 6,La plate-forme de dématérialisation à utiliser pour télécharger le DCE et pour la remise des offres est la suivante : https://marchespublics-saintlouis.omnikles.com,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151516,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,True,False
-21-151523,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
-21-151524,,,False,False,,,"Cette consultation utilise le mode DUME pour le dépôt des dossiers de candidatures (Cf. Le règlement de consultation)-conditions pour obtenir les documents : Les dossiers doivent être téléchargés sur la plateforme https://emarches.dracenie.comImportant : En application de l'article R2132-7 du CCP, le dépôt de réponse s'effectue obligatoirement par voie électronique (pas de dépôt sous format papier autorisé)avec possibilité de transmettre une copie de sauvegarde sur support électronique (CD,DVD, clé usb ...) ou papier.-autre service auprès duquel des renseignements peuvent être obtenus concernant l'introduction des recours :Direction de la commande Publique de la Dpva.(No de téléphone : 04 94 50 16 20) dont l'adresse est indiquée au présent avis.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
-21-151525,asst_sns_v_hugo_2021,,False,False,,,Modalités de transmission des offres : Obligatoirement par voie dématérialisée sur le profil acheteur (pas d'offre papier).,Conditions damp;#039;obtention du dossier : Dossier amp;agrave; tamp;eacute;lamp;eacute;charger gratuitement sur le profil acheteur de la Collectivitamp;eacute; : http://www.proxilegales.fr/grandsoissons-agglo,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151528,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,True,False,False,True
-21-151530,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-08 00:00:00,,,False,False,False,False,True
-21-151532,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151533,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151534,M-2021 -037 PA,,False,False,,,,,2021-12-02 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2021-12-03 00:00:00,"ANTENNE DE PERIGUEUX, RAMPINSOLLE, 24660 COULOUNIEIX CHAMIERS",,False,False,False,False,False
-21-151535,2021-ESPA0161,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151536,2021 TX 0087,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
-21-151539,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151540,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151541,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151542,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151543,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151546,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151547,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151549,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151550,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151551,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151554,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-08 00:00:00,Bonneville,,False,False,False,False,True
-21-151555,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,True,False
-21-151557,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,,,False,False,False,False,True
-21-151559,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151560,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,Mairie de Grasse - Service Commande Publique,,False,False,False,False,True
-21-151562,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151564,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,True,False
-21-151565,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
-21-151566,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
-21-151568,21FSM017,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-151569,2021F050,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-151570,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
 21-151571,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,"Logipôle Trousseau, CHRU de Tours",,False,False,False,False,True
@@ -278,6 +10,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-151580,21-017-2,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-151582,2021-56,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-151583,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-151586,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-151588,2021-22,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-151589,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
 21-151590,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
@@ -417,6 +150,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-151828,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-151829,2021-21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-151831,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,Siège de la Région Auvergne-Rhône-Alpes,,False,False,False,False,True
+21-151832,: CG_60_20210924W2_01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-151833,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-151836,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-151840,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-07 00:00:00,,,False,False,False,False,True
@@ -709,6 +443,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-152255,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,True
 21-152256,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,La date d'ouverture des plis n'est pas connue. La séance d'ouverture n'est pas ouverte au public.,False,,2021-12-20 00:00:00,,,False,False,False,False,True
 21-152257,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,True
+21-152258,E2021BMI51,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-152260,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,,,False,False,False,False,True
 21-152261,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-152262,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,,,False,False,False,False,True
@@ -1581,6 +1316,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-153602,M21049,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-153603,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-153604,2100036,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-153606,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-153608,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-29 00:00:00,BREST,,False,False,False,True,False
 21-153609,21_VOIRIE_MAPA_49,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-153610,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
@@ -2010,6 +1746,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-154250,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-24 00:00:00,Bordeaux,,False,False,False,False,True
 21-154251,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-24 00:00:00,,,False,False,False,False,True
 21-154254,2021UIGP17,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-154255,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-154258,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-154259,21MC037,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154260,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
@@ -2266,6 +2003,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-154621,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-19 00:00:00,,,False,False,False,False,True
 21-154623,2021/215/M0045 à M0052,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154624,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-154629,CG_60_20211027W2_02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154632,21-79 DG,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154634,2021/026,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154635,,,False,False,,,"Le pouvoir adjudicateur impose la transmission des plis par voie électronique pour cette consultation, en application de l'article R.2132-7 du C.C.P. Par conséquent, la transmission par voie papier n'est pas autorisée. Les offres doivent être déposées avant la date et l'heure limite de remise des plis sur le profil acheteur de la Ville de Biarritz : https://demat-ampa.fr, conformément aux instructions du règlement de la consultation.",Le dossier de consultation est gratuitement et librement téléchargeable sur le profil acheteur de la Ville de Biarritz à l'adresse suivante : https://demat-ampa.fr,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
@@ -2436,6 +2174,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-154898,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-07 00:00:00,,,False,False,False,False,True
 21-154899,21-AF023,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154905,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-154909,,,False,False,,,"le pouvoir adjudicateur impose la transmission des plis par voie électronique pour cette consultation, en application des articles R.2132-1 et suivants du C.C.P.Par conséquent, la transmission par voie papier n'est pas autorisée. Les offres doivent être déposées avant la date et l'heure limite de remise des plis sur leprofil acheteur de la Ville de Biarritz: https://demat-ampa.fr, conformément aux instructions du règlement de la consultation.",Le dossier de consultation est gratuitement et librement téléchargeable sur le profil acheteur de la Ville de Biarritz à l'adresse suivante: https://demat-ampa.fr.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154911,REC45-2021-013,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154914,21FS-0032-S,,False,False,Voir règlement de Consultation,Voir règlement de Consultation,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154915,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,La date d'ouverture des plis est prévisionnelle.,False,,2022-01-26 00:00:00,DAVEU/DRP/POLE MARCHES.,,False,False,False,False,True
@@ -2484,6 +2223,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-154975,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-24 00:00:00,,,False,False,False,False,True
 21-154976,INRAE-LEPIN-2021-02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-154978,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,,,False,False,False,False,True
+21-154980,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-11 00:00:00,,,False,False,False,False,True
 21-154982,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-154984,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-154985,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
@@ -2638,11 +2378,14 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-155232,DGS21/07,,False,False,,,profil acheteur www.marches.maximilien.fr,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155238,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-05 00:00:00,,,False,False,False,False,True
 21-155239,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-07 00:00:00,,,False,False,False,True,False
+21-155247,2021E27,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155248,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155249,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-05 00:00:00,,,False,False,False,False,True
 21-155250,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155252,,,False,False,,,VOIE DEMATERIALISE : https://demat-ampa.fr,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155254,R2021_711_003666,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-155257,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-13 00:00:00,,,False,False,False,False,True
+21-155260,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155262,2021278PM,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155265,,,False,False,,,"conformément à l'article L2132-2 du Code de la Commande Publique, les candidatures et les offres devront être transmises uniquement par voie électronique. La procédure de dépôt des plis est détaillée sur le site :https://www.achatpublic.com/sdm/ent/gen/index.jsp. Ou sur le site de la SEM : https://sohp.fr/.",Les candidats ont la possibilité de télécharger gratuitement le dossier de consultation dans son intégralité sur le site :https://www.achatpublic.com/sdm/ent/gen/index.jsp.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155268,,,False,False,,,Remise des offres sur le profil acheteur,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
@@ -2682,6 +2425,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-155332,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
 21-155333,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-12 00:00:00,,,False,False,False,False,True
 21-155336,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-155337,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-155338,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-155339,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-13 00:00:00,,,False,False,False,False,True
 21-155341,FI2100387TATLS,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
@@ -2909,6 +2653,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-155715,2021S33,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155716,L419PA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,False
 21-155717,2021/32 à 2021/34,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-155719,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155720,2021-01,,False,False,,,cf. Règlement de consultation disponible sur le profil acheteur à l'adresse suivante : http://www.synapse-entreprises.com,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155721,F21LEGUMEPOISSON,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155722,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-11 00:00:00,,,False,False,False,False,True
@@ -2946,16 +2691,21 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-155776,21SERV06,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155777,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-30 00:00:00,,,False,False,False,False,True
 21-155780,A21SET-DP001,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-155783,,,False,False,,,Voir règlement de consultation.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155786,,,False,False,,,La proposition parviendra par mail à l'adresse david.faure@ville-romagnat.frou sera déposée contre récépissé à l'adresse suivante : Monsieur le MaireService technique.Château de Bezance63540 ROMAGNAT,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155789,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155795,202111241554,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155798,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-22 00:00:00,,,False,False,False,False,True
 21-155799,21265,,False,False,,,"la transmission des documents par voie électronique sécurisée est obligatoire pour cette consultation. Elle devra être effectuée sur le profil d'acheteur du pouvoir adjudicateur, à l'adresse suivante : https://marches.megalis.bretagne.bzh.",Le dossier de consultation des entreprises est disponible à l'adresse électronique suivante : https://marches.megalis.bretagne.bzh.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-155803,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155807,,,False,False,,,"La candidature peut être présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155808,Enquetesatisfaction2022,,False,False,,,"Conformément à l'article R 2132-7 du Code de la commande publique, l'offre sera obligatoirement transmise via la plateforme de dématérialisation : https://marchespublics.landespublic.orgToute offre envoyée selon un autre formalisme sera déclarée irrégulière.","Les dossiers de consultation sont téléchargeables sur la plateforme de dématérialisation https://marchespublics.landespublic.org(Attention, il est vivement recommandé aux entreprises souhaitant télécharger le DCE de s'enregistrer au préalable afin d'obtenir les éventuelles modifications).",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155809,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155811,2021-32,,False,False,,,,le DCE est téléchargeable gratuitement sur http://www.montrouge.achatpublic.com,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155817,,,False,False,,,voir règlement de consultation,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-155819,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-08 00:00:00,,,False,False,False,False,True
+21-155821,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-11 00:00:00,,,False,False,False,False,True
+21-155822,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155824,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-30 00:00:00,Ville de Mamoudzou,,False,False,False,False,True
 21-155825,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,NON,False,,2022-01-14 00:00:00,A titre indicatif,,False,False,False,False,True
 21-155826,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
@@ -2963,6 +2713,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-155830,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-155835,2021SGAMI57049,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155836,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-155838,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,"La séance d'ouverture des offres n'est pas publique, les dates et heures d'ouverture des offres sont prévisionnelles et données à titre indicatif",False,,2021-12-28 00:00:00,FranceAgriMer : Unité Achats Marchés - Montreuil (93),,False,False,False,False,True
 21-155843,2021_N711S1_005968,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155844,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155851,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
@@ -2997,6 +2748,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-155897,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-155901,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
 21-155903,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-155905,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,date et horaire d'ouverture des offres donnés à titre indicatif et susceptibles de modification,False,,2022-01-05 00:00:00,Auray,,False,False,False,False,True
 21-155906,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-27 00:00:00,mairie,,False,False,False,False,True
 21-155907,PMO_4_DEMOLITIONS,,False,False,,,,,2021-12-29 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
 21-155908,V-31-21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
@@ -3008,6 +2760,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-155919,44SN-19D00436-TX,,False,False,,,Seul le dépôt d'une offre par voie électronique est autorisée.Les candidats déposeront leur offre par via le profil acheteur accessible à l'adresse: https://marchespublics.paysdelaloire.fr,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155920,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-155921,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-155922,2021002,,False,False,"Les soumissionnaires non retenus pourront recevoir une prime de 5 000euro (quel que soit le nombre d'offres et variantes produites) si leur production est jugée acceptable par les Taaf. Un abattement pourra également être décidé selon la qualité de l'AVP produit.La commission d'appel d'offres des Taaf pourra proposer une réduction ou une suppression de la prime selon le niveau de qualité de l'avant-projet transmis. Ainsi, si l'offre du soumissionnaire est notamment inappropriée ou irrégulière, la prime sera supprimée intégralement. La décision de verser en totalité ou partiellement, ou de ne pas verser la prime est prise par M. le préfet des Taaf.",,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155924,2021-606-607-608,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155925,2021/002/AST03,,False,False,,,Offre a transmettre par voie dématérialisée sur notre profil acheteur : http://stamarin.e-marchespublics.com,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-155926,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-21 00:00:00,,,False,False,False,False,True
@@ -3090,16 +2843,19 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-156044,MAPA 09/2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156045,21-PVO-03,,False,False,,,"Pour toute information complémentaire, se conformer au règlement de la présente consultation.Durée du marché : Accord-Cadre à bons de commande d'une durée ferme de 2 ans reconductible 1 fois 2 ans.Montant minimum période ferme : 20 000euro HT. Montant maximum période ferme : 100 000euro HT. Les montants sont identiques pour la période reconduite.Conditions d'obtention du DCE : Le dossier de consultation est gratuit et ne peut être obtenu que par voie dématérialisée. Le téléchargement du dossier de consultation sur la plateforme de dématérialisation de la Métropole de Lyon (profil acheteur) : http://marchespublics.grandlyon.com est obligatoire en effectuant une recherche avec la référence : 21-PVO-03.Transmissions des offres par voie électronique :Conformément aux articles L2132-2 CCP, aux articles R2132-7 à R2132-14 CCP, et à l'arrêté du 22 mars 2019 relatif à la dématérialisation des procédures de marchés publics, les candidats sont dans l'obligation de transmettre tous les documents relatifs à la présente consultation et de communiquer avec l'acheteur exclusivement par voie électronique.En cas de transmission d'un pli sous forme papier, il ne sera pas ouvert et sera déclaré irrecevable.Les candidats peuvent adresser au pouvoir adjudicateur une copie de sauvegarde sur support papier ou sur support physique électronique (Cd-Rom oudvd-rom...) et faire parvenir cette copie dans le délai imparti pour la remise des plis.La copie de sauvegarde ne pourra être ouverte par l'acheteur que dans les cas prévus par l'arrêté du 22 mars 2019.Cette copie de sauvegarde devra être placée dans un pli cacheté dont la forme est précisée dans le règlement de la présente consultation.Condition d'envoi des plis de sauvegarde :Ces plis sont transmis par lettre recommandée avec avis de réception postal à l'adresse suivante Métropole de Lyon, DGEEP - Direction Ressources AF - Service marchés VVN / TSU - 20, rue du Lac Cs33569 - 69505 LYON Cedex 03.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156046,2021DAEID-03-LOT3,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156047,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
 21-156048,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,,,False,False,False,False,True
 21-156050,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156056,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156060,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156061,20211115,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156063,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-31 00:00:00,,,False,False,False,False,True
 21-156066,2021/15,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156069,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-13 00:00:00,,,False,False,False,False,True
 21-156070,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156072,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-06 00:00:00,A titre indicatif,,False,False,False,False,True
 21-156073,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156075,TX-2021-66,,False,False,,,"-Les candidatures et offres doivent être obligatoirement transmises par voie électronique sur le profil d'acheteur de la collectivité, -La signature des offres n'est pas obligatoire mais fortement conseillée.","-Pour obtenir les documents de la consultation, les candidats doivent les télécharger sur le profil d'acheteur de la collectivité -La mise en ligne des documents de la consultation est totale.",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156078,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,Ville de Mamoudzou,,False,False,False,False,True
 21-156080,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156082,AC015_02_ICEP_2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
@@ -3113,10 +2869,12 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-156100,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156101,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156102,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156104,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156105,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156107,2021_02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156111,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156116,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156117,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-30 00:00:00,,,False,False,False,False,True
 21-156118,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156120,2021-029,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156125,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-06 00:00:00,,,False,False,False,True,False
@@ -3140,10 +2898,12 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-156159,2021TX03,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156161,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156164,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,séance non publique,False,,2022-01-04 00:00:00,,,False,False,False,False,True
+21-156165,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-03 00:00:00,,,False,False,False,False,True
 21-156167,PA21/109,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156168,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-05 00:00:00,,,False,False,False,False,True
 21-156169,21MDMPBPA75,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2022-01-06 00:00:00,,,False,False,False,False,False
 21-156170,2021-SPC-0022,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-18 00:00:00,,,False,False,False,False,False
+21-156171,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,Les date et heure d'ouverture des plis sont données à titre indicatif et peuvent être modifiées,False,,2021-12-28 00:00:00,,,False,False,False,False,True
 21-156173,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156174,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-26 00:00:00,Marseille,,False,False,False,False,True
 21-156175,MP2021,,False,False,,,,,2022-01-04 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
@@ -3251,6 +3011,7 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-156322,2021-5,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156323,L313RD,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156324,DIER-586-21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-05 00:00:00,,,False,False,False,False,False
+21-156325,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,,,False,False,False,False,True
 21-156326,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156327,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156329,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-06 00:00:00,Drome Amenagement Habitat,,False,False,False,False,True
@@ -3287,117 +3048,262 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-156371,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-31 00:00:00,,,False,False,False,False,True
 21-156372,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156373,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156375,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156379,2021MAPASF0028,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156380,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156384,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156386,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,,,False,False,False,False,True
+21-156388,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156396,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156401,,,False,False,,,"La candidature peut être présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156407,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156409,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,Les candidats ne sont pas autorisés à participer à l'ouverture des plis.,False,,2022-02-07 00:00:00,"Civis, 29 route de l'entre-deux, 97410 saint-pierre.",,False,False,False,False,True
+21-156416,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-03 00:00:00,Direction de la commande publique,,False,False,False,False,True
+21-156419,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,NON,False,,2022-01-12 00:00:00,A titre indicatif,,False,False,False,False,True
 21-156420,M1C0036EA/BO,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156421,,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156423,21076,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156426,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-18 00:00:00,Cette date n'a pas de valeur contractuelle,,False,False,False,False,True
 21-156427,202121-66300AI,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156429,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-11 00:00:00,,,False,False,False,False,True
+21-156431,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-07 00:00:00,,,False,False,False,False,True
 21-156432,221072,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156433,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156434,,,False,False,,,"La transmission des documents est effectuée par voie électronique sur le profil d'acheteur du pouvoir adjudicateur, à l'adresse suivante : http://cg87.e-marchespublics.com. Le pouvoir adjudicateur applique le principe 'Dites-le nous une fois'. Par conséquent, les candidats ne sont pas tenus de fournir les documents et renseignements qui ont déjà été transmis dans le cadre d'une précédente consultation passée au cours de l'année civile et qui demeurent valables.",Le dossier de consultation des entreprises est téléchargeable gratuitement à l'adresse électronique suivante : http://cg87.e-marchespublics.com.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156435,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156436,V1M 548,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156438,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,Hôtel de Ville,,False,False,False,False,True
+21-156439,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156440,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156441,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156443,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,Direction de la commande publique à Antibes,,False,False,False,False,True
 21-156444,21000279,,False,False,,,,,2021-12-19 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-156446,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156448,2021-81,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156450,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156451,2021-004,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156452,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156453,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156454,2021-12T,,False,False,,,,,2022-01-10 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-156455,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,True,False,False,True
+21-156459,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156462,MA2021-03,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156463,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,Bureau des marchés,,False,False,False,False,True
+21-156464,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
+21-156466,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156467,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156469,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
 21-156471,,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156473,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156474,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156476,PA21/108,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156477,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156479,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156492,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-20 00:00:00,Siège du Grand Longwy Agglomération,,False,False,False,False,True
+21-156493,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156498,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156499,2021/30,,False,False,,,"Conformément à la règlementation en vigueur relative à la dématérialisation de la commande publique, il est rappelé qu'à compter du 1er octobre 2018, les offres doivent obligatoirement être envoyées par voie dématérialisée (article 5.3 du présent règlement). Adresse électronique : http://www.achatpublic.com, conformément à l'article 5.3 du présent règlement de consultation.Les offres sont à déposer sur le module de la plateforme de dématérialisation dédié au dépôt des plis. Seul ce module garantit le respect des prescriptions légales en matière de sécurisation des dépôts (datation, cryptage, confidentialité etc...). Tout autre moyen de transmission, mail, messagerie électronique de la plateforme etc... conduira à un rejet de l'offre.",Le dossier de consultation doit être retiré par voie électronique à l'adresse Internet suivante : http://www.achatpublic.com.Les frais d'accès au réseau sont à la charge de chaque candidat,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156502,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
+21-156503,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156506,2021SFAR008,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-06 00:00:00,Métropole de Lyon - 69000 Lyon,,False,False,False,False,False
 21-156514,PA21GOC15,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156517,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156519,21059,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156520,2022 BERCEAUX,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156521,2021-TX-ACP-0441,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156522,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-06 00:00:00,Non communiqué,,False,False,False,False,True
 21-156523,9NMATA21108,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156524,21PA11S,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156525,PA 11/11/2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
 21-156526,2021-FCS-0135,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156527,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156528,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156531,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-17 00:00:00,,,False,False,False,False,True
+21-156532,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-14 00:00:00,,,False,False,False,False,True
+21-156533,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-24 00:00:00,,,False,False,False,True,False
+21-156534,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156535,9002201-02,,False,False,,,Plate forme des achats de l'Etat,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156536,21-19,,False,False,,,,L'adresse pour télécharger les documents mis à la disposition des entreprises est la suivante : https://www.achatpublic.com/sdm/ent/gen/ent_detail.do?PCSLID=CSL_2021_jhfEbc79cF,2022-01-09 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156537,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156539,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156540,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156542,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-02-28 00:00:00,,,False,False,False,False,True
 21-156543,G1M1004,,False,False,,,"Les candidats ont l'obligation de faire acte de candidature et de déposer une offre par transmission électronique dans cette procédure. Pour se faire, les candidats à la présente procédure doivent se connecter au site Internet suivant : https://marches.grandreims.frUn guide d'utilisation à destination des opérateurs économiques est mis à sa disposition sur le site dans la rubrique ' aide '.Les offres transmises par voie postale, par télécopie et par mail ne sont pas autorisées. Le pli qui serait remis ou dont l'avis de réception serait délivré après la date et l'heure limites précitées sera éliminé. Si plusieurs offres sont successivement transmises par un même candidat, seule sera ouverte la dernière offre reçue, par voie électronique ou sur support matériel, par l'acheteur public dans le délai fixé pour la remise des offres.","Le Dossier de Consultation des Entreprises (DCE) est consultable et téléchargeable via la plateforme de dématérialisation à l'adresse internet suivante : https://marches.grandreims.frUn "" guide d'utilisation à destination des opérateurs économiques "" est mis à sa disposition sur le site dans la rubrique "" aide "".Les opérateurs économiques peuvent accéder librement au DCE sur le profil d'acheteur de la Communauté urbaine du Grand Reims sans avoir besoin de renseigner préalablement leur identité. Leur inscription est facultative et gratuite.Il est cependant recommandé aux entreprises de s'identifier lors du téléchargement du DCE afin qu'elles soient directement informés par mail de toutes modifications de la consultation.",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156544,,,True,False,"La prime attribuée à chaque candidat admis à concourir sera égale à 15 000euros HT, étant précisé que pour le titulaire du marché, la rémunération du marché de maitrise d'oeuvre inclut la prime. Une réduction ou la suppression de la prime pourra être effectuée par le maître de l'ouvrage sur proposition du jury.",,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156546,A21/19,,False,False,,,La remise des offres doit s'opérer par les moyens électroniques de la plate-forme du profil acheteur : https://www.marches-securises.fr.Les modalités de transmission électronique des plis sont définies dans le règlement de la consultation.,Le dossier de consultation des entreprises est à télécharger à l'adresse électronique suivante : https://www.marches-securises.fr,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156547,,,True,False,Chacun des quatre concurrents sélectionnés et ayant remis une prestation conforme au règlement du concours recevra une prime d'un montant de 80 000 euro(s) HT,Conformément au règlement de concours,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156549,2021-MAPA-37-GC,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156550,2021-048-PLOMB,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156551,049FR2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156552,,,False,False,,,"Les offres sont à remettre uniquement sous forme électronique (excepté les copies de sauvegarde qui se substitueront, en cas d'anomalie, aux dossiers transmis par cette voie), sur le profil d'acheteur :http://simko973.e-marchespublics.com",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156554,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156555,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156556,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-11 00:00:00,,,False,False,False,False,True
+21-156557,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156558,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156559,20-19069,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156560,2021TRAV10,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156563,21.052,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156564,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156565,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156566,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-07 00:00:00,,,False,False,False,False,True
 21-156570,2021APA025,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156571,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156572,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-27 00:00:00,l'ouverture n'est pas publique,,False,False,False,False,True
+21-156573,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-10 00:00:00,,,False,False,False,False,True
 21-156574,21AS-DIMG-2996-U,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156577,VV_nov21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156578,HDF 21 020 E1B,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156579,PA 12/11/2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156580,,,False,False,,,"La candidature peut être présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156582,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156586,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156591,MODULAIRES_CORTE_03,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156592,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156593,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156594,MAPA 08/2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
 21-156595,2021DAIP-30,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156597,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156598,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156599,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-28 00:00:00,,,False,False,False,False,True
+21-156600,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156602,2021-021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
 21-156603,PIC21062,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156605,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-28 00:00:00,,,False,False,False,False,True
+21-156608,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-17 00:00:00,,,False,False,False,True,False
 21-156609,2021-11,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156611,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-05 00:00:00,,,False,False,False,False,True
+21-156612,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156614,DA-21BG090,,False,False,,,,"Les candidats sont informés que le mode de transmission des plis sera obligatoirement électronique à l'adresse URL du profil d'acheteur suivante : https://marchespublics596280.fr Toutefois, la signature électronique n'est pas obligatoire au stade du dépôt de l'offre.Les modalités de remise des plis de manière dématérialisée sont définies au règlement de consultationLa transmission papier sera refusée par le pouvoir adjudicateur sauf "" copie de sauvegarde "" dans les conditions énumérées au règlement de consultation.Conditions et mode de paiement pour obtenir les documents contractuels et additionnels :L'ensemble des documents de la consultation sont consultables et téléchargeables à l'adresse URL du profil d'acheteur: https://marchespublics596280.fr sous la référence DA-21BG090",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156617,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156621,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156622,BNFDAJ-2021-09-08,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156623,2021-332-DER,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156624,CPCA-2021-PCVitry,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156626,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-27 00:00:00,,,False,False,False,False,True
+21-156627,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156628,2021.06,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156629,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156632,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156634,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156635,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156636,110.21-32.DRCI,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156637,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156638,21-A1-15-ANA-DECH,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156640,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156643,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156646,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156648,2021-199,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156649,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
 21-156650,21-042,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156655,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156656,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
 21-156657,2021-FCS-REG-0392,,False,False,,,,,2022-01-13 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156659,2021CD0034,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156660,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156661,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-12 00:00:00,,,False,False,False,False,True
 21-156662,A21CDDSPCDV,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156664,AC21-53,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156666,2021S32DETE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156668,21AT-Pat-0496-I,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156669,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
 21-156670,2021-FCS-GHAT-0052,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156672,PA 13/11/2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-156674,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,Mairie principale,,False,False,False,False,True
 21-156680,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156683,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156684,M668,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156685,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156686,DRAJES2122,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156687,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-14 00:00:00,,,False,False,False,False,True
+21-156688,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,UCANSS,,False,False,False,False,True
+21-156689,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
+21-156690,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156691,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,UCANSS,,False,False,False,False,True
 21-156692,21-10,,False,False,,,"Visite de site obligatoire Une visite de site obligatoire est prévue dans la cadre de cette consultation.Pour effectuer cette visite, le candidat devra convenir d'un rendez-vous auprès de Maurine VERHOYEResponsable environnementmaurine.verhoye@seneo.fr",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156694,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156695,MA21-20AMP,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156697,2021/BAP/01,,False,False,,,,,2021-12-17 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
 21-156698,Gestion-Lac-de-Castet-2022-2023,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156699,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156700,152021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156703,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156705,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156706,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,True,False
 21-156708,21AS-RDP-1556-Z,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156709,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-29 00:00:00,Hôtel du Département à la Roche-sur-Yon,,False,False,False,False,True
 21-156710,2021/FCS/0091,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156711,2021-ETU-ACP-0435,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156712,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156713,21-TVX-AMEN-02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156714,2021-027,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156716,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156717,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,Les date et heure d'ouverture des plis sont données à titre indicatif et peuvent être modifiées,False,,2021-12-28 00:00:00,,,False,False,False,False,True
 21-156718,21SIT019,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156720,2021-02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156721,2021-23-PA-SENV,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156723,2021-12,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156726,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-03 00:00:00,,,False,False,False,True,False
 21-156728,2021-24-PA-SENV,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156729,2021-05,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156730,21ASSLABASE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156732,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
 21-156734,2021-06,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156735,2021-10-01,,False,False,,,Conformément aux articles 24 à 29 du règlement de la consultation,Les documents sont remis gratuitement sur le site profil acheteur de la ville https://www.laprovencemarchespublics.com Il est fortement conseillé de s'inscrire pour le retrait du Dossier de Consultation des Entreprises afin d'être informé des modifications éventuelles du dossier en cours de consultation.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156736,2022/001,,False,False,,,Par voie électronique sur profil acheteur.Format PDF préconisé.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156737,2021-25,,False,False,,,,"Le dossier de consultation aux entreprises (D.C.E.) est consultable et téléchargeable gratuitement sur notre site : http://www.eu-supply.com/CCRV.asp Pour tout renseignement complémentaire relatif à la récupération en ligne des pièces du dossier, les entreprises peuvent s'adresser à l'équipe support de SYNAPSE Entreprises par mail sur info@synapse-entreprises.com ou au 01 72 33 90 70 qui les aidera à s'enregistrer gratuitement et leur expliquera le cadre de la démarche.",2021-12-15 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-156739,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-27 00:00:00,Hôtel de ville,,False,False,False,False,True
+21-156743,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False
+21-156744,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-17 00:00:00,,,False,False,False,False,True
 21-156745,2021-02,,False,False,,,Les offres seront déposées sur la plateforme DEMATIS e-marchespublics.comLe pli dématérialisé contient deux dossiers distincts comportant respectivement les pièces de la candidature et les pièces de l'offre définies dans le règlement de la consultation,Le retrait du dossier de consultation est gratuit et téléchargeable sur la plateforme DEMATIS e-marchespublics.com,2021-12-23 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156746,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156748,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-30 00:00:00,,,False,False,False,False,True
 21-156750,2021 09 02 1102,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156751,21MMP055LB,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156752,2021-travaux nef,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156753,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156758,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156759,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156760,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156762,2021-12,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156765,GHT-2021-052,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156767,2021_N212_S2_005291,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156768,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-03 00:00:00,Direction de la Commande Publique à Antibes,,False,False,False,False,True
 21-156769,,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156770,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-03 00:00:00,,,False,False,False,True,False
 21-156772,DGCCRF-CONCOURS-202111,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156773,2021-043 à 045,,False,False,,,Les plis contenant la candidature et l'offre doivent être transmis uniquement par voie électronique sur la plate-forme de dématérialisation des marchés publics (ou profil acheteur) à l'adresse suivante : https://www.marches-securises.fr avant les date et heure limites de remise des offres.Les modalités particulières de cette remise sont précisées dans le règlement de consultation.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-156774,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156775,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156776,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
+21-156778,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-07 00:00:00,,,False,False,False,False,True
 21-156779,,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156780,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
+21-156781,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
 21-156783,DSI2021MAPA01LOGICIELALERTE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156784,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156785,21S144,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156786,21-49,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156787,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156790,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-14 00:00:00,,,False,False,False,False,True
 21-156791,Caf_112021/ssi,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156792,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156793,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156794,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
 21-156795,2021-24B452-L01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156796,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-13 00:00:00,,,False,False,False,False,True
 21-156797,2021/GHT5/38,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156799,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156800,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-05 00:00:00,,,False,False,False,False,True
+21-156801,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-11 00:00:00,,,False,False,False,False,True
+21-156802,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-14 00:00:00,,,False,False,False,False,True
+21-156803,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-29 00:00:00,,,False,False,False,False,True
 21-156804,2021FCSSEI0331,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-10 00:00:00,,,False,False,False,False,False
 21-156805,21AS-ROU-2997-E,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156806,,,True,False,Les personnes qualifiées membres du jury exerçant leur profession à titre libéral seront indemnisées pour leur participation au jury,"Conformément à l'avis de concours le montant de la prime à verser à chacun des concurrents ayant remis leurs prestations est de 12 000 euro(s) Ht. Elle peut être réduite conformément aux propositions du jury lorsque le concurrent a fourni des prestations jugées insuffisantes par le jury.Cette prime est payée dans un délai de 30 jours à compter de la présentation par les concurrents, à l'issue de la procédure du concours, de la facture correspondante.Le montant de cette prime constitue un acompte sur la rémunération de la mission domaine bâtiment prévue au §K du présent règlement du concours",,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156807,21AVIG04,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156808,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-17 00:00:00,971 Saint-Claude,,False,False,False,False,True
+21-156809,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-24 00:00:00,,,False,False,False,False,True
 21-156810,IH/2021/2,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156811,2021DPRPM259,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156813,21034,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
@@ -3405,61 +3311,435 @@ BOAMP_AVIS_NUM,D_15_01_Conditionadministrative_Referencemarche,D_15_02_Condition
 21-156815,2021 pont Warren,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156816,GN21P25,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-16 00:00:00,,,False,False,False,False,False
 21-156817,2021M0225,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156818,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
+21-156820,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156821,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156822,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156823,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156825,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156826,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-12 00:00:00,A titre indicatif,,False,False,False,False,True
+21-156830,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,La date d'ouverture est communiquée à titre prévisionnel. La séance d'ouverture des plis n'est pas publique.,False,,2021-12-28 00:00:00,Locaux du pouvoir adjudicateur,,False,False,False,False,True
+21-156833,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156834,2021-301,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156835,2021-302,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156836,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
 21-156837,21SAGEB026,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156838,21/37,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156839,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156840,M2021_008 à 015,,False,False,,,conformément au règlement de consultation sur xmarches.fr,gratuit téléchargeable sur xmarches.fr,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156841,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-14 00:00:00,,,False,False,False,False,True
+21-156842,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,True,False
+21-156843,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-29 00:00:00,,,False,False,False,False,True
 21-156844,2101266,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156846,121404,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156847,MAPA 122603,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156849,2101640,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156850,,,True,False,Les 4 candidats admis à concourir qui auront remis une esquisse plus se verront attribuer une prime de 40 000 euro(s) après avis de la commission et décision du pouvoir adjudicateur. La prime du titulaire du marché de maîtrise d'oeuvre constituera une avance sur la prestation correspondante au titre du marché.,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156851,2021.11.SU,,False,False,,,"La transmission des documents par voie électronique est effectuée sur le profil d'acheteur du pouvoir adjudicateur, à l'adresse URL suivante : https://marchespublics.aude.fr.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156852,2021_N711_S2_005325,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156854,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156856,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-27 00:00:00,,,False,False,False,False,True
 21-156857,,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156858,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-18 00:00:00,TOULON,,False,False,False,True,False
+21-156860,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156861,2021-5021-001,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156862,2021056PAS,,False,False,,,,Documents mis à disposition gratuitement des candidats sur la plateforme de dématérialisation des procédures d'appel d'offres / profil acheteur de l'université 'place' : https://www.marches-publics.gouv.fr (numéro de dossier 2021056PAS dans le moteur de recherche) ou via le lien d'accès à la consultation :https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&AllCons&refConsultation=865017&orgAcronyme=f2h,2021-12-16 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156863,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
+21-156866,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156867,TJ_Grenoble-Accessibilite,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156868,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,True,False
+21-156869,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156871,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-08 00:00:00,,,False,False,False,False,True
+21-156872,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-25 00:00:00,Toulon,,False,False,False,False,True
 21-156873,A21290008,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156874,PA21/117,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
 21-156875,202111051220,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156876,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-19 00:00:00,,,False,False,False,False,True
 21-156877,202111051408,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156878,S21STATIONNEMENT,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156879,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
 21-156880,2021-22-23,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156881,2021-02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156884,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,Cette date est donnée à titre indicatif et que la séance n'est pas publique.,False,,2022-01-07 00:00:00,,,False,False,False,True,False
 21-156885,MAPA 2021-092,,False,False,,,"Les plis devront être transmis sur le site https://www.marches-securises.fr.Les candidats pourront, par ailleurs, adresser une copie de sauvegarde sur support électronique. Cette copie devra impérativement contenir une signature électronique. Elle devra également parvenir au Pouvoir Adjudicateur dans les délais fixés par le Règlement de la ConsultationLes dossiers de consultation sont à télécharger le site https://www.marches-securises.fr. Il est vivement recommandé aux entreprises de s'identifier, faute de quoi elles ne pourraient être informées d'éventuelles modifications apportées aux documents du dossier de consultation.Les renseignements administratifs peuvent être obtenus auprès du service de la Commande Publique : 04 92 18 23 25 (Mme PARIS)Les renseignements techniques peuvent être obtenus auprès du service des Bâtiments : 04 92 18 23 70 (M. GAIL).",,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-156886,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-12 00:00:00,Paris,,False,False,False,False,True
+21-156887,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-06 00:00:00,,,False,False,False,False,True
+21-156888,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-08 00:00:00,,,False,False,False,False,True
 21-156889,21AFF035SPL,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156890,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156891,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156893,MPS2022-01,,False,False,,,cf RC de la consultation,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-156894,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-02-21 00:00:00,,,False,False,False,False,True
+21-156895,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
+21-156896,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-30 00:00:00,,,False,False,False,False,True
+21-156897,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-14 00:00:00,Mairie de Fleury-Mérogis,,False,False,False,False,True
 21-156898,MAPA210018,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156901,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156902,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,L'ouverture des offres n'est pas publique.,False,,2022-01-03 00:00:00,,,False,False,False,False,True
+21-156903,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-31 00:00:00,,,False,False,False,False,True
+21-156904,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,Les informations sont données à titre indicatif,False,,2022-01-13 00:00:00,LEVALLOIS-PERRET,,False,False,False,False,True
+21-156905,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156906,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156907,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156908,910452_MOE_RM,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156909,21M031,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156910,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156912,R7J1001,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156913,210098,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156914,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-03 00:00:00,NANTES,,False,False,False,True,False
 21-156915,3105 - M Tvx,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156916,MA2021-0109,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156917,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-06 00:00:00,,,False,False,False,False,True
+21-156918,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-06 00:00:00,,,False,False,False,False,True
 21-156919,POIDS LOURD,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156921,2021/28,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156922,2021TX0090,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156923,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,,,False,False,False,False,True
 21-156924,21FORA02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156929,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156930,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156931,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156932,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156933,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156935,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-05 00:00:00,,,False,False,False,False,True
 21-156937,vnfdtcb-UTINY-Epizy,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156938,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156939,2021MAT057,,False,False,,,Les candidats déposeront obligatoirement leur offre sur le profil acheteur dont l'adresse est précisée au présent avis.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156940,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156941,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156942,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156943,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156944,00PS13/2022,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156946,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,True
+21-156947,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,séance non publique,False,,2022-01-07 00:00:00,,,False,False,False,False,True
 21-156949,2021-AFF-14,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
 21-156950,22MOmaisonfamilles,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156951,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-28 00:00:00,,,False,False,False,False,True
+21-156954,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-03 00:00:00,Hôtel de Ville,,False,False,False,False,True
 21-156955,21085-21088,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-17 00:00:00,Mairie de Grand-Quevilly,,False,False,False,False,False
 21-156956,Equip VMA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156957,2021/053,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156958,PBC 2020 14434 M,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156962,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156963,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156964,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-07 00:00:00,,,False,False,False,False,True
 21-156965,21PAO-191,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,False
+21-156966,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-27 00:00:00,,,False,False,False,True,False
 21-156967,2021TX04,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156968,21A116,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156969,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-29 00:00:00,,,False,False,False,False,True
+21-156970,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156971,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156972,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-23 00:00:00,,,False,False,False,False,True
+21-156973,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-20 00:00:00,,,False,False,False,False,True
+21-156974,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156975,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156978,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156980,2021-MAPA-05,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-156981,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-156983,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-31 00:00:00,SEMSAMAR,,False,False,False,False,True
+21-156986,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
 21-156987,MAPAREMCA - 202202 - BAR,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156988,PREF973_AMO_SMO_CAY-SLM2,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-156996,21MAR007,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-157001,2021-PA-FOU-003,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157016,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,True
+21-157021,,,True,False,"La prime attribuée à chaque candidat admis à concourir sera égale à 17 000euros HT, étant précisé que pour le titulaire du marché, la rémunération du marché de maitrise d'oeuvre inclut la prime. Une réduction ou la suppression de la prime pourra être effectuée par le maître de l'ouvrage sur proposition du jury.",,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-157022,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-157023,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-11 00:00:00,,,False,False,False,False,True
+21-157024,MAPAno2021-14,,False,False,,,La transmission des candidatures et des offres des entreprises se fait par voie électronique à l'adresse suivante :https://www.marches-securises.fr,Le dossier de consultation des entreprises est téléchargeable sur le site : http://marches-securises.fr,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157044,2021-TX-DAB-0313,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157047,21164,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157050,25,,False,False,,,Remise des plis par voie électronique obligatoire sur www.marches-securises.fr ( assistance : 04.92.90.93.27 ) Pas de signature électronique.En mode DUME : les soumissionnaires candidatent avec leur no de SIRET et un DUME simplifié est automatiquement généré (voir RC article 5-5),,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157056,R4V1003,,False,False,,,"Les candidats ont l'obligation de faire acte de candidature et de déposer une offre par transmission électronique dans cette procédure. Pour se faire, les candidats à la présente procédure doivent se connecter au site Internet suivant : https://marches.grandreims.frUn guide d'utilisation à destination des opérateurs économiques est mis à sa disposition sur le site dans la rubrique ' aide '.Les offres transmises par voie postale, par télécopie et par mail ne sont pas autorisées. Le pli qui serait remis ou dont l'avis de réception serait délivré après la date et l'heure limites précitées sera éliminé. Si plusieurs offres sont successivement transmises par un même candidat, seule sera ouverte la dernière offre reçue, par voie électronique ou sur support matériel, par l'acheteur public dans le délai fixé pour la remise des offres.","Le Dossier de Consultation des Entreprises (DCE) est consultable et téléchargeable via la plateforme de dématérialisation à l'adresse internet suivante : https://marches.grandreims.frUn "" guide d'utilisation à destination des opérateurs économiques "" est mis à sa disposition sur le site dans la rubrique "" aide "".Les opérateurs économiques peuvent accéder librement au DCE sur le profil d'acheteur de la Ville de Reims sans avoir besoin de renseigner préalablement leur identité. Leur inscription est facultative et gratuite.Il est cependant recommandé aux entreprises de s'identifier lors du téléchargement du DCE afin qu'elles soient directement informés par mail de toutes modifications de la consultation.",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157063,21170,,False,False,,,"La candidature peut être présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157069,,,False,False,,,La transmission par voie électronique est seule admise à l'adresse suivante : http://neufchatel-hardelot.e-marchespublics.com,"Le D.C.E. pourra être téléchargé gratuitement sur le site http://neufchatel-hardelot.e-marchespublics.com. Il sera également remis gratuitement à chaque candidat qui en fera la demande par fax (03.21.33.66.51), par courrier (Mairie de NEUFCHATEL-HARDELOT - Direction Générale des Services - Rue des Allées 62152), par courrier électronique (direction.generale@ville-neufchatel-hardelot.fr) ou en mairie (du lundi au jeudi de 8h à 12h et de 13h30 à 18h, le vendredi de 8h à 12h et de 13h30 à 17h)",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157070,21S0079,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157076,2021/006,,False,False,,,Conditions d'envoi ou de remise des offres :Les offres seront transmises par voie électronique avant le mercredi 12 janvier 2022 à 17h00à l'une ou plusieurs des adresses suivantes:contact@smec82.fr;gaelle.beauvieux@smec82.fr;benjamin.hagg@smec82.fr;laurent.pignol@smec82.fr;,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157107,MARMANDESUDII,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157111,SMI-US-2021-10,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157117,2021-17,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157121,2021PI034,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,False
+21-157122,21026MAR00,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157123,2021-COM-0002,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157125,DIER-526-21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157126,2021SIVAT0401,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157128,2021-011,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157132,MAPA 2021-08,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157150,DREAL_SSTV_AMENAG_FOURG_2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157153,21S0079,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157154,2021-012,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157156,SPLTVX21034,,False,False,,,,"Téléchargement gratuit des pièces sur le site https://www.ternum-bfc.fr/ (dans le menu "" consultations "", cliquer dans la case "" recherche rapide "", et renseigner la référence suivante : SPLTVX21034",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157164,2021 CSAPA 001,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157172,2021M58A,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157178,21000293,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157181,2021_N211_S1_004419,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157183,Gymnase,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157184,,,False,False,,,"La transmission des candidatures et des offres des entreprises est réalisée obligatoirement par voie électronique à l'adresse suivante : https://marchespublics-maineetloire.safetender.com,Par conséquent, la transmission par voie papier ou sur un support physique électronique (CD ROM, clé USB...) n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157186,21SSYA14,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2021-12-16 00:00:00,Siège du SyAGE,,False,False,False,False,False
+21-157187,2021-000236-000237,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,False
+21-157188,2021-000235,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,False
+21-157189,2021_0127_TVX_IP,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157192,21SSYA15,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2021-12-16 00:00:00,Siège du SyAGE,,False,False,False,False,False
+21-157193,M1D0044EP,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157197,2021-07,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157198,ANALYSE MATIERE DE VIDANGES,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-14 00:00:00,Beauvais,,False,False,False,False,False
+21-157200,2021-AC-NOV,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157211,,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157213,4/2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157214,2021-SI-02,,False,False,,,Celles décrites au règlement de consultation,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157220,2021-PCO03-044,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157221,RMPIO2021-09,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157225,2021_MOE_AAGV_PLOUMAGOAR,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157238,TXSTEXUPERY,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157239,4838,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157241,FOUR147,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157242,2102883400PC,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157246,21AF-0250-G,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157248,2021-TX-SRVP-0194,,False,False,,,,,2021-12-27 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157249,20210535,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157252,PA21039,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157253,2021-08,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157254,21ST06,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157255,02482CXXA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157256,20211125SPS,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157269,1253 - étude franges RD115,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157270,SGCD-Prefecture-menuiseriesRDC,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157273,2021_012,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157276,NOV21-ETU-LONG2,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157277,FOUR062,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157281,2022MG01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157300,DUCDID21-03,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157301,21DRUE069,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157304,M2021-21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157312,202118,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157313,21S0032,,False,False,,,"Conformément aux dispositions de l'article R2132-7 du Code de la Commande Publique, le pouvoir adjudicateur impose la transmission desCandidatures et des offres des entreprises par voie électronique à l'adresse suivante :https://marchespublics-ch-mulhouse.omnikles.com.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157320,2021.TX.ECPU.0331,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157321,A21590003,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157324,21MG005,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157334,ENV2117,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157337,21-010,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157339,721128,,False,False,,,,Les documents sont téléchargeables sur la plateforme PLACE en libre accès : www.marches-publics.gouv.fr,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157340,SPL 029.11 à 029.12,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157349,2021-03,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157351,2100081,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157353,2021-0526,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157355,2021/19,,False,False,,,"Le dossier "" candidature/offre "" doit obligatoirement être transmis par voie électronique sur le site https://marchespublics-amhr.omnikles.com. La procédure de dématérialisation sur le site est gratuite.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157356,2021-59-lps-lille,,False,False,,,,Se référer à l'article 2-5 du RPC.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157357,21S0078,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157362,20213AA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157368,2022-DSTP-STRAV-028,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157371,2021-002,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157373,F2021/MLM/FOURN. IMPR.,,False,False,,,,"L'avis est envoyé par voie électronique sur le site www.achatpublic.com et donne un accès libre, direct et complet aux documents de la consultation; dossier gratuit téléchargeable sur le site www.achatpublic.comLes frais d'accès au réseau et de recours à la signature électronique sont à la charge des candidats.",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157375,21_BAM_180,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157377,2021-M122,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157380,2021-14,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157385,U21INF08,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-07 00:00:00,,,False,False,False,False,False
+21-157386,2021_ELMN_0051,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157387,2021_0113_FCS_LD,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157389,MAPA 21-34,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-24 00:00:00,Saint-Denis,,False,False,False,False,False
+21-157392,MAPA 21-33,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-24 00:00:00,"Saint-Denis, Bellepierre",,False,False,False,False,False
+21-157393,2021110,,False,False,,,,,2022-01-09 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2022-01-11 00:00:00,,,False,False,False,False,False
+21-157403,S22AMO-RIVEGAUCHE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157404,21050_PA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,Hôtel de ville Amiens,,False,False,False,False,False
+21-157405,HDF 21 019 T2I/F1A,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157407,21005COL,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157408,21004COL,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157409,CDP29DLS22,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157410,2021-SCDE-0007,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157414,,,False,False,,,Voir règlement de consultation,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157436,599/21/2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157446,CCSA-291121-01,,False,False,,,Les offres doivent être transmises de façon dématérialisée comme précisé au point 5-4 page 5 du Règlement de Consultation.,Le pouvoir adjudicateur met à disposition le dossier de consultation par voie électronique à l'adresse suivante : https://marchespublics596280.fr,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157450,M21-091,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157453,2021/T/02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157459,MA2021-11,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157468,21-EPMD-SGNC-MOEVVDuclairVE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-11 00:00:00,,,False,False,False,False,False
+21-157470,2021/019,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2021-12-14 00:00:00,FOIX,,False,False,False,False,False
+21-157471,2021-0112,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157472,21/029,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,,,False,False,False,False,False
+21-157474,,,False,False,,,https://marches.ternum-bfc.fr référence : ELECTRICITE2022A,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157491,2021-02,,False,False,,,Se reporter au règlement de la consultation,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157512,,,False,False,,,Les plis sont transmis par voie électronique sur la plate-forme sécurisée du site https://www.marches-securises.fr,Le Dossier de Consultation est téléchargeable sur à l'adresse suivante : https://www.marches-securises.fr,2022-01-02 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157513,2101671,,False,False,,,,,2022-01-11 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157520,Trvx Piste athlétisme de Vongy,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157523,2022SAUDBP1,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157528,renovenerg,,False,False,,,voir règlement de la consultation,aucun,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157536,2021-12,,False,False,,,Les candidatures et offres seront obligatoirement transmises par voie électronique.Aucune transmission par voie papier n'est autorisée.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157538,21S0053,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157539,21S0054,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157541,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157542,202110210933,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157546,B210006,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157557,21059_PA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157563,2021-DAP62,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157566,ETUDEBENERY,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157572,21_BAM_233,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157574,PA-CHAUFFERIECORCOUE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157580,21.180.271,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157584,2021MAT057,,False,False,,,Les candidats déposeront obligatoirement leur offre sur le profil acheteur dont l'adresse est précisée au présent avis.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157585,21S0059,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157587,21/3025,,False,False,,,"Conformément aux dispositions de l'article R.2132-7 du Code de la commande publique, les candidatures et les offres doivent être communiquées par voie électronique uniquement. Le pli devra être remis avant la date indiquée sur la page de garde du règlement de consultation applicable à la présente procédure. Les candidats devront s'assurer par eux-mêmes que leurs soumissions sont parvenues avant l'expiration du délai.les offres dématérialisées seront transmises sur la plateforme dématérialisée www.marchés-sécurisés.fr selon la procédure dématérialisée indiquée sur le site de la Commune à l'adresse suivante:https://www.sanarysurmer.com/emplois-achats/commande-publique/politique-achats-de-la-commune.html",,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157590,VIGA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157593,MAE2,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157594,2021-1790,,False,False,,,,,2021-12-15 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2021-12-21 00:00:00,,,False,False,False,False,False
+21-157595,MAE2,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157603,,,False,False,,,https://marches.ternum-bfc.fr référence : Electricite2022b,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157609,T2138,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157610,973/CACL/2021/AEP/17,,False,False,,,,,2021-12-08 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157613,2021DIC301,,False,False,,,,,2021-12-12 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157614,2021-038,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157616,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-157618,,,False,False,,,"Le dépôt des offres se fera exclusivement par voie dématérialisée , avant la date et l'heure fixées sur le réglement de consultation.Pour le dépôt des candidatures et des offres, les candidats se reporteront sur le profil acheteur https://www.marches-securises.fr",,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157619,2115031,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157637,2021DEC045,,False,False,,,"Les offres des candidats devront être transmises exclusivement par voie dématérialisée à partir du profil acheteur de la CIVIS à l'URL suivante : http://civis.e-marchespublics.com. Le candidat n'est pas autorisé à envoyer son offre en deux temps sous la forme d'un double-envoi. Seul le dernier pli reçu sera pris en compte. La soumission doit être reçue en totalité avant la date et l'heure indiquées dans le présent règlement de la consultation. Pour les envois à partir du profil d'acheteur, il appartient au candidat de tenir compte de la durée du téléchargement qui est fonction du débit de l'accès internet du candidat et de la taille des documents à transmettre.","Le Dossier de Consultation est à retirer par voie dématérialisée en respectant les consignes relatives à la dématérialisation figurant en annexe à l'URL suivante : http://civis.e-marchespublics.com. Le Dossier de Consultation pourra être obtenu jusqu'à la date limite de réception des offres. Les candidats sont appelés à s'identifier lors du retrait du DCE en indiquant à minima une adresse électronique valide et durable pendant toute la durée de la procédure. Ils pourront ainsi bénéficier de toutes les informations complémentairement éventuellement diffusées lors de la consultation. En effet, les candidats sont informés que la CIVIS utilise le profil acheteur comme support de diffusion des éventuelles réponses aux questions posées et lors des éventuelles modifications du DCE. A défaut d'identification sur le profil acheteur, les candidats sont invités à consulter régulièrement le profil acheteur de la CIVIS à l'URL suivante : http://www.civis.e-marchespublics.com. Les candidats doivent poser leurs questions 10 jours avant la date de réception des offres.",2022-01-09 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157654,TVX_CDER_RUE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157667,21218-TRX,,False,False,,,Les plis devront être déposés sur la plateforme de dématérialisation : https://cubik.marches-securises.fr,Le DCE est entièrement gratuit dès lors qu'il est téléchargé sur la plateforme,2022-01-04 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157671,Piscine Viviers - Bassins plages,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157673,2021-FCS-MBAA-0320,,False,False,,,"la transmission des documents par voie électronique est effectuée sur le profil d'acheteur www.marches-securises.fr. Les modalités de transmission des plis par voie électronique sont définies dans le règlement de consultation.La candidature peut être présentée soit sous la forme des formulaires Dc1 et Dc2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (Dume).La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157677,21210000,,False,False,,,,"Dossier de consultation gratuit, téléchargeable à l'adresse suivante :https://www.achatpublic.com/sdm/ent/gen/ent_detail.do?PCSLID=CSL_2021_WruRHwMkJn&v=1&selected=0",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157688,CCAS2021-01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157708,22SERV02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157717,M710,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157721,T1DC1017TRVX,,False,False,,,,,2022-01-03 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157722,2021SAM247,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157724,2022-DV,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157725,2022-BOUES,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157746,21S0001,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157751,PIETRO MAPA 2021-11-04,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157752,2021CM-TRX103,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157758,21S0766,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157760,21P039,,False,False,,,"Les offres seront déposées exclusivement par voie dématérialisée, avant la date et l'heure limites fixées sur la page de garde du règlement de la consultation.L'acte d'engagement devra être complété et déposé au format Word.Aucune signature ne doit être apposée sur l'acte d'engagement au moment du dépôt de l'offre. La plateforme n'empêchera pas le dépôt d'une offre non signée.L'acte d'engagement sera in fine signé électroniquement entre le SDIS des Alpes-Maritimes et l'attributaire à l'issue de la procédure de passation",,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157764,21MAM019,,False,False,,,Les offres devront obligatoirement être remises sur le profil d'acheteur Alsace Marchés Publics : https://portail.alsacemarchespublics.eu/,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157765,MAPA21MA98,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157769,DAF_2021_000078,,False,False,,,,"Le dossier de consultation est disponible et peut être téléchargé sur le site : www.marches-publics.gouv.fr sous la référence de la consultation, projet N°DAF_2021_000078",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157771,TMA-KPORTAL2022,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157772,,,False,False,,,La remise des plis ne peut s'effectuer que sur la plateforme de dématérialisation : https://www.marches-securises.fr La signature des offres n'est pas obligatoire lors de la remise des plis. Seule l'offre de l'attributaire désigné devra être obligatoirement signée avant la notification du marché.Le Pouvoir Adjudicateur préconise la signature électronique. Chaque document pour lequel une signature est requise sera revêtu d'un certificat de signature électronique au format indiqué à l'annexe du Règlement de la Consultation. Une seule signature électronique pour l'ensemble des documents déposés sur la plateforme ne peut être acceptée.,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157777,211130,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157779,,,False,False,,,"La transmission des candidatures et des offres est imposée par voie électronique sur notre profil acheteur : http://amneville.synapse-entreprises.comPour tout renseignement relatif à l'usage de la plate-forme, les entreprises peuvent s'adresser à l'équipe support de SYNAPSE Entreprises info@synapse-entreprises.com ou par téléphone au 01 72 33 90 70.",Le DCE est consultable et téléchargeable gratuitement sur notre site : www.amneville-les-thermes.com ainsi que sur notre profil acheteur : http://amneville.synapse-entreprises.com à compter du 30 novembre 2021.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157786,21c-070-06,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157794,M2021-126 PREV,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157795,LAD2021-018,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157796,2021-171-DPI,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157797,2021-MP-MOE-01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157800,2021-17,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157804,01-2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157806,21F33,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157807,2021.11.12,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157811,APL_10_2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157813,2021-78G,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157820,2021-10,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157821,2021-41,,False,False,,,Le dépôt dématérialisé des candidatures et des offres est imposé à l'adresse suivante : http://www.caprovenceverte.e-marchespublics.com,"Le dossier de consultation sera mis gratuitement à disposition des entreprises par voie électronique, sur le profil acheteur à l'adresse suivante : http://www.caprovenceverte.e-marchespublics.com. Ce site est d'accès libre, direct et complet.",,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157826,S/2021/PM/EXTINCTEUR,,False,False,,,,Le dossier de consultation des entreprises est disponible gratuitement à l'adresse électronique suivante :www.achatpublic.com,2022-01-04 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157827,SE2021-05,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157840,2021-016,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157841,2021.045,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157844,20211802,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157846,20211961-SG,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157847,A21070093,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157861,2021_17602_0088,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157866,,,False,False,,,Transmission par voie électronique sur le profil d'acheteur du pouvoir adjudicateur à l'URL suivant :http://www.e-marchespublics.com,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157867,CCIE-21-015,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157868,2022001,,False,False,3500 euros TTC pour les 2 candidats non sélectionnés au moment de l'offre,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157874,202108241405,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157875,T22005,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157876,2021-CDB-0021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157884,2021-MAPA-015,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157887,Séverine no 13 du 30/11/2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157897,2021-61-gav-coquelles,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157904,2100084,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157907,2021-35,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157908,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157909,HAPI211116,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157914,2021-ETU-DAT-0363/BO.,,False,False,,,"La candidature peut être présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157917,2021CD0036,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157919,2489_1_02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2022-01-05 00:00:00,Département de l'Essonne,,False,False,False,False,False
+21-157921,ISAE2021FCS0018,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-04 00:00:00,,,False,False,False,False,False
+21-157929,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-157934,M 21 17 00,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157937,2021-DST-12,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157961,21MG000069,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157968,,,False,False,,,"La transmission des documents par voie électronique est effectuée sur le profil d'acheteur du pouvoir adjudicateur, à l'adresse URL suivante : https://marches-agglo-compiegne.safetender.comLes modalités de remise des offres sont indiquées dans le règlement de la consultation.",Le Dossier de Consultation des Entreprises est en accès libre et gratuit pour téléchargement sur le profil acheteur : https://marches-agglo-compiegne.safetender.comAucune demande d'envoi du DCE sur support physique électronique n'est autorisée.,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157969,2021-ETU-DCP-0313/BO,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157974,21ST08,,False,False,sans objet.,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157975,2019-834,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157981,21S0112,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,2022-01-10 00:00:00,Sytral,,False,False,False,False,False
+21-157982,2021-ASST-008,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157984,2021_DIM_0444,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157985,TAMISET21ASMREL2,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157988,02482BXXA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157989,2021_ELMN_0055,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157990,MAPA 2021.070,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157991,2021-SPC-0034,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157993,21835038_MAPA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-157996,2021.FCS.RH.0350,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158002,M2021-25,,False,False,,,"La candidature est présentée soit sous la forme des formulaires DC1 et DC2 (disponibles gratuitement sur le site www.economie.gouv.fr.), soit sous la forme d'un Document Unique de Marché Européen (DUME). La transmission des plis par voie électronique est imposée pour cette consultation. Par conséquent, la transmission par voie papier n'est pas autorisée.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158005,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-158006,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-158007,AMOSRDTL23-28,,False,False,,,"est autorisée pour cette consultation, la remise des plis (candidature et offres) exclusivement par voie électronique en utilisant prioritairement le Document Unique De Marchés Européens 'Dume' (procédure décrite dans le guide de réponse en ligne) via le site https://ternum-bfc.fr.La signature électronique ne sera pas exigée au stade de la remise de l'offre.Les formats de fichiers rtf, docs, slsx, slk, pdf, pptx, ppsx, dwg, dxf, jpg sont acceptés.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158008,202120,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158012,C2021-33,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158023,2021-11,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158025,21C5827,,False,False,,,"A.Lettre de candidature identifiant le candidat et sa structure juridique. La lettre de candidature contient également les coordonnées auxquelles le candidat est joignable. En cas de groupement, le candidat indique s'il est mandataire, la nature juridique du groupement et sa compositionB.Attestation sur l'honneur indiquant qu'il n'entre dans aucun des cas mentionnés aux articles 45 et 48 de l'ordonnance du 23 juillet 2015 susvisée et notamment qu'il est en règle au regard des articles L. 5212-1 à L. 5212-11 du code du travail concernant l'emploi des travailleurs handicapés C.Le cas échéant, copie du jugement si le candidat est en redressement judiciaireD.Attestation des administrations compétentes justifiant que le titulaire à procéder à l'ensemble des déclarations fiscales et sociales lui incombant.E.Déclaration concernant le chiffre d'affaires global et le chiffre d'affaires concernant les travaux objet du contrat, réalisés au cours des trois derniers exercices disponiblesF.Déclaration appropriée de banques ou preuve d'une assurance pour les risques professionnelsG.Liste d'au moins trois prestations similaires au présent marché effectuées au cours des trois dernières années, accompagnée de d'attestations de bonne exécution comprenants le montant, l'objet, la date et le lieu d'exécution des travaux.H.Liste des moyens matériels et humains de l'entreprise avec notamment la description des capacités techniques des intervenants",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158026,21-039,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158028,Eglise STG 2021-01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158030,2021GENIEBOISLOT5,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158035,21PA-J19,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158036,2021T152,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158037,2021/PS/01,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158047,2021 - RIDEAUX,,False,False,,,"Les candidatures et offres devront être obligatoirement remises par voie électronique, via le profil acheteur.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158049,2021-50_DEMOLITION_CASERNE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158050,TV-21-039 à 045,,False,False,,,La remise des plis s'effectue par voie électronique sur le profil d'acheteur: www.marches-securises.fr. Les modalités de remise des copies de sauvegarde sont fixées au règlement de la consultation.,,2021-12-22 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-158054,22EL2040,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-158057,21DUNSI04,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,2022-01-03 00:00:00,GUERET,,False,False,False,False,False
+21-158058,202193MS0062,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158063,9NHATA21028,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158064,33_2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158066,21520018_MAPA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158068,2021130,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158070,21-COM-12,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158082,2021.11.13,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158091,21022,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158100,5000SPS,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158102,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,True
+21-158105,M679,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158108,2021-11,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158109,N°2021-43-PBR-BARDAGE,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158110,M678,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158114,M630,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158115,21REG02,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158116,HACOE211911,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158117,2021M003,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158118,20210000025-000,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158119,0037-TRAM-21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-158122,MA 21 NA 0011,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158125,2021-11,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158126,AVI-02-21,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158127,2021M097,,False,False,,,CONDITIONS D'ENVOI DES OFFRES (cf article 7 du RC),,2021-12-21 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-158130,Gravilliers - 202111 - PG,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158135,2021-ETU-0141,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158138,2021/17,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158140,202111291142,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158142,213000,,False,False,,,"-La lettre de candidature selon le nouvel imprimé DC1 téléchargeable sur http://www.economie.gouv.fr/daj/formulaires-declaration-candidat;-déclaration du candidat selon le nouvel imprimé DC2 téléchargeable sur http://www.economie.gouv.fr/daj/formulaires-declaration-candidat ;-Ou compléter un formulaire E-DUME (qui se substitue à la DC1 et à la DC2) via https://dume.chorus-pro.gouv.fr-La déclaration sur l'honneur type remise par la CGSSM ;-une liste de références pour des prestations similaires (moins de trois ans), avec les références du client, leur montant et leur date d'exécution. -Si l'entreprise est en redressement judiciaire, une copie certifiée conforme du jugement.-Si les documents ne sont pas signés par la personne habilitée, ils devront être accompagnés d'un pouvoir.Dans tous les cas, au moment de l'attribution :-une copie de l'attestation URSSAF de "" fourniture de déclarations sociales et de paiement des cotisations et contributions de sécurité sociale "" datant de moins de six mois ;-La copie des certificats attestant la déclaration et le paiement des impôts, taxes et cotisations sociales, délivrés par les administrations fiscales et organismes compétents ;-Une copie de l'extrait K-bis datant de moins de trois mois ;-Une attestation d'assurance en cours de validité.-Les pièces prévues aux articles D8222-5 ou D8222-7 et D8222-8 du code du travail.",,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158154,2021.044,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158155,2105039,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158158,BIO2021-161,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158162,2021-M190,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158163,FOUR_04-2021,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158167,210212,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158170,VOI 2021/01,,False,False,,,,,2022-01-06 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-158173,21AT-0057-N,,False,False,,,,,2022-01-13 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-158175,21S0074AS,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158177,PT_SPS_TRX_GEN,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158191,2019 087 TOPO FCS CR,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158195,2021-24,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158197,910517_T_5LOTS_RB,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158199,Vesoul2021-11SR,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158200,21M0613PA,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158201,2021-TX-ST-0003,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,True,,False,,,,,False,False,False,False,False
+21-158202,MG/NB/ 21-311,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158206,2021-Salle-fetes,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158208,M2021-12,,False,False,,,,Les documents de la consultation sont gratuitement téléchargeables sur https://www.marches-publics.gouv.fr/,2022-01-10 23:00:00,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
+21-158209,PA21Info,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-30547,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,La date d'ouverture des plis est prévisionnelle.,False,,2021-12-08 00:00:00,,,False,False,False,False,True
 21-32191,,,False,False,,,le dossier est disponible à l'adresse électronique suivante : https://vichy-communaute.achatpublic.com. L'offre devra obligatoirement être déposée à la même adresse,voir règlement de la consultation,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,False,False,False,False,False
 21-66022,,,False,False,,,,,,CF_NIV_SUIV,CF_NIV_SUIV,,,False,,False,,,,,True,False,True,False,False

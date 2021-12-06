@@ -6,7 +6,9 @@ BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Type
 21-110950,False,False,True,False,False,False,
 21-111880,False,False,True,False,False,False,
 21-112983,False,False,True,False,False,False,
+21-113614,False,False,True,False,False,False,
 21-113741,False,False,False,False,True,False,
+21-115158,True,False,False,False,False,False,
 21-115588,False,False,True,False,False,False,
 21-115829,False,False,True,False,False,False,
 21-116972,False,False,False,False,True,False,
@@ -30,6 +32,7 @@ BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Type
 21-128652,False,False,False,False,True,False,
 21-129506,False,False,True,False,False,False,
 21-131050,False,False,False,False,False,False,Collectivité territoriale à statut particulier
+21-131928,False,False,True,False,False,False,
 21-133220,False,False,True,False,False,False,
 21-133244,False,False,True,False,False,False,
 21-133698,True,False,False,False,False,False,
@@ -53,6 +56,7 @@ BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Type
 21-137664,False,False,True,False,False,False,
 21-137721,False,False,False,False,True,False,
 21-137755,False,False,True,False,False,False,
+21-137921,False,False,True,False,False,False,
 21-138741,False,False,False,False,False,False,"CHU de Martinique, service travaux maintenance et"
 21-139120,False,False,True,False,False,False,
 21-139143,False,False,False,False,False,False,Collectivté territoriale
@@ -152,6 +156,7 @@ BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Type
 21-146176,False,False,False,False,False,False,Collectivité territoriale (commune)
 21-146177,False,False,False,False,True,False,
 21-146178,True,False,False,False,False,False,
+21-146187,False,False,False,False,True,False,
 21-146194,False,False,False,False,False,False,autre
 21-146195,False,False,True,False,False,False,
 21-146200,True,False,False,False,False,False,
@@ -1206,6 +1211,7 @@ BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Type
 21-149019,True,False,False,False,False,False,
 21-149020,False,False,False,True,False,False,
 21-149022,False,False,False,False,False,False,ETABLISSEMENT DE SANTE
+21-149028,False,False,False,False,True,False,
 21-149031,False,False,False,True,False,False,
 21-149035,False,False,False,False,False,False,SA HLM
 21-149036,False,False,True,False,False,False,
@@ -1915,3 +1921,121 @@ BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Type
 21-150990,False,False,True,False,False,False,
 21-150991,False,False,True,False,False,False,
 21-150992,False,False,False,False,True,False,
+21-150993,True,False,False,False,False,False,
+21-150997,False,False,False,False,True,False,
+21-150998,False,False,True,False,False,False,
+21-150999,False,False,True,False,False,False,
+21-151000,False,False,True,False,False,False,
+21-151003,False,False,False,False,False,False,SYNDICAT MIXTE
+21-151004,True,False,False,False,False,False,
+21-151006,False,False,False,False,True,False,
+21-151007,True,False,False,False,False,False,
+21-151008,False,False,False,False,False,False,CAF DU NORD
+21-151010,False,False,False,False,True,False,
+21-151011,False,False,True,False,False,False,
+21-151012,False,False,True,False,False,False,
+21-151013,False,False,False,False,False,False,autre
+21-151016,False,False,True,False,False,False,
+21-151017,False,False,True,False,False,False,
+21-151018,False,False,True,False,False,False,
+21-151020,False,False,True,False,False,False,
+21-151021,False,False,False,False,False,False,Etablissement public de santé
+21-151023,False,False,False,False,False,False,Santé
+21-151027,False,False,False,False,False,False,Conseil constitutionnel
+21-151028,True,False,False,False,False,False,
+21-151041,False,False,True,False,False,False,
+21-151051,False,False,False,False,True,False,
+21-151065,False,False,True,False,False,False,
+21-151066,False,False,True,False,False,False,
+21-151068,False,False,True,False,False,False,
+21-151069,False,False,True,False,False,False,
+21-151070,True,False,False,False,False,False,
+21-151071,False,False,True,False,False,False,
+21-151072,False,False,True,False,False,False,
+21-151073,False,False,True,False,False,False,
+21-151074,False,False,True,False,False,False,
+21-151078,False,False,False,False,True,False,
+21-151086,False,False,False,True,False,False,
+21-151089,False,False,False,False,False,False,Etablissement public de santé
+21-151092,False,False,True,False,False,False,
+21-151093,False,False,False,False,True,False,
+21-151094,False,False,True,False,False,False,
+21-151097,False,False,False,False,True,False,
+21-151100,False,False,False,False,True,False,
+21-151101,False,False,True,False,False,False,
+21-151102,False,False,True,False,False,False,
+21-151103,False,False,True,False,False,False,
+21-151104,False,False,False,True,False,False,
+21-151107,False,False,True,False,False,False,
+21-151113,False,False,False,False,True,False,
+21-151114,False,False,True,False,False,False,
+21-151122,False,False,False,False,False,False,SEM
+21-151123,False,False,True,False,False,False,
+21-151125,False,False,False,False,False,False,EPCI
+21-151126,False,False,True,False,False,False,
+21-151130,False,False,True,False,False,False,
+21-151134,False,False,True,False,False,False,
+21-151136,False,False,False,False,False,False,établissement intercommunal
+21-151139,False,False,False,False,False,False,EPCI
+21-151140,False,False,True,False,False,False,
+21-151149,False,False,False,True,False,False,
+21-151150,False,False,False,False,True,False,
+21-151152,False,False,False,False,True,False,
+21-151155,False,False,False,False,True,False,
+21-151157,False,False,True,False,False,False,
+21-151158,True,False,False,False,False,False,
+21-151160,False,False,True,False,False,False,
+21-151163,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+21-151165,False,False,False,False,False,False,Etablissement public de santé
+21-151167,False,False,False,False,False,False,EHPAD
+21-151172,False,False,True,False,False,False,
+21-151176,False,False,False,False,True,False,
+21-151182,False,False,True,False,False,False,
+21-151186,False,False,True,False,False,False,
+21-151188,False,False,True,False,False,False,
+21-151192,False,False,False,False,False,False,Etablissement public de santé
+21-151193,False,False,True,False,False,False,
+21-151197,False,False,True,False,False,False,
+21-151198,False,False,True,False,False,False,
+21-151201,False,False,True,False,False,False,
+21-151203,False,False,False,False,True,False,
+21-151204,False,False,True,False,False,False,
+21-151205,False,False,True,False,False,False,
+21-151206,False,False,False,False,True,False,
+21-151208,False,False,False,False,True,False,
+21-151212,False,False,False,False,True,False,
+21-151213,False,False,False,False,False,False,EPCI
+21-151215,False,False,False,False,False,False,Santé
+21-151217,False,False,False,False,True,False,
+21-151219,False,False,True,False,False,False,
+21-151220,False,False,True,False,False,False,
+21-151226,False,False,False,False,True,False,
+21-151228,True,False,False,False,False,False,
+21-151229,False,False,True,False,False,False,
+21-151234,False,False,False,False,False,False,Etablissement Public de santé
+21-151235,False,False,True,False,False,False,
+21-151238,False,False,False,False,True,False,
+21-151244,False,False,False,False,True,False,
+21-151251,False,False,False,False,True,False,
+21-151252,False,False,False,False,True,False,
+21-151254,False,False,True,False,False,False,
+21-151255,False,False,True,False,False,False,
+21-151256,False,False,True,False,False,False,
+21-151259,False,False,False,False,True,False,
+21-151261,False,False,False,False,True,False,
+21-151264,False,False,True,False,False,False,
+21-151270,False,False,True,False,False,False,
+21-151271,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+21-151273,False,False,False,False,True,False,
+21-151275,False,False,True,False,False,False,
+21-151276,False,False,False,False,True,False,
+21-151280,False,False,False,False,True,False,
+21-151283,False,False,False,False,True,False,
+21-151291,False,False,True,False,False,False,
+21-151292,False,False,False,False,True,False,
+21-151294,False,False,False,False,True,False,
+21-151301,False,False,True,False,False,False,
+21-151302,True,False,False,False,False,False,
+21-151303,False,False,False,False,False,False,COLLECTIVITE LOCALE
+21-151306,False,False,False,False,True,False,
+21-151307,False,False,False,False,True,False,
