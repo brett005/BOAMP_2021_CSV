@@ -1,593 +1,2663 @@
 BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Typepouvoiradjudicateur_Agencenational,D_03_03_Typepouvoiradjudicateur_Autotriteregional,D_03_04_Typepouvoiradjudicateur_Agenceregional,D_03_05_Typepouvoiradjudicateur_Orgdroitpublic,D_03_06_Typepouvoiradjudicateur_Institutioneuropeenne,D_03_07_Typepouvoiradjudicateur_Autre
-21-158441,False,False,True,False,False,False,
-21-158442,False,False,False,False,True,False,
-21-158443,False,False,True,False,False,False,
-21-158445,False,False,True,False,False,False,
-21-158446,False,False,False,False,True,False,
-21-158447,False,False,False,False,True,False,
-21-158449,False,False,False,False,False,False,Etablissement consulaire
-21-158452,False,True,False,False,False,False,
-21-158454,False,False,True,False,False,False,
-21-158455,False,False,True,False,False,False,
-21-158472,False,False,True,False,False,False,
-21-158473,False,False,False,False,True,False,
-21-158474,False,False,False,False,True,False,
-21-158476,False,False,False,False,True,False,
-21-158478,False,False,False,False,True,False,
-21-158479,False,False,True,False,False,False,
-21-158480,False,False,True,False,False,False,
-21-158482,False,False,True,False,False,False,
-21-158484,False,False,False,False,False,False,Société Publique Locale - Personne morale de droit privé
-21-158485,True,False,False,False,False,False,
-21-158489,False,False,False,False,True,False,
-21-158490,False,False,False,False,True,False,
-21-158491,False,False,False,False,True,False,
-21-158495,False,True,False,False,False,False,
-21-158498,False,False,False,True,False,False,
-21-158499,False,False,False,False,True,False,
-21-158504,False,False,True,False,False,False,
-21-158505,True,False,False,False,False,False,
-21-158506,False,False,True,False,False,False,
-21-158509,False,False,False,False,True,False,
-21-158511,False,False,True,False,False,False,
-21-158512,False,False,False,False,True,False,
-21-158516,False,False,True,False,False,False,
-21-158517,False,False,True,False,False,False,
-21-158520,False,False,True,False,False,False,
-21-158521,False,False,False,False,True,False,
-21-158525,False,False,False,False,True,False,
-21-158526,False,False,True,False,False,False,
-21-158528,False,False,False,False,False,False,autre
-21-158530,False,False,True,False,False,False,
-21-158535,False,False,False,False,True,False,
-21-158541,False,False,True,False,False,False,
-21-158542,False,False,False,False,True,False,
-21-158545,False,False,False,False,True,False,
-21-158546,False,False,True,False,False,False,
-21-158551,False,False,False,False,True,False,
-21-158557,False,False,False,False,True,False,
-21-158559,True,False,False,False,False,False,
-21-158561,False,False,True,False,False,False,
-21-158562,False,False,True,False,False,False,
-21-158563,False,False,False,False,True,False,
-21-158571,False,False,False,False,True,False,
-21-158580,False,False,False,False,True,False,
-21-158583,False,False,False,False,True,False,
-21-158585,False,False,True,False,False,False,
-21-158587,False,False,False,False,True,False,
-21-158590,False,False,True,False,False,False,
-21-158591,False,False,False,False,True,False,
-21-158592,False,False,False,False,True,False,
-21-158593,False,False,False,False,False,False,aménageur urbain
-21-158594,False,False,False,False,True,False,
-21-158596,False,False,True,False,False,False,
-21-158600,False,False,True,False,False,False,
-21-158610,False,False,True,False,False,False,
-21-158617,False,False,False,False,False,False,EPSCP
-21-158618,False,False,False,False,False,False,Etablissement de santé
-21-158621,False,False,True,False,False,False,
-21-158622,False,False,True,False,False,False,
-21-158625,False,False,False,False,True,False,
-21-158628,False,False,False,False,True,False,
-21-158631,False,False,False,False,True,False,
-21-158633,False,False,False,False,False,False,syndicat mixte
-21-158634,True,False,False,False,False,False,
-21-158636,False,False,False,False,True,False,
-21-158639,False,False,True,False,False,False,
-21-158640,False,False,True,False,False,False,
-21-158643,False,False,True,False,False,False,
-21-158644,False,False,True,False,False,False,
-21-158651,False,False,True,False,False,False,
-21-158653,False,False,False,False,False,False,Etablissement public à vocation sociale
-21-158654,False,False,False,False,False,False,Etablissement Public de Santé
-21-158655,False,False,False,False,True,False,
-21-158656,False,False,False,False,False,False,Etablissement Public de Santé Mentale
-21-158658,False,False,False,False,False,False,autre
-21-158661,False,False,True,False,False,False,
-21-158664,False,False,True,False,False,False,
-21-158668,False,False,True,False,False,False,
-21-158669,False,False,False,False,True,False,
-21-158670,False,True,False,False,False,False,
-21-158675,False,False,False,False,False,False,ESPIC
-21-158676,False,False,True,False,False,False,
-21-158679,False,False,False,False,False,False,Société d'économie mixte
-21-158682,False,False,False,False,True,False,
-21-158684,False,False,False,False,False,False,Collectivité Territoriale
-21-158687,False,False,False,False,True,False,
-21-158689,False,False,False,False,True,False,
-21-158695,False,False,True,False,False,False,
-21-158697,False,False,True,False,False,False,
-21-158702,False,False,True,False,False,False,
-21-158703,False,False,False,False,True,False,
-21-158704,False,False,False,False,False,False,établissement public de santé
-21-158706,False,False,False,False,True,False,
-21-158710,False,False,True,False,False,False,
-21-158712,False,False,True,False,False,False,
-21-158713,False,False,True,False,False,False,
-21-158718,False,False,True,False,False,False,
-21-158719,False,False,False,False,True,False,
-21-158720,False,False,True,False,False,False,
-21-158723,False,False,False,False,False,False,autre
-21-158728,False,False,True,False,False,False,
-21-158736,False,False,False,False,True,False,
-21-158739,False,False,False,False,True,False,
-21-158740,False,False,True,False,False,False,
-21-158741,False,False,False,False,False,False,Communauté de Communes de la Côte d'Albâtre
-21-158742,False,False,True,False,False,False,
-21-158743,False,False,False,False,False,False,Ordre des masseurs kinésithérapeutes
-21-158744,False,False,False,False,True,False,
-21-158748,False,False,False,False,True,False,
-21-158749,True,False,False,False,False,False,
-21-158752,False,False,False,False,False,False,Société d'économie mixte
-21-158754,False,False,True,False,False,False,
-21-158757,False,False,False,True,False,False,
-21-158760,True,False,False,False,False,False,
-21-158762,True,False,False,False,False,False,
-21-158763,False,False,False,False,True,False,
-21-158766,True,False,False,False,False,False,
-21-158771,False,False,True,False,False,False,
-21-158775,False,False,False,False,False,False,Protection Sociale
-21-158785,False,False,False,False,False,False,Métropole
-21-158787,False,False,True,False,False,False,
-21-158789,False,False,False,False,True,False,
-21-158790,False,False,False,False,False,False,Etablissement public
-21-158791,False,False,False,False,True,False,
-21-158793,False,False,False,False,True,False,
-21-158798,False,False,True,False,False,False,
-21-158799,False,False,True,False,False,False,
-21-158802,False,False,False,False,True,False,
-21-158807,False,False,False,False,False,False,Métropole
-21-158809,False,False,True,False,False,False,
-21-158811,False,False,False,False,False,False,Crous de Bordeaux-Aquitaine
-21-158813,False,False,True,False,False,False,
-21-158815,False,False,True,False,False,False,
-21-158817,False,False,True,False,False,False,
-21-158822,False,False,True,False,False,False,
-21-158823,False,False,True,False,False,False,
-21-158824,False,False,False,False,True,False,
-21-158825,False,False,False,False,False,False,établissement intercommunal
-21-158826,False,False,True,False,False,False,
-21-158829,False,False,True,False,False,False,
-21-158830,True,False,False,False,False,False,
-21-158833,False,False,False,False,False,False,Etablissement Public SDIS 13
-21-158834,False,False,True,False,False,False,
-21-158837,True,False,False,False,False,False,
-21-158841,False,False,False,False,False,False,Métropole
-21-158842,False,False,True,False,False,False,
-21-158843,False,False,True,False,False,False,
-21-158844,False,False,True,False,False,False,
-21-158847,False,False,True,False,False,False,
-21-158849,False,False,True,False,False,False,
-21-158850,True,False,False,False,False,False,
-21-158852,True,False,False,False,False,False,
-21-158853,False,True,False,False,False,False,
-21-158855,False,False,False,False,True,False,
-21-158856,False,False,False,False,True,False,
-21-158859,False,False,False,False,True,False,
-21-158870,False,False,True,False,False,False,
-21-158871,False,False,True,False,False,False,
-21-158872,False,False,True,False,False,False,
-21-158874,False,False,True,False,False,False,
-21-158876,False,False,True,False,False,False,
-21-158880,False,False,False,False,True,False,
-21-158883,False,False,False,False,True,False,
-21-158884,False,False,True,False,False,False,
-21-158885,False,False,True,False,False,False,
-21-158893,False,False,False,False,False,False,OPH
-21-158895,False,False,True,False,False,False,
-21-158899,False,False,False,False,True,False,
-21-158900,True,False,False,False,False,False,
-21-158903,False,False,False,False,False,False,Groupement d'intérêt économique
-21-158908,False,False,True,False,False,False,
-21-158912,False,False,False,False,False,False,Établissement public de santé
-21-158914,False,False,True,False,False,False,
-21-158919,True,False,False,False,False,False,
-21-158922,False,False,True,False,False,False,
-21-158927,False,False,False,False,False,False,Aménageur
-21-158928,False,False,False,False,True,False,
-21-158929,False,False,False,False,False,False,Etablissement public de santé
-21-158931,False,False,True,False,False,False,
-21-158934,False,False,False,False,False,False,Opérateur de compétences - Financement de la formation
-21-158935,False,False,True,False,False,False,
-21-158936,False,False,True,False,False,False,
-21-158937,False,False,True,False,False,False,
-21-158938,False,False,False,False,True,False,
-21-158939,False,False,True,False,False,False,
-21-158941,False,False,False,False,True,False,
-21-158944,False,False,False,False,False,False,Etablissement Public de Santé
-21-158946,True,False,False,False,False,False,
-21-158949,False,False,False,False,False,False,PROTECTION SOCIALE
-21-158952,False,False,True,False,False,False,
-21-158954,False,False,True,False,False,False,
-21-158965,False,False,False,False,True,False,
-21-158968,False,False,True,False,False,False,
-21-158969,False,False,False,False,True,False,
-21-158970,False,False,False,False,True,False,
-21-158972,True,False,False,False,False,False,
-21-158975,False,False,True,False,False,False,
-21-158976,False,False,True,False,False,False,
-21-158977,False,False,False,False,False,False,autre
-21-158978,False,False,True,False,False,False,
-21-158979,False,False,False,False,True,False,
-21-158980,False,False,True,False,False,False,
-21-158982,False,False,True,False,False,False,
-21-158984,False,False,True,False,False,False,
-21-158986,False,False,False,False,False,False,autre
-21-158990,False,False,False,False,True,False,
-21-158993,False,False,False,False,False,False,Protection sociale
-21-158997,False,False,False,False,True,False,
-21-158998,False,False,True,False,False,False,
-21-158999,False,False,False,False,False,False,Association
-21-159000,False,False,False,False,True,False,
-21-159001,True,False,False,False,False,False,
-21-159003,True,False,False,False,False,False,
-21-159006,False,False,True,False,False,False,
-21-159007,False,False,True,False,False,False,
-21-159013,False,False,True,False,False,False,
-21-159018,False,False,False,False,True,False,
-21-159020,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
-21-159023,False,False,True,False,False,False,
-21-159030,False,False,False,False,True,False,
-21-159033,False,False,True,False,False,False,
-21-159034,False,False,True,False,False,False,
-21-159035,False,False,True,False,False,False,
-21-159036,True,False,False,False,False,False,
-21-159042,False,False,True,False,False,False,
-21-159043,False,False,False,False,False,False,autre
-21-159049,False,False,True,False,False,False,
-21-159050,False,False,True,False,False,False,
-21-159052,False,False,False,False,True,False,
-21-159054,False,False,True,False,False,False,
-21-159058,False,False,True,False,False,False,
-21-159059,False,False,False,False,False,False,Organisme consulaire
-21-159064,False,False,True,False,False,False,
-21-159065,False,False,False,False,True,False,
-21-159066,True,False,False,False,False,False,
-21-159069,True,False,False,False,False,False,
-21-159070,False,False,True,False,False,False,
-21-159071,False,False,False,False,False,False,Etablissement public de coopération intercommunale
-21-159080,False,False,True,False,False,False,
-21-159083,False,False,False,False,False,False,Etablissement public aministratif
-21-159084,False,False,False,False,False,False,Groupement de collectivités territoriales (syndicat mixte)
-21-159086,False,False,True,False,False,False,
-21-159089,False,False,False,False,False,False,Établissement public de santé
-21-159097,False,False,True,False,False,False,
-21-159103,False,False,True,False,False,False,
-21-159104,False,False,True,False,False,False,
-21-159107,False,False,True,False,False,False,
-21-159118,False,False,False,False,True,False,
-21-159119,False,False,True,False,False,False,
-21-159120,False,False,True,False,False,False,
-21-159121,False,False,False,False,False,False,collectivité territoriale
-21-159124,False,False,True,False,False,False,
-21-159125,False,False,True,False,False,False,
-21-159126,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
-21-159130,False,False,False,False,False,False,NORMANDIE PARTICIPATIONS
-21-159131,False,False,False,False,True,False,
-21-159134,False,False,False,False,False,False,autre
-21-159144,False,False,True,False,False,False,
-21-159145,False,False,True,False,False,False,
-21-159147,False,False,True,False,False,False,
-21-159156,True,False,False,False,False,False,
-21-159162,False,False,False,False,True,False,
-21-159164,False,False,False,False,False,False,Interprofession
-21-159165,False,False,True,False,False,False,
-21-159166,False,False,True,False,False,False,
-21-159174,False,False,False,False,False,False,EPCI - Communauté de communes
-21-159179,False,False,True,False,False,False,
-21-159180,False,False,False,False,True,False,
-21-159182,False,False,True,False,False,False,
-21-159185,False,False,False,False,True,False,
-21-159190,False,False,False,False,False,False,EPCi
-21-159192,False,False,True,False,False,False,
-21-159193,False,False,False,False,False,False,Organisme de Sécurité sociale
-21-159198,False,False,True,False,False,False,
-21-159199,False,False,False,False,True,False,
-21-159201,False,False,False,False,True,False,
-21-159203,False,False,True,False,False,False,
-21-159205,False,False,True,False,False,False,
-21-159208,False,False,True,False,False,False,
-21-159210,False,False,True,False,False,False,
-21-159213,False,False,True,False,False,False,
-21-159216,False,False,False,False,True,False,
-21-159218,False,False,False,False,False,False,autre
-21-159219,False,False,True,False,False,False,
-21-159220,False,False,True,False,False,False,
-21-159221,False,False,False,False,True,False,
-21-159223,False,False,False,False,True,False,
-21-159224,False,False,False,False,True,False,
-21-159225,False,False,False,False,False,False,autre
-21-159226,False,False,True,False,False,False,
-21-159230,False,False,True,False,False,False,
-21-159232,False,True,False,False,False,False,
-21-159234,False,False,False,False,False,False,"Établissements et organismes de l'enseignement supérieur, de la recherche et de l'innovation"
-21-159247,False,False,True,False,False,False,
-21-159248,True,False,False,False,False,False,
-21-159253,False,False,False,False,True,False,
-21-159254,True,False,False,False,False,False,
-21-159257,False,False,False,False,False,False,Collectivité territoriale
-21-159259,False,False,False,False,False,False,Etablissement public local
-21-159262,False,False,False,False,True,False,
-21-159263,False,False,False,False,True,False,
-21-159266,False,False,False,False,False,False,activitamp;eacute; portuaire
-21-159267,False,False,False,False,True,False,
-21-159268,False,False,True,False,False,False,
-21-159277,False,False,True,False,False,False,
-21-159282,False,False,False,False,True,False,
-21-159284,False,False,False,False,True,False,
-21-159285,False,False,False,False,True,False,
-21-159286,False,False,False,False,True,False,
-21-159287,False,False,False,False,True,False,
-21-159289,False,False,True,False,False,False,
-21-159291,False,False,True,False,False,False,
-21-159294,False,False,True,False,False,False,
-21-159295,False,False,False,False,True,False,
-21-159296,False,False,False,False,True,False,
-21-159299,True,False,False,False,False,False,
-21-159300,False,False,False,False,False,False,INSTITUT NATIONAL DE RECHERCHE ET DE SECURITE
-21-159301,False,False,False,False,True,False,
-21-159304,False,False,True,False,False,False,
-21-159313,False,False,True,False,False,False,
-21-159315,False,False,False,False,True,False,
-21-159319,False,False,True,False,False,False,
-21-159320,False,False,True,False,False,False,
-21-159321,False,False,True,False,False,False,
-21-159322,False,False,True,False,False,False,
-21-159323,False,False,True,False,False,False,
-21-159324,False,False,False,False,True,False,
-21-159326,False,True,False,False,False,False,
-21-159331,False,False,False,False,False,False,Etablissement public de coopération intercommunale
-21-159332,False,False,False,False,False,False,SPL
-21-159333,False,False,False,False,True,False,
-21-159339,False,False,True,False,False,False,
-21-159340,False,False,False,False,True,False,
-21-159341,True,False,False,False,False,False,
-21-159342,False,False,False,False,True,False,
-21-159355,False,False,True,False,False,False,
-21-159357,False,False,False,False,True,False,
-21-159358,False,False,False,False,True,False,
-21-159361,False,False,True,False,False,False,
-21-159362,False,False,False,False,True,False,
-21-159364,False,False,True,False,False,False,
-21-159365,False,False,True,False,False,False,
-21-159369,True,False,False,False,False,False,
-21-159370,False,False,False,False,True,False,
-21-159371,False,False,False,False,True,False,
-21-159373,False,False,False,False,True,False,
-21-159375,True,False,False,False,False,False,
-21-159377,False,False,True,False,False,False,
-21-159379,False,False,False,False,False,False,EPCI
-21-159380,True,False,False,False,False,False,
-21-159381,False,False,True,False,False,False,
-21-159382,True,False,False,False,False,False,
-21-159384,False,False,False,False,False,False,Commune
-21-159387,False,False,True,False,False,False,
-21-159391,False,False,True,False,False,False,
-21-159392,False,False,False,False,True,False,
-21-159395,False,False,False,False,True,False,
-21-159401,False,False,True,False,False,False,
-21-159403,False,False,False,False,True,False,
-21-159404,False,False,False,False,False,False,Commune
-21-159407,True,False,False,False,False,False,
-21-159408,False,False,True,False,False,False,
-21-159409,False,False,False,False,False,False,Etablissement public de santé
-21-159411,False,False,False,False,False,False,Commune
-21-159414,False,False,True,False,False,False,
-21-159415,False,False,False,False,True,False,
-21-159418,False,False,True,False,False,False,
-21-159420,False,False,False,False,False,False,Assemblée parlementaire
-21-159421,False,False,True,False,False,False,
-21-159422,False,False,False,False,False,False,Etablissement Public à caractère Administratif
-21-159424,False,False,True,False,False,False,
-21-159425,False,False,True,False,False,False,
-21-159426,True,False,False,False,False,False,
-21-159428,False,False,False,False,False,False,Services généraux des administrations publiques.
-21-159430,False,False,True,False,False,False,
-21-159431,False,False,False,False,False,False,Syndicat mixte du Parc naturel régional du Luberon
-21-159436,False,False,False,False,False,False,société de droit privé
-21-159437,False,False,False,False,False,False,EPS
-21-159439,False,False,True,False,False,False,
-21-159443,False,False,False,False,False,False,SA damp;#039;HLM
-21-159447,False,False,False,False,False,False,Organisme de sécurité sociale
-21-159448,False,False,True,False,False,False,
-21-159451,False,False,True,False,False,False,
-21-159457,False,False,False,False,False,False,EPCI
-21-159459,False,False,False,False,False,False,autre
-21-159461,False,False,False,False,False,False,autre
-21-159465,False,False,True,False,False,False,
-21-159466,False,False,True,False,False,False,
-21-159467,False,False,True,False,False,False,
-21-159468,True,False,False,False,False,False,
-21-159469,False,False,True,False,False,False,
-21-159473,False,False,True,False,False,False,
-21-159474,False,False,False,False,True,False,
-21-159477,False,False,False,False,False,False,COMMUNE
-21-159478,False,False,False,True,False,False,
-21-159479,False,False,False,False,True,False,
-21-159482,False,False,True,False,False,False,
-21-159485,False,False,False,False,True,False,
-21-159488,False,False,False,False,False,False,EPCI
-21-159489,False,False,True,False,False,False,
-21-159490,False,False,True,False,False,False,
-21-159491,False,False,False,False,True,False,
-21-159494,False,False,False,False,False,False,Société d'économie mixte
-21-159495,False,False,False,False,True,False,
-21-159496,False,False,False,False,True,False,
-21-159500,False,False,False,False,False,False,Cercle Mixte de l'Administration Centrale DGGN
-21-159501,True,False,False,False,False,False,
-21-159502,True,False,False,False,False,False,
-21-159506,False,False,False,False,True,False,
-21-159507,False,False,False,False,True,False,
-21-159511,False,False,False,False,True,False,
-21-159513,False,False,False,False,True,False,
-21-159515,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
-21-159522,False,False,True,False,False,False,
-21-159523,False,False,False,False,True,False,
-21-159525,False,False,True,False,False,False,
-21-159528,False,False,False,False,True,False,
-21-159533,False,False,False,False,False,False,autre
-21-159536,False,False,False,False,False,False,autre
-21-159538,False,False,False,True,False,False,
-21-159540,False,False,False,False,True,False,
-21-159543,False,False,True,False,False,False,
-21-159546,False,False,True,False,False,False,
-21-159547,False,False,False,True,False,False,
-21-159548,True,False,False,False,False,False,
-21-159549,False,False,False,False,False,False,Mairie
-21-159550,False,False,False,False,False,False,SA D'HLM
-21-159553,False,False,False,False,False,False,sociamp;eacute;tamp;eacute; damp;#039;amp;eacute;conomie mixte
-21-159554,False,False,False,False,True,False,
-21-159555,False,False,True,False,False,False,
-21-159560,False,False,True,False,False,False,
-21-159561,False,False,False,False,True,False,
-21-159562,False,False,True,False,False,False,
-21-159565,False,False,False,False,True,False,
-21-159569,False,False,False,False,True,False,
-21-159570,False,False,True,False,False,False,
-21-159571,False,False,True,False,False,False,
-21-159573,True,False,False,False,False,False,
-21-159575,False,False,True,False,False,False,
-21-159577,True,False,False,False,False,False,
-21-159579,False,False,True,False,False,False,
-21-159580,False,False,False,False,True,False,
-21-159583,False,False,True,False,False,False,
-21-159584,False,False,True,False,False,False,
-21-159586,False,False,True,False,False,False,
-21-159588,False,False,True,False,False,False,
-21-159590,False,False,False,False,True,False,
-21-159591,False,False,False,False,True,False,
-21-159592,False,False,True,False,False,False,
-21-159594,False,False,True,False,False,False,
-21-159595,False,False,True,False,False,False,
-21-159596,False,False,True,False,False,False,
-21-159597,False,False,False,True,False,False,
-21-159598,False,False,True,False,False,False,
-21-159600,False,False,False,False,True,False,
-21-159602,False,False,False,False,True,False,
-21-159603,False,False,False,False,True,False,
-21-159604,False,False,False,False,True,False,
-21-159607,False,False,False,False,True,False,
-21-159608,True,False,False,False,False,False,
-21-159609,False,False,False,False,True,False,
-21-159617,False,False,False,True,False,False,
-21-159620,False,False,True,False,False,False,
-21-159622,False,False,False,False,True,False,
-21-159623,False,False,True,False,False,False,
-21-159624,False,False,True,False,False,False,
-21-159628,False,False,True,False,False,False,
-21-159629,False,False,True,False,False,False,
-21-159635,False,False,False,False,True,False,
-21-159641,False,False,True,False,False,False,
-21-159646,False,False,False,False,True,False,
-21-159647,False,False,True,False,False,False,
-21-159652,False,False,True,False,False,False,
-21-159655,False,False,False,False,True,False,
-21-159657,False,False,False,False,True,False,
-21-159658,False,False,False,False,True,False,
-21-159661,False,False,True,False,False,False,
-21-159662,False,False,False,True,False,False,
-21-159663,False,False,False,False,True,False,
-21-159669,False,False,True,False,False,False,
-21-159670,False,False,False,False,True,False,
-21-159674,False,False,False,False,False,False,Société publique locale
-21-159679,False,False,False,False,True,False,
-21-159681,False,False,False,False,True,False,
-21-159682,False,False,False,False,False,False,Etablissement public teritorial
-21-159686,False,False,False,False,False,False,CIAS
-21-159687,False,False,False,False,True,False,
-21-159688,False,False,True,False,False,False,
-21-159692,False,False,False,False,False,False,ESPIC
-21-159693,False,False,False,False,True,False,
-21-159694,False,False,True,False,False,False,
-21-159698,False,False,False,False,True,False,
-21-159700,False,False,True,False,False,False,
-21-159702,False,False,True,False,False,False,
-21-159706,False,False,False,False,True,False,
-21-159707,False,False,True,False,False,False,
-21-159708,False,False,False,False,False,False,autre
-21-159710,False,False,True,False,False,False,
-21-159713,False,False,False,True,False,False,
-21-159717,False,False,False,False,True,False,
-21-159718,False,False,False,False,True,False,
-21-159720,False,False,False,False,True,False,
-21-159722,True,False,False,False,False,False,
-21-159723,False,False,True,False,False,False,
-21-159725,False,False,True,False,False,False,
-21-159726,False,False,False,False,True,False,
-21-159729,False,False,True,False,False,False,
-21-159730,False,False,True,False,False,False,
-21-159732,False,False,False,False,False,False,Société Publique Locale (SPL)
-21-159739,False,False,False,False,False,False,EPCI
-21-159741,False,False,True,False,False,False,
-21-159742,True,False,False,False,False,False,
-21-159743,False,False,False,False,True,False,
-21-159744,False,False,False,False,False,False,Métropole
-21-159745,False,False,True,False,False,False,
-21-159750,False,False,True,False,False,False,
-21-159751,False,False,False,False,False,False,Organisme privé de gestion d'établissements sanitaires et médico sociaux de la Sécurité Sociale.
-21-159752,False,False,False,False,False,False,ETABLISSEMENT PUBLIC ADMINISTRATIF
-21-159753,False,True,False,False,False,False,
-21-159754,False,False,True,False,False,False,
-21-159757,False,False,True,False,False,False,
-21-159759,False,False,False,False,True,False,
-21-159760,False,False,False,False,True,False,
-21-159763,False,False,True,False,False,False,
-21-159764,False,False,True,False,False,False,
-21-159767,False,False,False,False,True,False,
-21-159768,False,False,False,False,True,False,
-21-159769,False,False,True,False,False,False,
-21-159771,False,False,True,False,False,False,
-21-159775,True,False,False,False,False,False,
-21-159776,False,False,True,False,False,False,
-21-159777,False,False,True,False,False,False,
-21-159780,False,False,False,False,False,False,Etablissement Public de Santé
-21-159782,False,False,False,False,True,False,
-21-159783,False,False,False,False,False,False,Etablissement public de santé
-21-159784,False,False,True,False,False,False,
-21-159785,False,False,False,False,True,False,
-21-159786,False,False,False,False,False,False,Organisme de sécurité sociale
-21-159789,False,False,True,False,False,False,
-21-159798,False,False,True,False,False,False,
-21-159799,False,False,False,False,False,False,autre
-21-159801,False,False,True,False,False,False,
-21-159802,False,False,False,False,True,False,
-21-159806,False,False,True,False,False,False,
-21-159809,False,False,True,False,False,False,
-21-159811,False,False,False,False,False,False,Commune
-21-159813,False,False,False,False,True,False,
-21-159814,False,False,True,False,False,False,
-21-159816,False,False,False,False,True,False,
-21-159818,False,False,False,False,True,False,
-21-159819,False,False,False,False,True,False,
-21-159823,False,False,False,False,True,False,
-21-159825,False,False,False,False,False,False,EPCI
-21-159826,False,False,False,False,True,False,
-21-159829,False,False,False,False,False,False,Recherche Fruits et Légumes
-21-159830,False,False,False,False,True,False,
-21-159831,False,False,False,False,False,False,Établissement public de santé
-21-159832,False,False,True,False,False,False,
-21-159833,True,False,False,False,False,False,
-21-159834,False,False,True,False,False,False,
-21-159841,False,False,False,False,True,False,
-21-159844,False,False,False,True,False,False,
-21-159846,False,False,False,False,True,False,
-21-159847,False,False,True,False,False,False,
-21-159849,True,False,False,False,False,False,
-21-159853,False,False,True,False,False,False,
-21-159858,False,False,True,False,False,False,
-21-159863,False,False,True,False,False,False,
-21-159864,False,False,False,False,True,False,
-21-159871,False,False,False,False,True,False,
-21-159872,False,False,False,False,True,False,
-21-159873,False,False,False,False,False,False,Société d'Economie Mixte
-21-159876,False,False,False,False,True,False,
-21-159878,False,False,True,False,False,False,
-21-159881,False,False,True,False,False,False,
-21-159886,False,False,True,False,False,False,
-21-159889,False,False,True,False,False,False,
-21-159892,False,False,False,False,False,False,autre
-21-159895,False,False,False,False,False,False,Société Publique Locale
-21-159899,False,False,False,False,False,False,Société Publique Locale
-21-159910,False,False,True,False,False,False,
+21-163231,False,False,True,False,False,False,
+21-163232,False,False,False,False,False,False,Société anonyme d'économie mixte locale
+21-163233,False,False,False,False,False,False,Société Anonyme d'Economie Mixte Locale
+21-163235,False,False,False,False,True,False,
+21-163237,True,False,False,False,False,False,
+21-163243,False,False,False,False,False,False,Etablissement public de santé
+21-163245,False,False,False,False,True,False,
+21-163248,False,False,False,False,True,False,
+21-163251,False,False,False,False,True,False,
+21-163253,False,True,False,False,False,False,
+21-163256,False,False,False,False,True,False,
+21-163257,False,False,False,False,True,False,
+21-163258,False,False,False,False,True,False,
+21-163260,False,False,True,False,False,False,
+21-163263,False,False,False,False,True,False,
+21-163275,False,False,True,False,False,False,
+21-163276,False,False,True,False,False,False,
+21-163277,False,False,True,False,False,False,
+21-163280,False,False,True,False,False,False,
+21-163282,False,False,False,False,True,False,
+21-163285,False,False,True,False,False,False,
+21-163291,False,False,False,False,True,False,
+21-163294,True,False,False,False,False,False,
+21-163301,False,False,True,False,False,False,
+21-163308,False,False,True,False,False,False,
+21-163310,False,False,False,False,True,False,
+21-163311,True,False,False,False,False,False,
+21-163312,False,False,False,False,False,False,Enseignement supérieur
+21-163316,False,False,False,False,True,False,
+21-163317,False,False,False,False,True,False,
+21-163320,False,False,False,False,True,False,
+21-163326,False,False,True,False,False,False,
+21-163328,True,False,False,False,False,False,
+21-163329,False,False,True,False,False,False,
+21-163332,True,False,False,False,False,False,
+21-163337,False,False,True,False,False,False,
+21-163339,True,False,False,False,False,False,
+21-163341,False,False,False,False,True,False,
+21-163344,False,False,True,False,False,False,
+21-163345,False,False,True,False,False,False,
+21-163346,False,False,False,False,False,False,Métropole
+21-163347,True,False,False,False,False,False,
+21-163353,False,False,False,False,False,False,autre
+21-163354,False,False,False,False,False,False,autre
+21-163355,False,False,False,True,False,False,
+21-163357,False,False,False,False,False,False,Collectivité territoriale
+21-163358,False,False,False,False,True,False,
+21-163359,False,False,True,False,False,False,
+21-163360,False,False,True,False,False,False,
+21-163363,False,False,False,False,True,False,
+21-163364,False,False,True,False,False,False,
+21-163367,False,False,True,False,False,False,
+21-163368,False,False,False,False,True,False,
+21-163372,True,False,False,False,False,False,
+21-163377,True,False,False,False,False,False,
+21-163381,False,False,False,False,False,False,Société publique locale d'aménagement
+21-163382,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+21-163384,False,False,False,False,True,False,
+21-163386,False,False,False,False,False,False,EPCI
+21-163387,False,False,False,False,False,False,Métropole
+21-163388,False,False,True,False,False,False,
+21-163391,False,True,False,False,False,False,
+21-163392,False,False,True,False,False,False,
+21-163394,False,False,True,False,False,False,
+21-163397,False,False,False,False,True,False,
+21-163401,False,False,False,False,True,False,
+21-163404,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+21-163405,True,False,False,False,False,False,
+21-163408,False,False,False,False,True,False,
+21-163410,False,False,True,False,False,False,
+21-163411,False,False,True,False,False,False,
+21-163413,False,False,False,False,True,False,
+21-163414,False,False,False,False,False,False,Protection Sociale
+21-163415,True,False,False,False,False,False,
+21-163416,False,False,True,False,False,False,
+21-163417,False,False,False,False,False,False,Santé
+21-163418,False,False,False,False,True,False,
+21-163421,False,False,True,False,False,False,
+21-163422,False,False,True,False,False,False,
+21-163426,False,False,False,False,False,False,EPA
+21-163430,False,False,True,False,False,False,
+21-163431,False,True,False,False,False,False,
+21-163436,False,False,False,False,True,False,
+21-163439,False,False,False,False,True,False,
+21-163444,False,False,True,False,False,False,
+21-163450,False,False,False,False,True,False,
+21-163451,False,False,True,False,False,False,
+21-163454,False,False,True,False,False,False,
+21-163455,False,False,True,False,False,False,
+21-163456,False,False,True,False,False,False,
+21-163458,False,False,False,False,False,False,autre
+21-163461,False,False,True,False,False,False,
+21-163463,False,False,True,False,False,False,
+21-163467,False,False,True,False,False,False,
+21-163468,False,False,False,False,False,False,Etablissement public hospitalier
+21-163470,False,False,False,False,False,False,Etablissement public de santé
+21-163472,True,False,False,False,False,False,
+21-163474,False,False,True,False,False,False,
+21-163475,True,False,False,False,False,False,
+21-163480,False,False,False,False,False,False,Restauration collective
+21-163482,False,False,False,False,True,False,
+21-163483,False,False,False,False,True,False,
+21-163486,False,False,True,False,False,False,
+21-163488,False,False,False,False,False,False,EPS
+21-163489,False,False,False,False,True,False,
+21-163492,False,False,True,False,False,False,
+21-163498,False,False,False,False,False,False,syndicat mixte
+21-163501,False,False,False,False,True,False,
+21-163503,True,False,False,False,False,False,
+21-163506,False,False,False,False,False,False,Fondation de Coopération Scientifique
+21-163512,False,False,False,False,True,False,
+21-163515,False,False,True,False,False,False,
+21-163516,False,False,True,False,False,False,
+21-163517,False,False,False,False,False,False,Fondation de Coopération Scientifique
+21-163521,False,False,False,False,False,False,Etablissement public d'aménagement
+21-163524,False,False,True,False,False,False,
+21-163528,False,False,True,False,False,False,
+21-163529,False,False,False,False,True,False,
+21-163530,False,False,True,False,False,False,
+21-163534,False,False,True,False,False,False,
+21-163536,False,False,False,False,True,False,
+21-163537,False,False,False,True,False,False,
+21-163538,False,False,True,False,False,False,
+21-163540,False,False,True,False,False,False,
+21-163541,False,False,True,False,False,False,
+21-163542,False,False,True,False,False,False,
+21-163543,False,False,False,False,False,False,Etablissement Public de Santé
+21-163545,False,False,False,False,False,False,autre
+21-163547,False,False,True,False,False,False,
+21-163548,False,False,False,True,False,False,
+21-163550,False,False,True,False,False,False,
+21-163551,False,False,False,False,True,False,
+21-163554,False,False,True,False,False,False,
+21-163555,False,False,True,False,False,False,
+21-163556,False,False,True,False,False,False,
+21-163559,False,False,True,False,False,False,
+21-163561,False,False,True,False,False,False,
+21-163563,True,False,False,False,False,False,
+21-163564,False,False,True,False,False,False,
+21-163567,False,False,False,False,True,False,
+21-163570,True,False,False,False,False,False,
+21-163571,False,False,True,False,False,False,
+21-163573,False,False,False,False,False,False,Etablissement public de santé
+21-163577,False,False,False,False,True,False,
+21-163578,False,False,False,False,True,False,
+21-163581,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+21-163584,True,False,False,False,False,False,
+21-163585,True,False,False,False,False,False,
+21-163586,False,False,True,False,False,False,
+21-163587,False,False,False,False,False,False,Établissement public de l'enseignement et de la recherche
+21-163589,False,False,False,False,True,False,
+21-163590,False,False,True,False,False,False,
+21-163591,False,False,True,False,False,False,
+21-163593,False,False,True,False,False,False,
+21-163594,False,False,False,False,False,False,CARSAT CENTRE OUEST Caisse de retraite
+21-163596,False,False,True,False,False,False,
+21-163598,False,False,False,False,False,False,Prestation retraite
+21-163604,False,False,False,False,True,False,
+21-163608,False,False,True,False,False,False,
+21-163610,False,False,True,False,False,False,
+21-163613,False,False,True,False,False,False,
+21-163615,False,False,False,False,True,False,
+21-163618,False,False,True,False,False,False,
+21-163619,False,False,True,False,False,False,
+21-163623,False,False,False,True,False,False,
+21-163625,False,False,True,False,False,False,
+21-163626,False,False,False,False,False,False,EPCI
+21-163627,False,False,True,False,False,False,
+21-163628,False,False,False,False,True,False,
+21-163630,False,False,False,False,False,False,Organisme de sécurité sociale
+21-163632,True,False,False,False,False,False,
+21-163633,False,False,True,False,False,False,
+21-163634,False,False,False,False,False,False,Association Loi 1901
+21-163638,False,False,False,False,False,False,Société publique locale
+21-163640,False,False,False,False,True,False,
+21-163641,False,False,False,False,True,False,
+21-163643,False,False,True,False,False,False,
+21-163644,False,False,True,False,False,False,
+21-163647,False,False,True,False,False,False,
+21-163648,False,False,True,False,False,False,
+21-163651,False,False,True,False,False,False,
+21-163654,False,False,False,False,False,False,Etablissement public de santé
+21-163655,False,False,False,False,False,False,Société d'Economie Mixte Locale
+21-163656,False,False,False,False,True,False,
+21-163658,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale
+21-163660,False,False,False,False,True,False,
+21-163662,True,False,False,False,False,False,
+21-163663,False,False,False,False,False,False,ASSOCIATION PRIVEE
+21-163667,False,False,False,False,True,False,
+21-163668,False,False,False,False,True,False,
+21-163669,False,False,False,False,True,False,
+21-163671,False,False,False,False,True,False,
+21-163676,False,False,False,False,False,False,autre
+21-163678,False,False,True,False,False,False,
+21-163679,False,False,False,False,False,False,Personne morale de droit privé
+21-163684,True,False,False,False,False,False,
+21-163687,False,False,True,False,False,False,
+21-163691,False,False,False,False,False,False,EPCI
+21-163693,False,False,False,False,True,False,
+21-163694,False,False,False,False,False,False,Association
+21-163696,False,False,False,False,True,False,
+21-163702,False,False,False,False,True,False,
+21-163704,False,False,False,False,True,False,
+21-163709,False,False,True,False,False,False,
+21-163710,False,False,False,False,True,False,
+21-163711,False,False,False,False,False,False,EPCI
+21-163713,False,False,True,False,False,False,
+21-163716,False,False,False,False,True,False,
+21-163718,False,False,False,False,False,False,autre
+21-163720,False,False,True,False,False,False,
+21-163721,False,False,True,False,False,False,
+21-163722,False,False,True,False,False,False,
+21-163723,True,False,False,False,False,False,
+21-163725,True,False,False,False,False,False,
+21-163726,False,False,True,False,False,False,
+21-163727,False,False,True,False,False,False,
+21-163728,False,False,False,False,False,False,"Etablissement public à caractère scientifique, culturel et professionnel."
+21-163733,False,False,False,False,True,False,
+21-163734,False,False,False,False,True,False,
+21-163735,True,False,False,False,False,False,
+21-163736,True,False,False,False,False,False,
+21-163738,False,False,False,False,False,False,Etablissement public de santé
+21-163739,False,False,True,False,False,False,
+21-163740,False,False,False,False,False,False,EPCI
+21-163741,False,False,True,False,False,False,
+21-163745,False,False,True,False,False,False,
+21-163748,False,False,True,False,False,False,
+21-163751,False,False,True,False,False,False,
+21-163753,False,False,False,False,True,False,
+21-163755,False,False,True,False,False,False,
+21-163758,False,False,True,False,False,False,
+21-163759,False,False,True,False,False,False,
+21-163760,False,False,True,False,False,False,
+21-163761,False,False,False,False,False,False,Communauté de Communes
+21-163763,False,False,False,False,True,False,
+21-163766,False,False,False,False,False,False,SAEM
+21-163768,False,False,False,False,False,False,Education
+21-163770,False,False,False,False,True,False,
+21-163771,False,False,False,False,True,False,
+21-163778,False,False,True,False,False,False,
+21-163779,False,False,False,False,False,False,Commune
+21-163780,False,False,False,False,False,False,Groupement de coopération sanitaire
+21-163782,False,False,False,False,True,False,
+21-163786,False,False,False,False,False,False,Services généraux des administrations publiques.
+21-163787,False,False,False,False,True,False,
+21-163790,False,False,True,False,False,False,
+21-163791,True,False,False,False,False,False,
+21-163794,False,False,False,False,False,False,Etablissement public de santé
+21-163795,True,False,False,False,False,False,
+21-163799,True,False,False,False,False,False,
+21-163803,False,True,False,False,False,False,
+21-163807,False,False,True,False,False,False,
+21-163810,False,False,True,False,False,False,
+21-163816,False,False,True,False,False,False,
+21-163821,False,False,False,False,True,False,
+21-163822,False,False,False,False,True,False,
+21-163823,False,False,True,False,False,False,
+21-163824,False,False,True,False,False,False,
+21-163825,False,False,False,False,False,False,autre
+21-163828,False,False,False,False,True,False,
+21-163833,False,False,False,False,False,False,Organisme de sécurité sociale
+21-163835,False,False,False,False,True,False,
+21-163838,False,False,True,False,False,False,
+21-163839,False,True,False,False,False,False,
+21-163841,False,False,True,False,False,False,
+21-163843,True,False,False,False,False,False,
+21-163850,True,False,False,False,False,False,
+21-163851,False,False,False,False,False,False,EPCI
+21-163854,False,False,True,False,False,False,
+21-163856,False,False,True,False,False,False,
+21-163857,False,False,True,False,False,False,
+21-163865,False,False,False,False,False,False,EPIC
+21-163867,False,False,True,False,False,False,
+21-163868,True,False,False,False,False,False,
+21-163870,False,False,False,False,False,False,Organisme de sécurité sociale
+21-163871,False,True,False,False,False,False,
+21-163873,False,False,False,False,False,False,Société d'Economie Mixte
+21-163874,False,False,False,False,False,False,Organisme de sécurité sociale
+21-163879,False,False,True,False,False,False,
+21-163881,False,False,False,False,True,False,
+21-163882,False,False,True,False,False,False,
+21-163883,True,False,False,False,False,False,
+21-163885,False,False,False,False,False,False,Société Publique Locale
+21-163891,False,False,False,False,True,False,
+21-163892,True,False,False,False,False,False,
+21-163893,True,False,False,False,False,False,
+21-163895,False,False,False,True,False,False,
+21-163897,False,False,True,False,False,False,
+21-163899,True,False,False,False,False,False,
+21-163901,False,False,True,False,False,False,
+21-163905,False,False,True,False,False,False,
+21-163908,False,False,True,False,False,False,
+21-163911,False,False,False,True,False,False,
+21-163925,False,False,True,False,False,False,
+21-163926,False,False,True,False,False,False,
+21-163927,False,False,False,False,True,False,
+21-163932,False,False,False,False,True,False,
+21-163933,False,False,False,False,True,False,
+21-163934,False,False,True,False,False,False,
+21-163935,False,False,True,False,False,False,
+21-163939,False,False,False,False,False,False,Etablissement public
+21-163940,False,False,True,False,False,False,
+21-163942,False,False,False,False,False,False,Société publique locale
+21-163951,False,False,True,False,False,False,
+21-163955,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel (EPSCP)"
+21-163958,False,False,True,False,False,False,
+21-163960,False,False,False,False,False,False,SOCIETE ANONYME
+21-163961,False,False,False,False,True,False,
+21-163963,False,False,False,False,False,False,Syndicat mixte départemental d'études et de traitement des déchets ménagers et assimilés de Vendée
+21-163966,False,False,True,False,False,False,
+21-163968,False,False,False,False,False,False,MAMP
+21-163969,False,False,True,False,False,False,
+21-163974,False,False,False,False,False,False,EPCI
+21-163978,False,False,True,False,False,False,
+21-163981,False,False,False,False,True,False,
+21-163983,True,False,False,False,False,False,
+21-163987,False,False,False,False,False,False,établissement public local
+21-163988,False,False,True,False,False,False,
+21-163990,False,False,True,False,False,False,
+21-163991,False,False,True,False,False,False,
+21-163992,False,False,True,False,False,False,
+21-163993,False,False,False,False,True,False,
+21-163995,False,False,False,False,True,False,
+21-163996,False,False,False,False,True,False,
+21-163999,False,False,False,False,False,False,EPIC (Etablissement public industriel et commercial) de l'Etat
+21-164000,False,False,False,False,False,False,Société Publique Locale
+21-164006,False,False,False,False,True,False,
+21-164008,False,False,True,False,False,False,
+21-164009,False,False,True,False,False,False,
+21-164010,False,False,False,False,False,False,SA d'HLM
+21-164012,False,False,True,False,False,False,
+21-164013,False,False,True,False,False,False,
+21-164020,False,False,True,False,False,False,
+21-164022,False,False,True,False,False,False,
+21-164023,False,False,True,False,False,False,
+21-164026,True,False,False,False,False,False,
+21-164030,False,False,False,False,False,False,Etablissement public de santé
+21-164034,True,False,False,False,False,False,
+21-164039,False,False,False,False,False,False,autre
+21-164042,False,False,True,False,False,False,
+21-164045,False,False,False,False,True,False,
+21-164048,False,False,False,False,True,False,
+21-164050,False,False,False,False,True,False,
+21-164051,False,False,False,False,True,False,
+21-164064,False,False,True,False,False,False,
+21-164072,False,False,False,False,True,False,
+21-164073,False,False,True,False,False,False,
+21-164079,False,False,False,False,True,False,
+21-164084,False,False,True,False,False,False,
+21-164085,False,False,True,False,False,False,
+21-164086,False,False,True,False,False,False,
+21-164088,False,False,False,False,True,False,
+21-164091,False,False,False,False,False,False,EPCI
+21-164092,False,False,False,False,True,False,
+21-164096,False,False,True,False,False,False,
+21-164097,False,False,False,False,True,False,
+21-164101,False,False,True,False,False,False,
+21-164102,False,False,True,False,False,False,
+21-164103,False,False,False,False,False,False,Organisme de droit privé muni d'une mission de service public
+21-164104,True,False,False,False,False,False,
+21-164107,True,False,False,False,False,False,
+21-164108,False,False,True,False,False,False,
+21-164109,False,False,False,False,False,False,Organisme de protection sociale
+21-164110,False,False,True,False,False,False,
+21-164115,False,False,True,False,False,False,
+21-164116,False,False,True,False,False,False,
+21-164118,False,False,True,False,False,False,
+21-164119,False,False,True,False,False,False,
+21-164120,False,False,False,False,True,False,
+21-164123,True,False,False,False,False,False,
+21-164125,False,False,True,False,False,False,
+21-164126,False,False,True,False,False,False,
+21-164127,False,False,True,False,False,False,
+21-164128,False,False,True,False,False,False,
+21-164129,False,False,True,False,False,False,
+21-164130,False,False,False,False,True,False,
+21-164132,False,False,False,False,False,False,autre
+21-164134,False,False,True,False,False,False,
+21-164136,False,False,False,False,True,False,
+21-164142,False,False,False,False,False,False,autre
+21-164143,False,False,True,False,False,False,
+21-164144,False,False,False,False,False,False,autre
+21-164145,False,False,False,False,True,False,
+21-164146,False,False,True,False,False,False,
+21-164147,False,False,False,False,False,False,autre
+21-164149,False,False,False,False,False,False,autre
+21-164151,False,False,True,False,False,False,
+21-164152,False,False,True,False,False,False,
+21-164153,False,False,True,False,False,False,
+21-164156,False,False,False,False,True,False,
+21-164157,False,False,False,False,True,False,
+21-164158,False,False,False,False,False,False,Organisme de sécurité sociale
+21-164160,False,False,True,False,False,False,
+21-164163,False,False,False,False,True,False,
+21-164165,False,False,False,False,True,False,
+21-164169,False,False,False,False,True,False,
+21-164170,False,False,True,False,False,False,
+21-164171,False,False,False,False,False,False,Sapeurs-pompiers
+21-164178,False,False,True,False,False,False,
+21-164179,False,False,True,False,False,False,
+21-164180,True,False,False,False,False,False,
+21-164181,True,False,False,False,False,False,
+21-164183,True,False,False,False,False,False,
+21-164185,False,False,True,False,False,False,
+21-164187,False,False,False,False,True,False,
+21-164189,False,False,True,False,False,False,
+21-164191,True,False,False,False,False,False,
+21-164194,False,False,False,False,True,False,
+21-164195,False,False,False,False,True,False,
+21-164198,False,False,True,False,False,False,
+21-164199,False,False,True,False,False,False,
+21-164200,False,False,True,False,False,False,
+21-164201,False,False,True,False,False,False,
+21-164204,False,False,True,False,False,False,
+21-164205,False,False,True,False,False,False,
+21-164208,False,False,True,False,False,False,
+21-164209,False,False,False,False,False,False,autre
+21-164211,False,False,True,False,False,False,
+21-164212,False,False,True,False,False,False,
+21-164213,False,False,False,True,False,False,
+21-164215,False,False,False,False,True,False,
+21-164222,False,False,False,False,False,False,Santé
+21-164223,False,False,True,False,False,False,
+21-164224,False,False,True,False,False,False,
+21-164226,False,False,False,False,False,False,autre
+21-164228,False,False,False,False,True,False,
+21-164230,False,False,True,False,False,False,
+21-164231,False,False,False,False,False,False,Centre Hospitalier
+21-164232,False,False,False,False,True,False,
+21-164234,True,False,False,False,False,False,
+21-164236,False,False,True,False,False,False,
+21-164237,False,False,False,False,True,False,
+21-164238,False,False,True,False,False,False,
+21-164241,True,False,False,False,False,False,
+21-164242,False,False,False,False,False,False,Action sociale au profit des personnels de la Préfecture de police ainsi qu'à leurs familles
+21-164243,True,False,False,False,False,False,
+21-164245,False,False,False,False,False,False,Caisse de sécurité sociale
+21-164247,False,False,False,False,True,False,
+21-164248,False,False,False,False,False,False,Groupement d'Intérêt Public
+21-164250,False,False,False,False,False,False,Cercle mixte de gendarmerie de Rochefort
+21-164257,True,False,False,False,False,False,
+21-164260,False,False,False,False,True,False,
+21-164261,False,False,False,False,False,False,Enseignement supérieur et recherche
+21-164263,False,False,False,False,True,False,
+21-164264,False,False,False,False,False,False,SOCIETE PUBLIQUE LOCALE
+21-164265,False,False,False,False,False,False,Association
+21-164269,False,False,True,False,False,False,
+21-164271,False,False,False,False,True,False,
+21-164272,False,False,True,False,False,False,
+21-164274,False,False,False,False,False,False,autre
+21-164276,False,False,False,True,False,False,
+21-164277,False,False,False,False,True,False,
+21-164280,False,False,False,False,False,False,autre
+21-164281,False,False,False,False,True,False,
+21-164284,False,False,True,False,False,False,
+21-164285,False,False,True,False,False,False,
+21-164291,False,False,True,False,False,False,
+21-164292,True,False,False,False,False,False,
+21-164293,False,False,True,False,False,False,
+21-164294,False,False,True,False,False,False,
+21-164295,False,False,True,False,False,False,
+21-164296,False,False,False,False,False,False,Établissement de santé
+21-164297,False,False,True,False,False,False,
+21-164299,False,False,False,False,False,False,SA d'HLM - OPH
+21-164302,True,False,False,False,False,False,
+21-164304,False,False,True,False,False,False,
+21-164309,True,False,False,False,False,False,
+21-164311,False,False,False,False,True,False,
+21-164312,False,False,False,False,True,False,
+21-164315,False,False,False,True,False,False,
+21-164317,False,False,False,False,True,False,
+21-164322,False,False,False,False,False,False,autre
+21-164324,False,False,False,False,True,False,
+21-164327,False,False,True,False,False,False,
+21-164329,False,False,False,False,True,False,
+21-164331,False,False,False,False,True,False,
+21-164336,False,False,False,False,False,False,établissement public
+21-164338,False,False,False,False,False,False,Protection sociale
+21-164339,False,False,False,False,True,False,
+21-164340,False,False,False,False,True,False,
+21-164341,False,False,False,False,False,False,Société publique locale - personne morale de droit privé
+21-164342,False,False,True,False,False,False,
+21-164343,False,False,False,False,False,False,autre
+21-164347,False,False,True,False,False,False,
+21-164348,False,False,True,False,False,False,
+21-164349,False,False,True,False,False,False,
+21-164351,False,False,False,False,False,False,Organisme de protection sociale
+21-164353,True,False,False,False,False,False,
+21-164363,False,False,False,False,False,False,SAEM
+21-164367,False,False,False,False,False,False,EPLE
+21-164368,False,False,False,False,True,False,
+21-164371,False,False,True,False,False,False,
+21-164372,False,False,False,False,True,False,
+21-164375,False,False,False,False,False,False,Agglomération
+21-164376,False,False,True,False,False,False,
+21-164389,True,False,False,False,False,False,
+21-164391,True,False,False,False,False,False,
+21-164392,True,False,False,False,False,False,
+21-164393,False,False,False,False,True,False,
+21-164396,False,False,False,False,True,False,
+21-164397,False,False,False,False,False,False,Chambre consulaire
+21-164400,False,False,True,False,False,False,
+21-164403,False,False,True,False,False,False,
+21-164406,False,False,False,False,True,False,
+21-164408,False,False,True,False,False,False,
+21-164410,False,False,False,True,False,False,
+21-164412,False,False,False,False,True,False,
+21-164413,False,False,False,False,True,False,
+21-164414,False,False,True,False,False,False,
+21-164415,False,False,False,False,False,False,EPLE
+21-164417,True,False,False,False,False,False,
+21-164420,True,False,False,False,False,False,
+21-164423,False,False,False,False,True,False,
+21-164428,False,False,True,False,False,False,
+21-164430,False,False,False,False,False,False,Association
+21-164432,True,False,False,False,False,False,
+21-164434,False,False,False,False,True,False,
+21-164435,False,False,False,False,False,False,EPLE
+21-164436,False,False,False,False,False,False,Groupement d'EPLE
+21-164437,False,False,False,False,False,False,EPSCP
+21-164438,False,False,True,False,False,False,
+21-164439,False,False,True,False,False,False,
+21-164446,False,False,True,False,False,False,
+21-164450,True,False,False,False,False,False,
+21-164452,False,False,False,True,False,False,
+21-164453,False,False,False,False,False,False,EPST
+21-164454,True,False,False,False,False,False,
+21-164455,False,False,True,False,False,False,
+21-164459,False,False,False,False,False,False,EPLE
+21-164463,False,False,True,False,False,False,
+21-164464,False,False,False,False,True,False,
+21-164468,False,False,False,False,False,False,EPCI
+21-164469,False,False,False,False,False,False,Opérateur de Compétences
+21-164470,False,False,True,False,False,False,
+21-164477,True,False,False,False,False,False,
+21-164481,False,False,True,False,False,False,
+21-164482,False,False,True,False,False,False,
+21-164484,False,False,True,False,False,False,
+21-164486,False,False,False,False,True,False,
+21-164488,False,False,False,False,False,False,Syndicat Mixte
+21-164490,False,False,False,False,False,False,Centre Hospitalier
+21-164500,False,False,False,False,True,False,
+21-164509,False,False,False,False,False,False,Société d'Economie Mixte
+21-164510,False,False,False,False,True,False,
+21-164511,False,False,False,False,False,False,Centre Hospitalier
+21-164513,False,False,False,False,True,False,
+21-164514,False,False,False,False,True,False,
+21-164518,False,False,True,False,False,False,
+21-164519,False,False,True,False,False,False,
+21-164520,False,False,True,False,False,False,
+21-164525,False,False,True,False,False,False,
+21-164526,False,False,True,False,False,False,
+21-164535,False,False,True,False,False,False,
+21-164536,False,False,True,False,False,False,
+21-164537,False,False,True,False,False,False,
+21-164538,False,False,True,False,False,False,
+21-164540,False,False,True,False,False,False,
+21-164545,False,False,False,False,True,False,
+21-164546,False,False,False,False,True,False,
+21-164547,False,False,True,False,False,False,
+21-164550,False,False,False,False,True,False,
+21-164551,False,False,True,False,False,False,
+21-164553,False,False,False,False,False,False,Etablissement public
+21-164554,False,False,False,False,True,False,
+21-164557,False,False,False,False,False,False,Fondation
+21-164558,True,False,False,False,False,False,
+21-164559,False,False,True,False,False,False,
+21-164562,False,False,True,False,False,False,
+21-164564,False,False,False,False,False,False,SEML
+21-164566,True,False,False,False,False,False,
+21-164568,False,False,False,False,True,False,
+21-164569,False,False,False,False,True,False,
+21-164576,False,False,False,True,False,False,
+21-164582,False,False,False,True,False,False,
+21-164586,False,False,True,False,False,False,
+21-164591,False,False,True,False,False,False,
+21-164592,False,False,True,False,False,False,
+21-164594,False,False,False,False,True,False,
+21-164596,True,False,False,False,False,False,
+21-164598,True,False,False,False,False,False,
+21-164602,False,False,True,False,False,False,
+21-164604,True,False,False,False,False,False,
+21-164605,False,False,True,False,False,False,
+21-164606,False,False,False,False,True,False,
+21-164609,False,False,False,False,False,False,Assemblée parlementaire
+21-164611,True,False,False,False,False,False,
+21-164613,False,False,True,False,False,False,
+21-164614,False,False,False,False,True,False,
+21-164615,False,False,False,False,False,False,Etablissement public départemental
+21-164616,False,False,True,False,False,False,
+21-164617,False,False,False,False,False,False,Organisme de sécurité sociale
+21-164619,False,False,False,False,False,False,Carrefour d'Accompagnement Public et Social
+21-164624,False,False,False,False,True,False,
+21-164625,True,False,False,False,False,False,
+21-164630,False,False,True,False,False,False,
+21-164634,False,False,True,False,False,False,
+21-164635,False,True,False,False,False,False,
+21-164637,False,False,True,False,False,False,
+21-164641,False,False,False,False,True,False,
+21-164646,False,False,True,False,False,False,
+21-164648,False,False,True,False,False,False,
+21-164654,False,False,False,False,True,False,
+21-164658,False,False,False,False,True,False,
+21-164659,False,False,True,False,False,False,
+21-164660,False,False,True,False,False,False,
+21-164661,False,False,False,False,True,False,
+21-164662,False,False,False,False,True,False,
+21-164663,False,False,True,False,False,False,
+21-164667,False,False,True,False,False,False,
+21-164668,False,False,True,False,False,False,
+21-164670,False,False,False,False,True,False,
+21-164671,True,False,False,False,False,False,
+21-164672,False,False,False,False,False,False,EPCI
+21-164675,True,False,False,False,False,False,
+21-164680,False,False,False,False,False,False,SEM
+21-164684,False,False,True,False,False,False,
+21-164686,False,False,True,False,False,False,
+21-164691,False,False,True,False,False,False,
+21-164693,False,False,True,False,False,False,
+21-164694,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+21-164695,False,False,False,False,True,False,
+21-164697,False,False,False,False,False,False,SA HLM
+21-164700,True,False,False,False,False,False,
+21-164702,False,False,True,False,False,False,
+21-164703,False,False,False,False,False,False,Activités portuaires
+21-164705,False,False,False,False,False,False,Société d'économie mixte
+21-164709,False,False,False,False,True,False,
+21-164710,False,False,True,False,False,False,
+21-164712,False,False,True,False,False,False,
+21-164715,False,False,False,True,False,False,
+21-164721,False,False,True,False,False,False,
+21-164722,False,False,False,False,False,False,SEM
+21-164723,False,False,True,False,False,False,
+21-164724,False,False,True,False,False,False,
+21-164732,False,False,False,False,True,False,
+21-164733,False,False,True,False,False,False,
+21-164735,True,False,False,False,False,False,
+21-164737,False,False,False,False,False,False,Entreprise Sociale pour l'Habitat
+21-164738,False,False,False,False,True,False,
+21-164740,True,False,False,False,False,False,
+21-164742,False,False,False,True,False,False,
+21-164744,False,False,False,False,True,False,
+21-164745,False,False,True,False,False,False,
+21-164753,False,False,False,False,True,False,
+21-164761,False,False,True,False,False,False,
+21-164762,False,False,False,False,True,False,
+21-164763,False,False,False,False,False,False,ESH
+21-164765,False,False,True,False,False,False,
+21-164767,False,False,True,False,False,False,
+21-164768,True,False,False,False,False,False,
+21-164772,False,True,False,False,False,False,
+21-164777,False,False,False,False,False,False,Assemblée nationale
+21-164779,False,False,True,False,False,False,
+21-164780,False,False,False,False,True,False,
+21-164785,False,False,False,False,True,False,
+21-164788,False,False,False,False,True,False,
+21-164791,False,False,True,False,False,False,
+21-164796,False,False,False,False,True,False,
+21-164797,False,False,True,False,False,False,
+21-164800,False,False,False,False,True,False,
+21-164802,True,False,False,False,False,False,
+21-164805,False,False,True,False,False,False,
+21-164808,False,False,True,False,False,False,
+21-164814,False,False,True,False,False,False,
+21-164815,False,False,False,False,True,False,
+21-164818,False,False,False,False,False,False,Association
+21-164820,False,False,False,False,True,False,
+21-164821,False,False,False,False,False,False,ORGANISME DE DROIT PRIVE
+21-164824,False,False,False,False,True,False,
+21-164825,True,False,False,False,False,False,
+21-164826,False,False,True,False,False,False,
+21-164827,False,False,False,False,True,False,
+21-164830,True,False,False,False,False,False,
+21-164833,False,False,False,False,False,False,"Établissement public à caractère Scientifique, Culturel et Professionnel (EPSCP)"
+21-164835,False,False,False,False,True,False,
+21-164839,False,False,True,False,False,False,
+21-164845,False,False,False,False,True,False,
+21-164846,False,False,True,False,False,False,
+21-164847,False,False,False,False,False,False,Communauté urbaine
+21-164848,True,False,False,False,False,False,
+21-164849,False,False,True,False,False,False,
+21-164852,False,False,False,False,False,False,Université
+21-164853,False,False,True,False,False,False,
+21-164857,False,False,False,False,True,False,
+21-164858,False,False,False,False,True,False,
+21-164862,True,False,False,False,False,False,
+21-164869,False,False,False,False,False,False,Société publique locale
+21-164875,False,False,False,False,False,False,Sécurité sociale
+21-164877,False,False,False,False,True,False,
+21-164880,False,False,True,False,False,False,
+21-164883,True,False,False,False,False,False,
+21-164891,False,False,True,False,False,False,
+21-164892,False,False,True,False,False,False,
+21-164894,False,False,False,False,False,False,autre
+21-164895,False,False,True,False,False,False,
+21-164899,False,False,True,False,False,False,
+21-164902,False,False,False,False,True,False,
+21-164904,True,False,False,False,False,False,
+21-164910,False,False,True,False,False,False,
+21-164911,False,False,True,False,False,False,
+21-164914,True,False,False,False,False,False,
+21-164915,True,False,False,False,False,False,
+21-164916,False,False,False,False,False,False,Etablissement Public de Santé Mentale
+21-164919,False,False,False,False,True,False,
+21-164921,False,False,False,False,True,False,
+21-164922,True,False,False,False,False,False,
+21-164923,False,False,False,False,False,False,SA SPLA
+21-164924,False,False,True,False,False,False,
+21-164925,True,False,False,False,False,False,
+21-164927,True,False,False,False,False,False,
+21-164931,False,False,False,False,False,False,Chambre Consulaire
+21-164935,False,False,False,False,False,False,Protection sociale
+21-164939,False,False,True,False,False,False,
+21-164941,False,False,False,False,False,False,Sécurité sociale
+21-164942,False,False,False,False,True,False,
+21-164944,True,False,False,False,False,False,
+21-164945,False,False,False,False,False,False,Société d'Economie Mixte
+21-164949,False,False,True,False,False,False,
+21-164953,False,False,False,False,True,False,
+21-164956,False,False,False,False,True,False,
+21-164958,False,False,True,False,False,False,
+21-164959,False,False,True,False,False,False,
+21-164961,True,False,False,False,False,False,
+21-164962,False,False,False,False,True,False,
+21-164963,False,False,True,False,False,False,
+21-164964,False,False,True,False,False,False,
+21-164965,False,False,False,False,True,False,
+21-164966,False,False,True,False,False,False,
+21-164967,False,False,False,False,True,False,
+21-164968,False,False,True,False,False,False,
+21-164969,False,False,True,False,False,False,
+21-164970,False,False,True,False,False,False,
+21-164972,False,False,True,False,False,False,
+21-164974,True,False,False,False,False,False,
+21-164975,False,False,False,False,False,False,ESH
+21-164976,False,False,True,False,False,False,
+21-164980,False,False,False,True,False,False,
+21-164982,False,False,True,False,False,False,
+21-164983,False,False,False,False,True,False,
+21-164986,False,False,False,False,True,False,
+21-164987,False,False,False,False,False,False,Communauté de communes
+21-164990,False,False,False,False,True,False,
+21-164992,False,False,True,False,False,False,
+21-164994,False,False,True,False,False,False,
+21-164995,False,False,False,False,False,False,autre
+21-164997,False,False,True,False,False,False,
+21-165002,True,False,False,False,False,False,
+21-165007,False,False,True,False,False,False,
+21-165008,False,False,True,False,False,False,
+21-165011,False,False,False,False,False,False,Grand Etablissement
+21-165012,False,True,False,False,False,False,
+21-165014,False,False,False,False,False,False,Autre organisme public
+21-165019,False,False,True,False,False,False,
+21-165022,False,False,False,False,False,False,GIP
+21-165023,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire."
+21-165031,True,False,False,False,False,False,
+21-165034,False,False,False,False,True,False,
+21-165042,True,False,False,False,False,False,
+21-165043,False,False,False,False,False,False,Etablissement public local
+21-165046,False,False,True,False,False,False,
+21-165053,False,False,False,False,False,False,Communauté de Communes
+21-165055,True,False,False,False,False,False,
+21-165060,False,False,True,False,False,False,
+21-165062,False,False,False,False,False,False,Union des caisses nationales de Sécurité sociale (UCANSS)
+21-165063,False,False,True,False,False,False,
+21-165069,False,False,True,False,False,False,
+21-165072,False,False,True,False,False,False,
+21-165077,False,False,False,False,True,False,
+21-165078,False,False,False,False,True,False,
+21-165082,False,False,False,False,False,False,Groupement d'Intérêt Public
+21-165085,False,False,False,False,True,False,
+21-165086,False,False,True,False,False,False,
+21-165087,False,False,False,False,True,False,
+21-165095,False,False,False,False,True,False,
+21-165096,False,False,True,False,False,False,
+21-165099,False,False,False,False,True,False,
+21-165107,False,False,True,False,False,False,
+21-165110,False,False,True,False,False,False,
+21-165111,False,False,False,False,True,False,
+21-165112,False,False,False,False,True,False,
+21-165115,False,False,False,False,False,False,EPCI
+21-165117,False,False,False,False,True,False,
+21-165119,False,False,False,False,False,False,S.A.
+21-165122,False,False,False,False,False,False,Etablissement public de santé
+21-165124,False,False,False,False,True,False,
+21-165125,False,False,False,False,False,False,Etablissement de santé
+21-165128,False,False,False,False,False,False,Santé
+21-165130,False,False,False,False,False,False,Etablissement public administratif
+21-165131,True,False,False,False,False,False,
+21-165132,True,False,False,False,False,False,
+21-165135,False,False,False,False,True,False,
+21-165136,True,False,False,False,False,False,
+21-165140,False,False,False,False,False,False,Syndicat Mixte
+21-165142,False,False,True,False,False,False,
+21-165143,False,False,True,False,False,False,
+21-165144,False,False,False,False,True,False,
+21-165147,True,False,False,False,False,False,
+21-165149,False,False,False,False,True,False,
+21-165150,False,False,True,False,False,False,
+21-165151,True,False,False,False,False,False,
+21-165156,False,False,True,False,False,False,
+21-165157,False,False,False,False,True,False,
+21-165158,False,False,False,False,True,False,
+21-165161,False,False,True,False,False,False,
+21-165162,False,False,False,False,False,False,collectivité territoriale à statut particulier
+21-165163,False,False,True,False,False,False,
+21-165167,False,False,True,False,False,False,
+21-165168,False,False,False,False,True,False,
+21-165173,False,False,True,False,False,False,
+21-165174,False,False,True,False,False,False,
+21-165175,False,False,False,False,False,False,EPCI
+21-165177,False,False,True,False,False,False,
+21-165178,False,False,True,False,False,False,
+21-165192,False,False,True,False,False,False,
+21-165193,False,False,False,False,True,False,
+21-165198,False,False,True,False,False,False,
+21-165199,False,False,False,False,False,False,Etablissement public
+21-165204,False,False,False,False,False,False,autre
+21-165205,False,False,False,False,True,False,
+21-165206,False,False,True,False,False,False,
+21-165207,False,False,True,False,False,False,
+21-165214,False,False,True,False,False,False,
+21-165215,False,False,False,False,True,False,
+21-165217,False,False,True,False,False,False,
+21-165219,False,False,False,False,True,False,
+21-165220,False,False,False,False,True,False,
+21-165222,False,False,True,False,False,False,
+21-165224,False,False,False,False,True,False,
+21-165226,False,False,True,False,False,False,
+21-165227,False,False,True,False,False,False,
+21-165228,False,False,False,False,True,False,
+21-165232,False,False,False,False,True,False,
+21-165242,False,False,True,False,False,False,
+21-165248,True,False,False,False,False,False,
+21-165249,True,False,False,False,False,False,
+21-165250,False,False,False,False,True,False,
+21-165255,False,False,False,False,True,False,
+21-165257,False,False,False,False,True,False,
+21-165258,False,False,True,False,False,False,
+21-165259,False,False,True,False,False,False,
+21-165260,True,False,False,False,False,False,
+21-165264,False,False,True,False,False,False,
+21-165267,False,False,False,True,False,False,
+21-165270,False,False,True,False,False,False,
+21-165273,False,False,False,False,True,False,
+21-165274,False,False,True,False,False,False,
+21-165281,False,False,True,False,False,False,
+21-165282,False,False,False,False,True,False,
+21-165284,False,False,False,False,False,False,autre
+21-165287,False,False,False,False,True,False,
+21-165288,False,False,True,False,False,False,
+21-165290,False,False,False,False,False,False,autre
+21-165291,False,False,False,False,False,False,Santé
+21-165293,True,False,False,False,False,False,
+21-165295,False,False,False,False,False,False,Établissement public de l'enseignement et de la recherche
+21-165297,False,False,False,False,True,False,
+21-165300,False,False,True,False,False,False,
+21-165301,True,False,False,False,False,False,
+21-165305,False,False,False,False,True,False,
+21-165306,True,False,False,False,False,False,
+21-165308,False,False,False,False,False,False,Établissement public à caractère scientifique et technologique
+21-165309,False,False,False,False,True,False,
+21-165311,False,False,False,False,True,False,
+21-165313,False,False,False,False,True,False,
+21-165315,False,False,False,False,True,False,
+21-165316,False,False,False,False,True,False,
+21-165317,False,False,False,False,False,False,Etablissement public national
+21-165318,False,False,True,False,False,False,
+21-165322,True,False,False,False,False,False,
+21-165323,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+21-165325,False,False,True,False,False,False,
+21-165326,True,False,False,False,False,False,
+21-165327,False,False,True,False,False,False,
+21-165334,False,False,False,False,False,False,organisme de droit privé soumis au code de la commande publique
+21-165336,False,False,True,False,False,False,
+21-165341,False,False,True,False,False,False,
+21-165342,False,False,False,False,True,False,
+21-165344,False,False,False,False,False,False,Etablissement public territorial
+21-165349,False,False,True,False,False,False,
+21-165358,False,False,False,False,True,False,
+21-165359,False,False,True,False,False,False,
+21-165362,False,False,True,False,False,False,
+21-165363,False,False,True,False,False,False,
+21-165368,True,False,False,False,False,False,
+21-165373,False,False,False,False,True,False,
+21-165374,False,False,True,False,False,False,
+21-165377,False,False,True,False,False,False,
+21-165378,False,False,True,False,False,False,
+21-165379,False,False,False,False,False,False,SyndicatIntercommunal à Vocatioin Unique
+21-165381,False,False,True,False,False,False,
+21-165383,False,False,True,False,False,False,
+21-165384,False,False,True,False,False,False,
+21-165385,False,False,True,False,False,False,
+21-165386,False,False,False,False,True,False,
+21-165387,False,False,True,False,False,False,
+21-165388,False,False,True,False,False,False,
+21-165390,False,False,True,False,False,False,
+21-165392,False,False,True,False,False,False,
+21-165393,False,False,True,False,False,False,
+21-165397,False,False,False,False,False,False,Enseignement supérieur
+21-165402,False,False,False,False,True,False,
+21-165403,False,False,True,False,False,False,
+21-165404,False,False,False,False,False,False,Organisme de protection social
+21-165406,False,False,True,False,False,False,
+21-165412,False,False,True,False,False,False,
+21-165414,True,False,False,False,False,False,
+21-165415,False,False,True,False,False,False,
+21-165417,False,False,False,False,False,False,syndicat mixte fermé
+21-165419,False,False,False,False,True,False,
+21-165421,True,False,False,False,False,False,
+21-165424,False,False,False,False,True,False,
+21-165426,False,False,False,False,False,False,Santé
+21-165430,False,False,True,False,False,False,
+21-165431,False,False,True,False,False,False,
+21-165432,False,False,True,False,False,False,
+21-165433,False,False,True,False,False,False,
+21-165434,False,False,False,False,True,False,
+21-165436,False,False,False,False,False,False,Santé
+21-165437,True,False,False,False,False,False,
+21-165440,False,False,True,False,False,False,
+21-165442,False,False,False,False,True,False,
+21-165445,True,False,False,False,False,False,
+21-165448,False,False,True,False,False,False,
+21-165450,False,False,False,False,False,False,Organisation internationale
+21-165451,False,False,False,False,True,False,
+21-165455,True,False,False,False,False,False,
+21-165456,False,False,True,False,False,False,
+21-165457,False,False,False,False,False,False,Etablissement public
+21-165459,False,False,True,False,False,False,
+21-165463,False,False,True,False,False,False,
+21-165468,False,False,False,False,False,False,Etablissement public
+21-165469,False,False,False,False,False,False,Etablissement public de santé
+21-165470,False,False,False,False,False,False,Établissement de Santé
+21-165472,False,False,True,False,False,False,
+21-165474,False,False,True,False,False,False,
+21-165475,False,False,True,False,False,False,
+21-165484,False,False,False,False,True,False,
+21-165487,False,False,True,False,False,False,
+21-165490,False,False,False,False,True,False,
+21-165491,False,False,True,False,False,False,
+21-165493,False,False,True,False,False,False,
+21-165494,False,False,False,False,False,False,Groupement d'EPLE
+21-165496,False,False,False,False,True,False,
+21-165497,False,False,False,False,True,False,
+21-165498,False,False,False,False,True,False,
+21-165499,False,False,False,False,True,False,
+21-165501,False,True,False,False,False,False,
+21-165503,False,False,True,False,False,False,
+21-165506,False,False,False,False,False,False,Centre Hospitalier
+21-165508,False,False,False,False,False,False,Université
+21-165511,False,False,False,False,True,False,
+21-165514,False,False,False,False,True,False,
+21-165515,False,False,False,False,False,False,Santé
+21-165519,False,False,False,False,True,False,
+21-165522,False,False,False,False,False,False,EPCI
+21-165523,False,False,True,False,False,False,
+21-165530,False,False,False,False,True,False,
+21-165531,False,False,False,False,True,False,
+21-165534,True,False,False,False,False,False,
+21-165539,False,False,False,False,True,False,
+21-165540,False,False,False,False,True,False,
+21-165541,True,False,False,False,False,False,
+21-165542,False,False,True,False,False,False,
+21-165544,False,False,True,False,False,False,
+21-165546,False,False,False,False,False,False,EPIC
+21-165549,False,False,False,False,True,False,
+21-165550,False,True,False,False,False,False,
+21-165552,True,False,False,False,False,False,
+21-165554,False,False,False,False,True,False,
+21-165555,False,False,False,False,True,False,
+21-165557,False,False,True,False,False,False,
+21-165558,False,False,False,False,True,False,
+21-165562,False,False,False,False,False,False,Etablissement public
+21-165563,False,False,False,False,True,False,
+21-165564,True,False,False,False,False,False,
+21-165567,False,False,False,False,True,False,
+21-165569,False,False,False,False,True,False,
+21-165572,False,False,False,False,True,False,
+21-165573,False,False,True,False,False,False,
+21-165578,False,False,True,False,False,False,
+21-165579,False,False,False,False,False,False,Transports
+21-165581,False,False,False,False,False,False,autre
+21-165585,False,False,True,False,False,False,
+21-165590,False,False,False,False,True,False,
+21-165594,False,False,True,False,False,False,
+21-165596,False,False,True,False,False,False,
+21-165597,False,False,True,False,False,False,
+21-165598,False,False,True,False,False,False,
+21-165600,False,False,False,False,True,False,
+21-165601,False,False,True,False,False,False,
+21-165603,False,False,True,False,False,False,
+21-165604,False,False,False,False,True,False,
+21-165605,False,False,False,False,True,False,
+21-165607,False,False,False,False,True,False,
+21-165610,False,False,False,False,False,False,Aménagement du territoire
+21-165614,False,False,False,False,False,False,SA HLM
+21-165617,False,False,False,False,True,False,
+21-165618,True,False,False,False,False,False,
+21-165623,False,False,True,False,False,False,
+21-165624,False,False,False,False,True,False,
+21-165627,False,False,False,False,False,False,Assemblée parlementaire
+21-165628,False,False,False,False,False,False,Etablissement public de santé
+21-165630,False,False,False,False,True,False,
+21-165633,False,False,False,False,True,False,
+21-165636,False,False,False,False,False,False,Agence de développement économique de la Région Bretagne
+21-165638,True,False,False,False,False,False,
+21-165639,False,False,False,False,False,False,Parlement.
+21-165640,False,False,False,False,True,False,
+21-165643,False,False,True,False,False,False,
+21-165644,False,False,True,False,False,False,
+21-165645,False,False,False,False,True,False,
+21-165646,False,False,True,False,False,False,
+21-165650,False,False,False,False,False,False,Santé
+21-165655,False,False,False,False,False,False,ORGANISME PRIVE CHARGE DE MISSION DE SERVICE PUBLIC
+21-165656,False,False,True,False,False,False,
+21-165657,False,False,False,False,True,False,
+21-165659,False,False,False,False,True,False,
+21-165660,False,False,False,False,True,False,
+21-165661,False,False,False,False,False,False,Caisse de retraite du personnel navigant de l'aéronautique civile
+21-165662,False,False,True,False,False,False,
+21-165663,False,False,False,False,False,False,Syndicat Mixte EPCI
+21-165665,False,False,False,False,True,False,
+21-165667,False,False,True,False,False,False,
+21-165668,False,False,True,False,False,False,
+21-165669,False,False,False,True,False,False,
+21-165671,True,False,False,False,False,False,
+21-165674,False,False,True,False,False,False,
+21-165675,False,False,False,False,True,False,
+21-165679,False,False,True,False,False,False,
+21-165681,False,False,True,False,False,False,
+21-165682,False,False,False,False,True,False,
+21-165684,False,False,True,False,False,False,
+21-165685,False,False,False,False,False,False,Opérateur de compétences - Financement de la formation
+21-165686,False,False,True,False,False,False,
+21-165687,False,False,True,False,False,False,
+21-165688,False,False,False,False,False,False,autre
+21-165689,False,False,True,False,False,False,
+21-165697,False,False,True,False,False,False,
+21-165698,False,False,False,False,True,False,
+21-165700,False,False,True,False,False,False,
+21-165701,False,False,False,False,True,False,
+21-165702,False,False,True,False,False,False,
+21-165704,False,False,False,False,False,False,Sécurité Sociale
+21-165706,False,False,False,False,False,False,Autre
+21-165709,False,False,False,False,False,False,INSTITUT NATIONAL DE RECHERCHE ET DE SECURITE
+21-165710,False,False,False,False,True,False,
+21-165717,False,False,True,False,False,False,
+21-165718,False,False,False,False,False,False,Santé
+21-165720,False,False,False,False,False,False,Établissement public de santé
+21-165722,False,False,False,False,False,False,Enseignement supérieur
+21-165723,False,False,True,False,False,False,
+21-165725,False,False,False,False,False,False,commune
+21-165726,False,False,False,False,True,False,
+21-165727,False,False,False,False,True,False,
+21-165728,False,False,False,False,True,False,
+21-165729,False,False,False,False,False,False,autre
+21-165731,False,False,True,False,False,False,
+21-165733,False,False,False,False,False,False,autre
+21-165735,False,False,True,False,False,False,
+21-165736,False,False,False,True,False,False,
+21-165737,False,False,True,False,False,False,
+21-165738,False,False,True,False,False,False,
+21-165741,False,False,False,False,True,False,
+21-165743,False,False,True,False,False,False,
+21-165744,False,False,False,False,True,False,
+21-165750,False,False,True,False,False,False,
+21-165751,False,False,True,False,False,False,
+21-165753,False,False,False,False,False,False,Parlement - Sénat
+21-165755,True,False,False,False,False,False,
+21-165757,True,False,False,False,False,False,
+21-165758,False,False,False,False,True,False,
+21-165759,False,False,False,False,True,False,
+21-165760,False,False,True,False,False,False,
+21-165762,False,False,True,False,False,False,
+21-165765,False,False,False,False,False,False,Aménagement du territoire
+21-165766,False,False,True,False,False,False,
+21-165768,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+21-165771,False,False,False,False,True,False,
+21-165772,False,False,False,False,False,False,"Groupement de commande entre le GIP FCIP, le GRETA-CFA des Pyrénées orientales et le GRETA-CFA Montpellier Littoral"
+21-165776,True,False,False,False,False,False,
+21-165780,False,False,False,False,True,False,
+21-165781,False,False,False,False,False,False,Établissement public à caractère industriel et commercial
+21-165785,False,False,True,False,False,False,
+21-165786,False,False,True,False,False,False,
+21-165787,False,False,True,False,False,False,
+21-165788,False,False,True,False,False,False,
+21-165790,False,False,True,False,False,False,
+21-165791,False,False,True,False,False,False,
+21-165792,False,False,False,False,True,False,
+21-165793,False,False,True,False,False,False,
+21-165796,False,False,False,False,True,False,
+21-165797,False,False,False,False,True,False,
+21-165798,False,False,True,False,False,False,
+21-165800,True,False,False,False,False,False,
+21-165803,False,False,False,False,False,False,Mission de pouvoir public
+21-165808,False,False,False,False,True,False,
+21-165809,False,False,True,False,False,False,
+21-165814,False,False,True,False,False,False,
+21-165830,False,False,True,False,False,False,
+21-165832,False,False,False,False,False,False,Société d'Economie Mixte
+21-165835,False,False,False,False,True,False,
+21-165837,False,False,False,False,True,False,
+21-165840,False,False,True,False,False,False,
+21-165844,False,False,True,False,False,False,
+21-165846,False,False,True,False,False,False,
+21-165848,False,False,True,False,False,False,
+21-165853,False,False,False,False,True,False,
+21-165857,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+21-165858,False,False,True,False,False,False,
+21-165859,False,False,True,False,False,False,
+21-165861,False,False,False,False,False,False,Etablissement public de santé
+21-165863,False,False,False,False,False,False,Service départemental d'incendie et de secours
+21-165867,False,False,True,False,False,False,
+21-165874,False,False,False,False,True,False,
+21-165875,True,False,False,False,False,False,
+21-165877,False,False,True,False,False,False,
+21-165881,False,False,True,False,False,False,
+21-165882,False,False,True,False,False,False,
+21-165885,False,False,False,False,True,False,
+21-165887,False,False,True,False,False,False,
+21-165889,False,False,False,False,True,False,
+21-165891,False,False,False,False,False,False,Syndicat mixte
+21-165892,False,False,True,False,False,False,
+21-165895,False,False,True,False,False,False,
+21-165899,False,False,False,False,False,False,Organisme semi-public
+21-165901,False,False,True,False,False,False,
+21-165903,False,False,True,False,False,False,
+21-165905,False,False,False,False,True,False,
+21-165913,False,False,False,False,True,False,
+21-165917,False,False,True,False,False,False,
+21-165919,True,False,False,False,False,False,
+21-165920,False,False,True,False,False,False,
+21-165926,False,False,False,False,True,False,
+21-165929,False,False,False,False,False,False,Etablissement public de santé
+21-165930,True,False,False,False,False,False,
+21-165937,False,False,True,False,False,False,
+21-165939,False,False,True,False,False,False,
+21-165942,False,False,True,False,False,False,
+21-165947,False,False,False,False,True,False,
+21-165959,False,False,False,False,False,False,autre
+21-165960,False,False,True,False,False,False,
+21-165962,False,False,False,False,True,False,
+21-165964,False,False,True,False,False,False,
+21-165971,False,False,False,False,True,False,
+21-165974,False,False,True,False,False,False,
+21-165975,False,False,False,False,False,False,Etablisement public d'Etat
+21-165977,False,False,True,False,False,False,
+21-165978,False,False,True,False,False,False,
+21-165979,False,False,False,False,True,False,
+21-165981,False,False,False,False,False,False,autre
+21-165983,False,False,False,False,False,False,autre
+21-165988,False,False,True,False,False,False,
+21-165990,False,False,False,True,False,False,
+21-165992,False,False,True,False,False,False,
+21-165995,True,False,False,False,False,False,
+21-165997,False,False,True,False,False,False,
+21-165998,False,False,False,False,True,False,
+21-165999,False,False,False,False,True,False,
+21-166001,True,False,False,False,False,False,
+21-166004,False,False,False,False,False,False,Commune
+21-166009,False,False,True,False,False,False,
+21-166010,False,False,True,False,False,False,
+21-166013,False,False,False,False,True,False,
+21-166014,False,False,False,False,True,False,
+21-166018,False,False,False,False,True,False,
+21-166022,False,False,True,False,False,False,
+21-166023,False,False,False,False,False,False,Association de droit privamp;eacute; loi 1901
+21-166030,False,False,False,False,True,False,
+21-166033,True,False,False,False,False,False,
+21-166036,False,False,False,False,True,False,
+21-166037,False,False,False,False,False,False,Société Publique Locale
+21-166039,False,False,False,False,True,False,
+21-166040,False,False,False,False,False,False,Société Anonyme d'Habitations à Loyer Modéré
+21-166042,False,False,True,False,False,False,
+21-166045,False,True,False,False,False,False,
+21-166046,False,True,False,False,False,False,
+21-166047,False,False,True,False,False,False,
+21-166049,False,False,False,False,True,False,
+21-166052,False,False,False,False,True,False,
+21-166053,False,False,True,False,False,False,
+21-166055,False,False,True,False,False,False,
+21-166059,False,False,False,False,True,False,
+21-166061,False,False,True,False,False,False,
+21-166062,False,False,False,False,True,False,
+21-166063,False,False,True,False,False,False,
+21-166065,False,False,False,False,False,False,Organisme consulaire
+21-166070,False,False,True,False,False,False,
+21-166071,False,False,False,False,True,False,
+21-166072,False,False,True,False,False,False,
+21-166073,False,False,True,False,False,False,
+21-166075,False,False,True,False,False,False,
+21-166076,False,False,True,False,False,False,
+21-166077,False,False,False,False,False,False,Université : Enseignement supérieur et recherche
+21-166080,False,False,True,False,False,False,
+21-166084,False,False,True,False,False,False,
+21-166085,False,False,False,False,False,False,Enseignement supérieur
+21-166089,False,False,True,False,False,False,
+21-166090,False,False,False,False,True,False,
+21-166092,False,False,False,False,True,False,
+21-166097,False,False,False,False,False,False,association syndicale autorisée
+21-166098,False,False,True,False,False,False,
+21-166102,False,False,False,False,True,False,
+21-166103,False,False,False,False,True,False,
+21-166104,True,False,False,False,False,False,
+21-166105,False,False,False,False,True,False,
+21-166107,True,False,False,False,False,False,
+21-166108,False,False,True,False,False,False,
+21-166109,False,False,False,False,True,False,
+21-166110,False,False,False,False,False,False,Enseignement supérieur et recherche
+21-166116,False,False,False,False,False,False,Education- Enseignement supérieur
+21-166117,True,False,False,False,False,False,
+21-166118,False,False,False,False,False,False,EPIC
+21-166120,False,False,True,False,False,False,
+21-166125,False,False,False,False,False,False,Etablissement Public de Santé
+21-166126,False,False,False,False,True,False,
+21-166130,False,False,True,False,False,False,
+21-166132,False,False,True,False,False,False,
+21-166136,False,False,False,False,True,False,
+21-166138,False,False,False,False,False,False,EPSCP
+21-166141,False,False,False,False,False,False,Etablissement Public de Santé
+21-166144,False,False,False,True,False,False,
+21-166145,False,False,True,False,False,False,
+21-166147,False,False,False,False,False,False,autre
+21-166149,False,False,True,False,False,False,
+21-166154,False,False,True,False,False,False,
+21-166155,False,False,True,False,False,False,
+21-166156,False,False,False,False,True,False,
+21-166157,False,False,False,False,True,False,
+21-166159,False,False,True,False,False,False,
+21-166162,False,False,True,False,False,False,
+21-166164,False,False,False,False,False,False,autre
+21-166165,False,False,True,False,False,False,
+21-166167,False,False,False,False,True,False,
+21-166172,False,False,False,False,True,False,
+21-166173,False,False,True,False,False,False,
+21-166174,False,False,True,False,False,False,
+21-166175,False,False,False,False,True,False,
+21-166177,False,False,True,False,False,False,
+21-166179,False,True,False,False,False,False,
+21-166181,False,False,True,False,False,False,
+21-166183,False,False,False,False,False,False,Enseignement supérieur et recherche
+21-166184,False,False,False,False,True,False,
+21-166187,False,False,False,False,True,False,
+21-166190,False,False,False,False,True,False,
+21-166196,False,False,False,False,True,False,
+21-166197,True,False,False,False,False,False,
+21-166198,False,False,True,False,False,False,
+21-166202,False,False,False,False,False,False,"Gestion des droits à l'assurance maladie, versement des prestations dues et remboursement des frais de santé"
+21-166206,False,False,True,False,False,False,
+21-166208,False,False,False,False,True,False,
+21-166209,False,False,True,False,False,False,
+21-166210,False,False,False,False,False,False,Etablissement de santé
+21-166211,False,False,True,False,False,False,
+21-166212,False,False,False,False,True,False,
+21-166219,True,False,False,False,False,False,
+21-166220,False,False,False,False,True,False,
+21-166221,False,False,False,False,True,False,
+21-166222,False,False,True,False,False,False,
+21-166225,False,False,True,False,False,False,
+21-166228,False,False,True,False,False,False,
+21-166230,False,False,False,False,True,False,
+21-166233,False,False,True,False,False,False,
+21-166234,False,False,True,False,False,False,
+21-166241,False,False,True,False,False,False,
+21-166246,True,False,False,False,False,False,
+21-166249,False,False,False,False,False,False,Université
+21-166250,False,False,False,False,False,False,EPS
+21-166251,False,False,False,False,True,False,
+21-166252,False,False,False,False,True,False,
+21-166253,True,False,False,False,False,False,
+21-166255,False,False,True,False,False,False,
+21-166261,False,False,False,False,True,False,
+21-166263,True,False,False,False,False,False,
+21-166264,False,False,True,False,False,False,
+21-166267,False,False,False,False,False,False,Enseignement supérieur
+21-166270,False,False,True,False,False,False,
+21-166271,False,False,False,False,True,False,
+21-166274,False,False,False,False,False,False,syndicat mixte
+21-166275,False,False,True,False,False,False,
+21-166276,False,False,False,False,False,False,Sécurité Sociale
+21-166277,False,False,False,False,True,False,
+21-166283,False,False,True,False,False,False,
+21-166285,False,False,True,False,False,False,
+21-166288,False,False,False,True,False,False,
+21-166294,False,False,False,False,True,False,
+21-166295,False,False,True,False,False,False,
+21-166301,False,False,True,False,False,False,
+21-166302,False,False,True,False,False,False,
+21-166305,False,False,True,False,False,False,
+21-166306,False,False,True,False,False,False,
+21-166307,False,False,True,False,False,False,
+21-166311,False,False,False,False,False,False,Enseignement supérieur
+21-166312,False,False,False,False,True,False,
+21-166313,False,False,False,False,True,False,
+21-166314,False,False,True,False,False,False,
+21-166315,False,False,True,False,False,False,
+21-166320,False,False,False,False,False,False,EPCI
+21-166322,False,False,True,False,False,False,
+21-166323,True,False,False,False,False,False,
+21-166325,False,False,True,False,False,False,
+21-166326,False,False,False,False,False,False,EPIC
+21-166327,False,False,False,False,False,False,établissement  public administratif
+21-166329,True,False,False,False,False,False,
+21-166332,False,False,True,False,False,False,
+21-166338,False,False,False,False,True,False,
+21-166339,False,False,True,False,False,False,
+21-166349,False,False,False,False,True,False,
+21-166350,False,False,False,False,True,False,
+21-166353,True,False,False,False,False,False,
+21-166355,False,False,True,False,False,False,
+21-166357,False,False,True,False,False,False,
+21-166360,False,False,False,False,False,False,Collectivité territoriale
+21-166362,True,False,False,False,False,False,
+21-166363,False,False,False,False,True,False,
+21-166364,False,False,False,False,True,False,
+21-166365,False,False,False,False,False,False,Société Publique Locale d'Aménagement
+21-166366,False,False,True,False,False,False,
+21-166370,False,False,False,False,True,False,
+21-166377,False,False,False,False,False,False,autre
+21-166378,False,False,True,False,False,False,
+21-166380,False,False,False,False,True,False,
+21-166381,False,False,True,False,False,False,
+21-166388,False,False,True,False,False,False,
+21-166390,False,False,False,False,True,False,
+21-166391,False,False,True,False,False,False,
+21-166392,True,False,False,False,False,False,
+21-166394,False,False,True,False,False,False,
+21-166398,False,False,False,False,True,False,
+21-166400,False,False,True,False,False,False,
+21-166402,False,False,True,False,False,False,
+21-166403,False,False,True,False,False,False,
+21-166405,False,False,True,False,False,False,
+21-166407,False,False,True,False,False,False,
+21-166411,False,False,True,False,False,False,
+21-166417,False,False,False,False,False,False,Etablissement public d'Etat
+21-166418,False,False,True,False,False,False,
+21-166423,False,False,False,False,True,False,
+21-166427,False,False,False,False,True,False,
+21-166429,True,False,False,False,False,False,
+21-166430,False,False,False,False,True,False,
+21-166432,False,False,True,False,False,False,
+21-166437,False,False,False,False,False,False,Groupement de coopération sanitaire
+21-166440,False,False,False,False,True,False,
+21-166441,False,False,False,False,True,False,
+21-166446,False,False,True,False,False,False,
+21-166447,False,False,True,False,False,False,
+21-166450,False,False,True,False,False,False,
+21-166451,False,False,False,False,True,False,
+21-166453,False,False,False,False,False,False,personne morale de droit public (Etablissement public à caractère industriel et commercial) de l'etat
+21-166455,False,False,True,False,False,False,
+21-166456,True,False,False,False,False,False,
+21-166459,False,False,False,False,True,False,
+21-166461,False,False,True,False,False,False,
+21-166462,False,False,True,False,False,False,
+21-166464,True,False,False,False,False,False,
+21-166465,False,False,False,False,True,False,
+21-166466,False,False,False,False,False,False,Commune
+21-166469,False,False,True,False,False,False,
+21-166472,False,False,True,False,False,False,
+21-166474,False,False,True,False,False,False,
+21-166475,False,False,True,False,False,False,
+21-166477,False,False,False,False,False,False,Enseignement supérieur et Recherche
+21-166478,False,False,True,False,False,False,
+21-166481,False,False,True,False,False,False,
+21-166484,False,False,True,False,False,False,
+21-166486,False,False,True,False,False,False,
+21-166488,False,False,False,False,True,False,
+21-166489,False,False,True,False,False,False,
+21-166491,False,False,True,False,False,False,
+21-166495,False,False,False,False,True,False,
+21-166499,False,False,True,False,False,False,
+21-166503,False,False,False,False,True,False,
+21-166504,False,False,False,False,False,False,autre
+21-166505,False,False,False,False,True,False,
+21-166506,False,False,True,False,False,False,
+21-166508,False,False,True,False,False,False,
+21-166511,False,False,True,False,False,False,
+21-166513,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+21-166514,False,False,True,False,False,False,
+21-166516,False,False,False,False,True,False,
+21-166517,False,False,True,False,False,False,
+21-166518,False,False,False,False,False,False,EHPAD Public
+21-166521,False,False,False,False,True,False,
+21-166522,False,False,False,False,True,False,
+21-166524,False,False,False,False,False,False,Etablissement public de santé
+21-166525,False,False,False,False,False,False,Etablissement public de santé
+21-166527,False,False,False,False,False,False,Établissement Public Territorial
+21-166530,False,False,True,False,False,False,
+21-166535,False,False,False,False,False,False,Etablissement Public de Cooperation Intercommunale
+21-166536,False,False,False,False,False,False,Organisme de protection social
+21-166539,False,False,True,False,False,False,
+21-166541,False,False,True,False,False,False,
+21-166542,False,False,False,False,True,False,
+21-166543,True,False,False,False,False,False,
+21-166546,False,False,False,False,False,False,Syndicat mixte informatique
+21-166548,False,False,True,False,False,False,
+21-166551,False,False,True,False,False,False,
+21-166555,False,False,False,False,False,False,Organisme de Sécurité Sociale
+21-166556,False,False,False,False,False,False,Collectivité territoriale
+21-166558,False,False,False,False,True,False,
+21-166562,False,False,False,False,False,False,ESPIC
+21-166568,False,False,False,False,False,False,autre
+21-166569,False,False,True,False,False,False,
+21-166570,False,False,False,False,True,False,
+21-166571,False,False,False,False,True,False,
+21-166573,False,False,False,False,False,False,autre
+21-166575,False,False,True,False,False,False,
+21-166577,False,False,False,True,False,False,
+21-166580,False,False,False,False,True,False,
+21-166592,False,False,True,False,False,False,
+21-166593,False,False,True,False,False,False,
+21-166595,False,False,True,False,False,False,
+21-166598,False,False,False,False,True,False,
+21-166601,False,False,True,False,False,False,
+21-166606,True,False,False,False,False,False,
+21-166607,False,False,True,False,False,False,
+21-166609,False,False,False,False,True,False,
+21-166610,False,False,True,False,False,False,
+21-166611,False,False,True,False,False,False,
+21-166613,False,False,False,False,False,False,SEM
+21-166614,False,False,True,False,False,False,
+21-166616,False,False,False,False,True,False,
+21-166618,False,False,False,False,False,False,Etablissement public de santé
+21-166619,False,False,False,False,True,False,
+21-166621,False,False,False,True,False,False,
+21-166625,False,False,True,False,False,False,
+21-166626,True,False,False,False,False,False,
+21-166627,False,False,True,False,False,False,
+21-166629,False,False,False,False,False,False,autre
+21-166631,False,False,False,False,False,False,autre
+21-166632,False,False,False,False,False,False,autre
+21-166634,False,False,True,False,False,False,
+21-166635,False,False,False,True,False,False,
+21-166639,False,False,False,False,True,False,
+21-166644,False,False,False,False,True,False,
+21-166645,False,False,False,False,True,False,
+21-166646,False,False,True,False,False,False,
+21-166649,False,False,False,False,True,False,
+21-166650,False,False,True,False,False,False,
+21-166651,False,False,False,False,True,False,
+21-166655,False,False,False,False,False,False,Organisme HLM
+21-166657,False,False,False,False,False,False,autre
+21-166658,False,False,False,False,True,False,
+21-166660,False,False,True,False,False,False,
+21-166663,False,False,False,False,True,False,
+21-166664,False,False,False,False,False,False,"Gestionnaire de sites, aménageur, constructeur"
+21-166665,False,False,False,False,True,False,
+21-166666,False,False,False,False,False,False,Organisme gestionnaire de l'Assurance chômage (association 1901)
+21-166669,False,False,False,False,True,False,
+21-166671,False,False,False,False,False,False,"Gestionnaire de sites, aménageur, constructeur"
+21-166672,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+21-166674,False,True,False,False,False,False,
+21-166676,False,False,True,False,False,False,
+21-166681,False,False,False,False,False,False,autre
+21-166683,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+21-166686,False,False,False,False,True,False,
+21-166687,False,False,False,False,True,False,
+21-166694,False,False,False,False,True,False,
+21-166702,False,False,True,False,False,False,
+21-166730,False,False,False,False,False,False,Collectivité territoriale
+21-166739,True,False,False,False,False,False,
+21-166742,False,False,False,False,True,False,
+21-166743,False,False,True,False,False,False,
+21-166744,False,False,False,False,False,False,Etablissement public
+21-166746,False,False,False,False,True,False,
+21-166748,False,False,True,False,False,False,
+21-166749,False,False,True,False,False,False,
+21-166750,False,False,False,False,False,False,Logement social
+21-166751,False,False,False,False,False,False,Etablissement Public Local à caractère administratif
+21-166756,True,False,False,False,False,False,
+21-166759,False,False,True,False,False,False,
+21-166762,False,False,False,False,True,False,
+21-166768,False,False,True,False,False,False,
+21-166772,False,False,False,False,True,False,
+21-166775,False,False,True,False,False,False,
+21-166777,False,False,True,False,False,False,
+21-166778,False,False,True,False,False,False,
+21-166780,False,False,False,False,True,False,
+21-166784,False,False,True,False,False,False,
+21-166786,False,False,False,False,False,False,EPCI
+21-166787,False,False,False,False,False,False,Société par actions simplifiée
+21-166790,False,False,True,False,False,False,
+21-166792,True,False,False,False,False,False,
+21-166794,False,False,True,False,False,False,
+21-166796,False,False,False,False,True,False,
+21-166804,False,False,True,False,False,False,
+21-166810,False,False,True,False,False,False,
+21-166812,False,False,True,False,False,False,
+21-166813,True,False,False,False,False,False,
+21-166814,True,False,False,False,False,False,
+21-166815,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+21-166819,False,False,True,False,False,False,
+21-166820,False,False,False,False,False,False,Établissement public de coopération intercommunale
+21-166821,True,False,False,False,False,False,
+21-166823,False,False,False,False,False,False,EPCI
+21-166825,False,False,True,False,False,False,
+21-166829,False,False,True,False,False,False,
+21-166830,False,False,False,False,True,False,
+21-166833,False,False,True,False,False,False,
+21-166835,False,False,False,False,False,False,autre
+21-166837,False,False,False,False,True,False,
+21-166841,False,False,False,False,True,False,
+21-166842,False,False,False,False,True,False,
+21-166849,False,False,True,False,False,False,
+21-166850,False,False,False,False,True,False,
+21-166852,False,False,False,False,False,False,EPCI ETABLISSEMENT PUBLIC DE COOPERATION INTERCOMMUNALE
+21-166853,False,False,False,False,False,False,GIE informatique
+21-166856,False,False,True,False,False,False,
+21-166857,False,False,True,False,False,False,
+21-166861,False,False,True,False,False,False,
+21-166868,False,False,True,False,False,False,
+21-166871,True,False,False,False,False,False,
+21-166872,False,False,False,False,True,False,
+21-166873,True,False,False,False,False,False,
+21-166876,False,False,False,False,True,False,
+21-166878,False,False,True,False,False,False,
+21-166880,False,False,True,False,False,False,
+21-166883,False,False,False,False,False,False,SEM d'aménagement et de construction
+21-166884,False,False,True,False,False,False,
+21-166885,False,False,True,False,False,False,
+21-166886,False,False,False,False,True,False,
+21-166888,False,False,False,False,True,False,
+21-166889,False,False,False,False,True,False,
+21-166890,False,False,True,False,False,False,
+21-166892,True,False,False,False,False,False,
+21-166900,False,False,True,False,False,False,
+21-166903,True,False,False,False,False,False,
+21-166905,False,False,False,False,True,False,
+21-166909,False,False,True,False,False,False,
+21-166911,False,False,True,False,False,False,
+21-166914,True,False,False,False,False,False,
+21-166925,False,False,False,False,False,False,Etablissement public de santé
+21-166927,False,False,True,False,False,False,
+21-166928,False,False,False,False,False,False,Caisse de retraite
+21-166929,False,False,False,False,False,False,EPA
+21-166934,False,False,False,False,True,False,
+21-166941,True,False,False,False,False,False,
+21-166943,False,False,False,False,False,False,Organisme de Protection sociale
+21-166944,False,False,False,False,False,False,EPCI ETABLISSEMENT PUBLIC DE COOPERATION INTERCOMMUNALE
+21-166945,False,False,False,False,True,False,
+21-166948,False,False,False,False,True,False,
+21-166949,False,False,False,False,True,False,
+21-166954,False,False,True,False,False,False,
+21-166957,False,False,True,False,False,False,
+21-166963,False,False,False,False,True,False,
+21-166965,False,False,False,False,True,False,
+21-166970,False,False,False,False,True,False,
+21-166972,False,False,False,False,True,False,
+21-166977,False,False,True,False,False,False,
+21-166978,False,False,True,False,False,False,
+21-166979,False,False,True,False,False,False,
+21-166980,False,False,False,False,True,False,
+21-166982,False,False,True,False,False,False,
+21-166987,False,False,True,False,False,False,
+21-166989,False,False,False,False,False,False,Interprofession
+21-166990,False,False,True,False,False,False,
+21-166992,True,False,False,False,False,False,
+21-166996,False,False,True,False,False,False,
+21-166997,False,False,False,False,False,False,Caisse retraite du Régime Général
+21-166999,False,False,True,False,False,False,
+21-167001,False,False,False,False,True,False,
+21-167005,False,False,False,False,True,False,
+21-167012,False,False,True,False,False,False,
+21-167013,False,False,True,False,False,False,
+21-167017,False,False,True,False,False,False,
+21-167019,False,False,True,False,False,False,
+21-167022,False,False,True,False,False,False,
+21-167027,False,False,True,False,False,False,
+21-167029,False,False,True,False,False,False,
+21-167030,False,False,False,False,False,False,Caisse de retraite
+21-167034,False,False,False,False,False,False,Etablissement public
+21-167036,False,False,False,False,True,False,
+21-167037,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+21-167038,False,False,False,False,False,False,Etablissement de santé
+21-167039,False,False,False,False,False,False,Collectivité territoriale - syndicat mixte
+21-167040,True,False,False,False,False,False,
+21-167041,False,False,False,False,True,False,
+21-167043,True,False,False,False,False,False,
+21-167044,False,False,False,False,False,False,Centre Hospitalier
+21-167045,False,False,True,False,False,False,
+21-167048,True,False,False,False,False,False,
+21-167051,False,False,False,False,False,False,Etablissement Public de Santé
+21-167057,False,False,False,False,True,False,
+21-167061,False,False,True,False,False,False,
+21-167062,False,False,False,False,True,False,
+21-167063,False,False,False,False,False,False,EPIC
+21-167070,False,False,False,False,True,False,
+21-167075,False,False,False,False,True,False,
+21-167081,False,False,False,False,False,False,Etablissement public
+21-167082,False,False,True,False,False,False,
+21-167086,False,False,False,False,True,False,
+21-167087,False,False,True,False,False,False,
+21-167092,False,False,False,False,False,False,Organisme de droit privé
+21-167097,False,False,False,False,False,False,CCI
+21-167100,False,False,False,False,False,False,Commune
+21-167101,False,False,True,False,False,False,
+21-167104,False,False,False,False,True,False,
+21-167107,False,False,True,False,False,False,
+21-167109,True,False,False,False,False,False,
+21-167111,False,False,False,False,False,False,Association de droit privamp;eacute; loi 1901
+21-167115,True,False,False,False,False,False,
+21-167117,False,False,True,False,False,False,
+21-167120,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+21-167121,False,False,False,False,True,False,
+21-167126,False,False,True,False,False,False,
+21-167132,False,False,True,False,False,False,
+21-167136,False,False,False,False,False,False,CCAS
+21-167137,False,False,False,False,False,False,SYNDICAT MIXTE
+21-167139,False,False,True,False,False,False,
+21-167141,False,False,False,False,False,False,Education
+21-167142,False,False,False,False,False,False,Etablissement public national
+21-167143,False,False,True,False,False,False,
+21-167145,False,False,False,False,False,False,"Loisirs, culture et religion."
+21-167148,False,False,True,False,False,False,
+21-167149,False,False,False,False,True,False,
+21-167150,False,False,True,False,False,False,
+21-167154,True,False,False,False,False,False,
+21-167157,False,False,False,False,True,False,
+21-167159,False,False,True,False,False,False,
+21-167160,False,False,False,False,False,False,Enseignement supérieur et recherche
+21-167163,False,False,False,False,True,False,
+21-167165,False,False,False,False,False,False,Organisme privé de Sécurité Sociale
+21-167166,False,False,False,False,True,False,
+21-167169,False,False,True,False,False,False,
+21-167172,False,False,False,False,False,False,Etablissement public de santé
+21-167176,False,False,False,False,False,False,autre
+21-167177,False,False,True,False,False,False,
+21-167178,False,False,True,False,False,False,
+21-167180,False,False,False,False,True,False,
+21-167182,False,False,False,False,True,False,
+21-167183,False,False,False,True,False,False,
+21-167186,False,False,True,False,False,False,
+21-167187,False,False,True,False,False,False,
+21-167189,False,False,True,False,False,False,
+21-167190,False,False,True,False,False,False,
+21-167192,False,False,True,False,False,False,
+21-167193,False,False,True,False,False,False,
+21-167194,False,False,False,False,False,False,autre
+21-167198,False,False,False,False,True,False,
+21-167199,False,False,True,False,False,False,
+21-167201,False,False,False,False,True,False,
+21-167204,False,False,False,False,True,False,
+21-167205,False,False,True,False,False,False,
+21-167206,False,False,False,False,True,False,
+21-167207,False,False,False,False,True,False,
+21-167208,False,False,True,False,False,False,
+21-167212,False,False,True,False,False,False,
+21-167213,False,False,False,True,False,False,
+21-167223,False,False,False,False,True,False,
+21-167225,False,False,False,False,False,False,Collectivité locale
+21-167226,False,False,False,True,False,False,
+21-167231,False,False,True,False,False,False,
+21-167233,True,False,False,False,False,False,
+21-167237,False,False,False,False,False,False,Aménagement et Foncier
+21-167238,False,False,False,False,True,False,
+21-167239,False,False,False,False,True,False,
+21-167241,False,False,True,False,False,False,
+21-167243,False,False,False,False,False,False,Etablissement public local
+21-167244,False,False,False,False,False,False,Association Opéra Orchestre national de Montpellier
+21-167245,False,False,False,False,False,False,Etablissement public
+21-167246,False,False,True,False,False,False,
+21-167247,False,False,True,False,False,False,
+21-167249,False,False,False,False,True,False,
+21-167250,False,False,True,False,False,False,
+21-167251,False,False,True,False,False,False,
+21-167252,False,False,True,False,False,False,
+21-167253,True,False,False,False,False,False,
+21-167254,False,False,True,False,False,False,
+21-167257,False,False,False,False,False,False,Opérateur de compétences
+21-167259,True,False,False,False,False,False,
+21-167261,False,False,True,False,False,False,
+21-167265,True,False,False,False,False,False,
+21-167270,False,False,False,False,False,False,Société Anonyme d'Economie Mixte
+21-167273,False,False,False,False,True,False,
+21-167278,False,False,True,False,False,False,
+21-167282,False,False,False,False,False,False,Aménageur Urbain
+21-167284,False,False,True,False,False,False,
+21-167285,False,False,False,False,True,False,
+21-167287,True,False,False,False,False,False,
+21-167288,False,False,False,False,False,False,Société Publique Locale (SPL)
+21-167289,False,False,True,False,False,False,
+21-167291,False,False,False,False,True,False,
+21-167292,False,False,True,False,False,False,
+21-167294,False,False,False,False,False,False,Opérateur de compétences
+21-167297,False,False,True,False,False,False,
+21-167298,False,False,True,False,False,False,
+21-167299,True,False,False,False,False,False,
+21-167306,False,False,False,False,False,False,autre
+21-167308,False,False,False,False,True,False,
+21-167310,False,False,False,False,True,False,
+21-167321,False,False,True,False,False,False,
+21-167322,False,False,True,False,False,False,
+21-167324,False,False,False,True,False,False,
+21-167325,False,False,True,False,False,False,
+21-167328,False,False,False,False,False,False,Centrale d'Achats
+21-167330,False,False,False,False,True,False,
+21-167332,False,False,False,False,False,False,Opérateur de compétences
+21-167334,True,False,False,False,False,False,
+21-167335,False,False,False,False,False,False,Société d'Economie Mixte
+21-167337,False,False,False,False,True,False,
+21-167338,False,False,True,False,False,False,
+21-167339,True,False,False,False,False,False,
+21-167340,False,False,True,False,False,False,
+21-167342,False,False,True,False,False,False,
+21-167347,False,False,True,False,False,False,
+21-167349,False,False,True,False,False,False,
+21-167353,False,False,False,False,True,False,
+21-167355,False,False,False,False,False,False,Université
+21-167357,False,False,False,True,False,False,
+21-167358,False,False,True,False,False,False,
+21-167359,False,False,True,False,False,False,
+21-167360,False,True,False,False,False,False,
+21-167362,False,False,True,False,False,False,
+21-167363,True,False,False,False,False,False,
+21-167364,False,False,False,False,True,False,
+21-167365,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+21-167366,False,False,False,False,False,False,Santé
+21-167367,False,False,True,False,False,False,
+21-167368,False,False,False,True,False,False,
+21-167370,True,False,False,False,False,False,
+21-167372,True,False,False,False,False,False,
+21-167376,True,False,False,False,False,False,
+21-167377,False,False,False,False,True,False,
+21-167378,False,False,False,False,True,False,
+21-167380,False,False,True,False,False,False,
+21-167383,False,False,True,False,False,False,
+21-167384,False,False,False,False,True,False,
+21-167386,False,False,False,False,True,False,
+21-167392,False,False,False,False,True,False,
+21-167395,False,False,False,False,True,False,
+21-167398,False,False,True,False,False,False,
+21-167399,False,False,True,False,False,False,
+21-167401,False,False,True,False,False,False,
+21-167405,False,False,True,False,False,False,
+21-167407,False,False,True,False,False,False,
+21-167408,False,False,True,False,False,False,
+21-167409,False,False,False,False,True,False,
+21-167410,False,False,False,False,False,False,Mairie
+21-167412,False,False,True,False,False,False,
+21-167414,False,False,True,False,False,False,
+21-167416,True,False,False,False,False,False,
+21-167417,False,False,False,False,False,False,Bailleur Social
+21-167418,False,False,False,False,True,False,
+21-167419,False,False,True,False,False,False,
+21-167421,False,False,False,False,False,False,INSTITUT NATIONAL DE RECHERCHE ET DE SECURITE
+21-167423,False,False,True,False,False,False,
+21-167424,False,False,False,False,False,False,Collectivité locale
+21-167425,False,False,True,False,False,False,
+21-167427,False,False,True,False,False,False,
+21-167428,False,False,False,False,False,False,Santé
+21-167429,False,False,False,False,True,False,
+21-167430,False,False,True,False,False,False,
+21-167431,False,False,False,False,True,False,
+21-167432,False,False,False,False,True,False,
+21-167436,False,False,False,False,True,False,
+21-167440,False,False,True,False,False,False,
+21-167443,False,False,False,False,False,False,EPCI
+21-167444,False,False,False,False,True,False,
+21-167445,False,False,False,False,True,False,
+21-167448,False,False,True,False,False,False,
+21-167454,False,False,False,False,True,False,
+21-167458,False,False,False,False,False,False,hopital
+21-167461,False,False,False,False,False,False,hopital
+21-167463,False,False,False,False,False,False,Centre Hospitalier
+21-167468,False,False,False,False,True,False,
+21-167471,False,False,False,False,True,False,
+21-167474,False,False,False,False,False,False,EPCI
+21-167477,False,False,False,False,False,False,Etablissement public de santé
+21-167479,False,False,False,False,False,False,Organisme de droit public
+21-167480,True,False,False,False,False,False,
+21-167481,False,False,True,False,False,False,
+21-167482,False,False,False,False,False,False,organisme de Sécurité sociale
+21-167484,False,False,True,False,False,False,
+21-167495,False,False,True,False,False,False,
+21-167496,False,False,True,False,False,False,
+21-167497,False,False,True,False,False,False,
+21-167498,False,False,True,False,False,False,
+21-167499,False,False,False,False,False,False,Commune
+21-167500,False,False,False,False,False,False,EPCI
+21-167502,False,False,True,False,False,False,
+21-167504,False,False,True,False,False,False,
+21-167505,False,False,False,False,True,False,
+21-167512,True,False,False,False,False,False,
+21-167513,False,False,False,False,True,False,
+21-167515,False,False,True,False,False,False,
+21-167521,False,False,False,False,False,False,Interprofession du secteur viticole
+21-167522,True,False,False,False,False,False,
+21-167524,False,False,False,False,False,False,Etablissement public de santé
+21-167526,False,False,False,False,False,False,Organisme de droit privé chargé d'une mission de service public
+21-167527,False,False,False,True,False,False,
+21-167530,False,False,False,False,False,False,EPCI
+21-167531,False,False,True,False,False,False,
+21-167532,True,False,False,False,False,False,
+21-167533,False,False,False,False,False,False,Exploitant de locaux.
+21-167534,False,False,True,False,False,False,
+21-167538,False,False,True,False,False,False,
+21-167540,False,False,False,False,False,False,Régie autonome
+21-167541,False,False,False,False,False,False,Exploitant de locaux.
+21-167552,False,False,True,False,False,False,
+21-167553,False,False,False,False,False,False,autre
+21-167555,False,False,False,False,True,False,
+21-167556,False,False,False,False,True,False,
+21-167560,False,False,True,False,False,False,
+21-167562,False,False,True,False,False,False,
+21-167563,False,False,False,True,False,False,
+21-167572,False,False,False,False,False,False,EPCI
+21-167574,False,False,True,False,False,False,
+21-167576,False,False,True,False,False,False,
+21-167577,False,False,True,False,False,False,
+21-167578,False,False,True,False,False,False,
+21-167583,False,False,False,False,True,False,
+21-167586,False,False,False,False,True,False,
+21-167590,False,False,True,False,False,False,
+21-167592,True,False,False,False,False,False,
+21-167594,False,False,False,False,True,False,
+21-167596,False,False,True,False,False,False,
+21-167599,False,False,False,False,True,False,
+21-167601,False,False,False,False,True,False,
+21-167602,False,False,True,False,False,False,
+21-167604,False,False,False,False,False,False,SANTE
+21-167609,False,False,False,False,True,False,
+21-167611,False,False,False,False,True,False,
+21-167612,False,False,True,False,False,False,
+21-167614,False,False,False,False,True,False,
+21-167615,False,False,False,False,True,False,
+21-167616,False,False,True,False,False,False,
+21-167619,False,False,False,False,False,False,"Maîtrise d'oeuvre, opérateur de solutions et dispositif essentiel du déploiement des services de l'Assurance Maladie via les industriels fournisseurs de solutions aux professionnels de santé."
+21-167621,False,False,True,False,False,False,
+21-167623,False,False,True,False,False,False,
+21-167628,False,False,True,False,False,False,
+21-167629,True,False,False,False,False,False,
+21-167630,False,False,False,False,True,False,
+21-167632,True,False,False,False,False,False,
+21-167635,True,False,False,False,False,False,
+21-167638,False,False,True,False,False,False,
+21-167639,False,False,True,False,False,False,
+21-167642,False,False,True,False,False,False,
+21-167643,False,False,False,False,True,False,
+21-167644,False,False,True,False,False,False,
+21-167645,False,False,False,False,True,False,
+21-167647,False,False,False,False,False,False,Groupement d'intérêt public
+21-167649,False,False,False,False,False,False,Collectivité territoriale
+21-167656,False,False,False,False,False,False,Etablissement de santé
+21-167660,False,False,False,False,True,False,
+21-167663,False,False,True,False,False,False,
+21-167665,False,False,True,False,False,False,
+21-167675,False,False,True,False,False,False,
+21-167676,False,False,True,False,False,False,
+21-167677,False,False,True,False,False,False,
+21-167680,False,False,False,False,False,False,autre
+21-167684,False,False,True,False,False,False,
+21-167686,False,False,False,False,False,False,autre
+21-167690,False,False,False,False,False,False,EPIC
+21-167692,False,False,False,False,True,False,
+21-167694,False,False,False,False,False,False,Etablissement publics de santé
+21-167695,False,False,False,False,False,False,Syndicat mixte
+21-167696,False,False,False,False,False,False,Etablissement Public national
+21-167697,False,False,False,False,True,False,
+21-167698,False,False,True,False,False,False,
+21-167700,True,False,False,False,False,False,
+21-167702,False,False,False,False,False,False,Etablissement de santé
+21-167703,False,False,True,False,False,False,
+21-167705,False,False,False,False,False,False,Établissement public de coopération intercommunale
+21-167706,False,False,True,False,False,False,
+21-167707,False,False,False,False,False,False,Etablissement publics de santé
+21-167708,False,False,False,False,True,False,
+21-167713,False,False,False,False,False,False,Société Anonyme d'Economie Mixte et Locale
+21-167715,False,False,False,False,False,False,Société d'Aménagement
+21-167717,False,True,False,False,False,False,
+21-167719,False,True,False,False,False,False,
+21-167721,False,True,False,False,False,False,
+21-167727,False,True,False,False,False,False,
+21-167731,True,False,False,False,False,False,
+21-167733,False,False,True,False,False,False,
+21-167738,False,False,True,False,False,False,
+21-167740,False,False,False,False,True,False,
+21-167746,False,False,False,False,False,False,autre
+21-167748,False,False,True,False,False,False,
+21-167752,False,False,False,False,True,False,
+21-167761,False,False,True,False,False,False,
+21-167763,False,False,True,False,False,False,
+21-167765,False,False,True,False,False,False,
+21-167773,False,False,False,False,True,False,
+21-167774,False,False,True,False,False,False,
+21-167778,False,False,False,True,False,False,
+21-167779,False,False,True,False,False,False,
+21-167783,True,False,False,False,False,False,
+21-167784,False,False,False,False,True,False,
+21-167785,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+21-167787,False,False,False,False,True,False,
+21-167788,False,False,False,False,False,False,Établissement public de l'enseignement et de la recherche
+21-167789,False,False,False,False,True,False,
+21-167791,False,False,False,False,True,False,
+21-167793,False,False,False,False,False,False,EPIC (Etablissement public industriel et commercial) de l'Etat
+21-167795,False,False,False,False,False,False,Commune
+21-167796,False,False,True,False,False,False,
+21-167798,False,False,True,False,False,False,
+21-167800,True,False,False,False,False,False,
+21-167801,False,False,False,False,True,False,
+21-167802,True,False,False,False,False,False,
+21-167803,False,False,False,False,True,False,
+21-167807,False,False,False,False,True,False,
+21-167809,False,False,False,False,True,False,
+21-167810,False,False,False,False,True,False,
+21-167811,False,False,True,False,False,False,
+21-167812,False,False,False,False,True,False,
+21-167824,False,False,True,False,False,False,
+21-167829,False,False,True,False,False,False,
+21-167834,False,True,False,False,False,False,
+21-167838,False,False,True,False,False,False,
+21-167839,False,False,False,False,True,False,
+21-167841,True,False,False,False,False,False,
+21-167845,False,False,False,False,False,False,Etablissement public
+21-167849,False,False,False,False,False,False,Métropole
+21-167850,False,False,True,False,False,False,
+21-167854,False,False,False,False,True,False,
+21-167855,False,False,False,False,True,False,
+21-167856,False,False,True,False,False,False,
+21-167857,False,False,True,False,False,False,
+21-167861,False,False,False,False,True,False,
+21-167862,False,False,True,False,False,False,
+21-167866,False,False,False,False,True,False,
+21-167867,False,False,True,False,False,False,
+21-167868,False,False,False,False,False,False,Activités de recherche
+21-167869,False,False,False,False,True,False,
+21-167870,False,False,False,False,True,False,
+21-167872,False,False,True,False,False,False,
+21-167877,False,False,True,False,False,False,
+21-167879,False,False,False,False,False,False,autre
+21-167881,False,False,False,True,False,False,
+21-167891,False,False,False,False,True,False,
+21-167892,False,False,True,False,False,False,
+21-167893,False,False,True,False,False,False,
+21-167894,False,False,False,False,False,False,autre
+21-167895,True,False,False,False,False,False,
+21-167896,False,False,True,False,False,False,
+21-167897,False,False,True,False,False,False,
+21-167898,False,False,False,False,True,False,
+21-167900,False,False,True,False,False,False,
+21-167904,False,False,False,False,True,False,
+21-167906,False,False,False,False,True,False,
+21-167909,False,False,True,False,False,False,
+21-167910,False,False,False,False,True,False,
+21-167911,False,False,False,False,False,False,SAEM
+21-167916,False,False,True,False,False,False,
+21-167922,False,False,False,False,False,False,Organisme privé de Sécurité sociale en charge d'une mission de service public.
+21-167923,False,False,True,False,False,False,
+21-167924,False,False,True,False,False,False,
+21-167927,False,False,True,False,False,False,
+21-167931,False,False,False,False,True,False,
+21-167932,False,False,False,False,True,False,
+21-167933,False,False,True,False,False,False,
+21-167935,True,False,False,False,False,False,
+21-167936,False,False,True,False,False,False,
+21-167937,False,False,True,False,False,False,
+21-167938,False,False,False,False,True,False,
+21-167942,False,False,False,False,False,False,Groupement hospitalier de territoire
+21-167945,False,False,False,False,False,False,Métropole
+21-167948,False,False,False,False,False,False,Santé
+21-167955,False,False,False,False,False,False,Groupement de coopération sanitaire
+21-167957,False,False,False,False,True,False,
+21-167958,False,False,False,False,True,False,
+21-167961,False,False,False,False,True,False,
+21-167962,False,False,False,False,True,False,
+21-167963,False,False,False,False,True,False,
+21-167964,False,False,False,False,False,False,Santé
+21-167967,False,False,False,False,False,False,Etablissement public local
+21-167969,False,False,True,False,False,False,
+21-167970,False,False,False,False,True,False,
+21-167972,True,False,False,False,False,False,
+21-167973,False,False,True,False,False,False,
+21-167978,False,False,True,False,False,False,
+21-167979,False,False,True,False,False,False,
+21-167983,False,False,True,False,False,False,
+21-167994,False,False,True,False,False,False,
+21-167995,False,False,False,True,False,False,
+21-167998,False,False,True,False,False,False,
+21-167999,False,False,False,False,True,False,
+21-168001,False,False,False,True,False,False,
+21-168004,False,False,True,False,False,False,
+21-168006,False,False,False,False,True,False,
+21-168007,False,False,False,False,True,False,
+21-168016,False,False,False,False,True,False,
+21-168019,False,False,True,False,False,False,
+21-168020,True,False,False,False,False,False,
+21-168022,False,False,False,False,False,False,Etablissement de santé
+21-168026,False,False,False,False,True,False,
+21-168031,False,False,False,False,False,False,Etablissement public de santé
+21-168032,False,False,False,False,False,False,Etablissement de santé
+21-168039,False,False,False,False,True,False,
+21-168040,False,False,True,False,False,False,
+21-168041,True,False,False,False,False,False,
+21-168046,False,False,False,False,False,False,Aménagement et foncier
+21-168050,False,False,False,False,False,False,Établissement public de coopération intercommunale
+21-168051,False,False,True,False,False,False,
+21-168054,False,False,True,False,False,False,
+21-168058,False,False,False,False,True,False,
+21-168061,False,False,False,False,True,False,
+21-168063,False,False,True,False,False,False,
+21-168067,False,False,True,False,False,False,
+21-168068,False,False,False,False,True,False,
+21-168071,False,False,False,False,True,False,
+21-168073,False,False,False,False,False,False,autre
+21-168079,False,False,True,False,False,False,
+21-168080,False,False,False,False,False,False,COMMUNAUTE D'AGGLOMERATION
+21-168081,False,False,True,False,False,False,
+21-168083,False,False,True,False,False,False,
+21-168084,False,False,True,False,False,False,
+21-168086,False,False,False,False,False,False,autre
+21-168087,False,False,False,False,True,False,
+21-168088,False,False,True,False,False,False,
+21-168089,False,False,True,False,False,False,
+21-168091,False,False,False,False,True,False,
+21-168095,False,False,False,False,False,False,EPCI
+21-168097,False,False,True,False,False,False,
+21-168098,False,False,False,False,False,False,Logement social
+21-168100,False,False,True,False,False,False,
+21-168103,False,False,False,False,True,False,
+21-168104,False,False,False,False,True,False,
+21-168106,True,False,False,False,False,False,
+21-168109,True,False,False,False,False,False,
+21-168112,False,False,False,False,True,False,
+21-168113,False,False,False,False,False,False,Logement social
+21-168114,False,False,True,False,False,False,
+21-168116,False,False,False,False,True,False,
+21-168117,True,False,False,False,False,False,
+21-168118,False,False,True,False,False,False,
+21-168120,True,False,False,False,False,False,
+21-168122,False,False,False,False,False,False,SDIS de l'Aveyron
+21-168125,False,False,False,False,True,False,
+21-168126,False,False,False,False,True,False,
+21-168132,False,False,True,False,False,False,
+21-168133,False,False,False,False,False,False,transports en commun
+21-168134,False,False,True,False,False,False,
+21-168135,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+21-168136,False,False,False,False,True,False,
+21-168140,False,False,False,False,False,False,autre
+21-168145,False,False,False,False,True,False,
+21-168146,False,False,True,False,False,False,
+21-168147,False,False,False,False,False,False,Syndicat de transports
+21-168148,False,False,True,False,False,False,
+21-168151,False,False,True,False,False,False,
+21-168153,False,False,True,False,False,False,
+21-168154,False,False,False,False,False,False,autre
+21-168157,True,False,False,False,False,False,
+21-168158,False,False,True,False,False,False,
+21-168159,False,False,False,False,True,False,
+21-168160,False,False,False,False,False,False,Organisme consulaire
+21-168161,False,False,True,False,False,False,
+21-168162,False,False,False,False,False,False,Syndicat mixte
+21-168164,True,False,False,False,False,False,
+21-168165,False,False,False,False,True,False,
+21-168166,False,False,False,False,True,False,
+21-168168,False,False,True,False,False,False,
+21-168169,False,False,False,False,False,False,Organisation consulaire
+21-168171,False,False,True,False,False,False,
+21-168172,False,False,False,False,True,False,
+21-168173,False,False,False,False,False,False,EPIC
+21-168175,False,False,False,False,False,False,EPIC
+21-168177,True,False,False,False,False,False,
+21-168178,False,False,False,False,False,False,Société anonyme au capital intégralement détenu par l'Etat.
+21-168180,True,False,False,False,False,False,
+21-168183,False,False,False,False,True,False,
+21-168184,False,False,True,False,False,False,
+21-168189,False,False,False,True,False,False,
+21-168193,False,False,False,False,True,False,
+21-168196,False,False,False,False,True,False,
+21-168201,False,False,False,False,False,False,autre
+21-168202,False,False,False,False,True,False,
+21-168204,False,False,False,False,True,False,
+21-168207,False,False,True,False,False,False,
+21-168210,False,False,False,False,True,False,
+21-168211,False,False,False,False,True,False,
+21-168214,False,False,False,False,False,False,Organisme de sécurité sociale
+21-168215,True,False,False,False,False,False,
+21-168217,False,False,False,False,False,False,Société Publique Locale - Personne morale de droit privé
+21-168218,False,False,False,False,False,False,Société anonyme au capital intégralement détenu par l'Etat.
+21-168221,False,False,False,False,False,False,Société Publique Locale - Personne morale de droit privé
+21-168222,False,False,False,False,False,False,Etablissement public
+21-168227,False,False,False,False,False,False,Protection sociale
+21-168228,False,False,False,False,True,False,
+21-168229,False,False,True,False,False,False,
+21-168232,False,False,True,False,False,False,
+21-168234,False,False,True,False,False,False,
+21-168240,False,False,True,False,False,False,
+21-168246,False,False,True,False,False,False,
+21-168247,False,False,False,False,False,False,Etablissement public
+21-168254,False,False,True,False,False,False,
+21-168255,False,False,True,False,False,False,
+21-168256,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+21-168261,False,False,True,False,False,False,
+21-168263,False,False,True,False,False,False,
+21-168265,True,False,False,False,False,False,
+21-168267,False,False,False,True,False,False,
+21-168270,True,False,False,False,False,False,
+21-168272,False,False,True,False,False,False,
+21-168273,True,False,False,False,False,False,
+21-168274,False,False,False,False,False,False,CENTRE HOSPITALIER DE PERPIGNAN
+21-168275,True,False,False,False,False,False,
+21-168278,False,False,False,False,False,False,EPCI
+21-168279,False,False,True,False,False,False,
+21-168282,False,False,False,False,False,False,EPCI
+21-168284,True,False,False,False,False,False,
+21-168285,False,False,False,False,False,False,Etablissement de santé
+21-168287,False,False,True,False,False,False,
+21-168288,False,False,False,False,False,False,EPCI
+21-168289,False,False,False,False,True,False,
+21-168290,False,False,True,False,False,False,
+21-168291,False,False,False,False,True,False,
+21-168293,False,False,False,False,True,False,
+21-168294,False,False,True,False,False,False,
+21-168298,False,False,False,False,True,False,
+21-168305,False,False,False,False,True,False,
+21-168307,False,False,False,False,True,False,
+21-168308,False,False,False,False,False,False,Etablissement public culturel
+21-168309,False,False,False,False,False,False,Centre Hospitalier
+21-168310,False,False,True,False,False,False,
+21-168311,False,False,False,False,False,False,CENTRE HOSPITALIER DE PERPIGNAN
+21-168314,False,False,False,False,False,False,Collectivité territoriale
+21-168317,False,False,True,False,False,False,
+21-168319,False,False,True,False,False,False,
+21-168320,False,False,True,False,False,False,
+21-168322,False,False,True,False,False,False,
+21-168324,False,False,False,False,True,False,
+21-168325,False,False,True,False,False,False,
+21-168326,False,False,False,False,False,False,Syndicat mixte
+21-168329,False,False,False,False,False,False,Etablissement public de santé
+21-168330,True,False,False,False,False,False,
+21-168331,False,False,False,False,False,False,Etablissement public de santé
+21-168334,True,False,False,False,False,False,
+21-168336,False,False,True,False,False,False,
+21-168338,False,False,False,False,False,False,Environnement sante recherche
+21-168339,False,False,False,False,False,False,Electricité et éclairage public
+21-168345,False,False,False,False,True,False,
+21-168350,False,False,False,False,True,False,
+21-168359,False,False,False,False,True,False,
+21-168360,False,False,True,False,False,False,
+21-168363,False,False,False,False,False,False,Etablissement public de santé
+21-168365,True,False,False,False,False,False,
+21-168366,False,False,True,False,False,False,
+21-168373,False,False,True,False,False,False,
+21-168374,False,False,True,False,False,False,
+21-168376,False,False,False,False,True,False,
+21-168382,False,False,False,False,False,False,Sénat
+21-168383,False,False,True,False,False,False,
+21-168384,False,False,False,False,True,False,
+21-168385,False,False,True,False,False,False,
+21-168386,True,False,False,False,False,False,
+21-168388,False,False,False,False,False,False,Gestion des prestations familiales et de l'action sociale
+21-168390,False,False,False,False,False,False,établissement public de santé
+21-168392,False,False,False,False,False,False,EPCI
+21-168401,False,False,True,False,False,False,
+21-168406,False,False,False,False,True,False,
+21-168407,False,False,True,False,False,False,
+21-168409,False,False,False,False,True,False,
+21-168413,False,False,False,False,True,False,
+21-168414,False,True,False,False,False,False,
+21-168416,False,False,True,False,False,False,
+21-168418,True,False,False,False,False,False,
+21-168419,False,False,True,False,False,False,
+21-168421,False,False,True,False,False,False,
+21-168424,False,False,False,False,True,False,
+21-168429,False,False,False,False,False,False,autre
+21-168430,False,False,True,False,False,False,
+21-168432,False,False,True,False,False,False,
+21-168433,False,False,True,False,False,False,
+21-168434,False,False,False,False,False,False,Oeuvres universitaires et scolaires
+21-168437,False,False,True,False,False,False,
+21-168438,False,False,True,False,False,False,
+21-168439,False,False,False,False,False,False,autre
+21-168441,False,False,False,False,True,False,
+21-168444,False,False,False,False,True,False,
+21-168446,False,False,False,False,True,False,
+21-168447,False,False,False,False,True,False,
+21-168448,False,False,True,False,False,False,
+21-168449,False,False,False,False,True,False,
+21-168452,False,False,False,False,True,False,
+21-168453,False,False,False,False,False,False,Société Anonyme Publique Locale
+21-168454,False,False,True,False,False,False,
+21-168456,False,False,False,True,False,False,
+21-168457,False,False,False,True,False,False,
+21-168458,False,False,True,False,False,False,
+21-168460,False,False,False,False,True,False,
+21-168463,False,False,False,False,True,False,
+21-168464,False,False,True,False,False,False,
+21-168465,True,False,False,False,False,False,
+21-168468,False,False,True,False,False,False,
+21-168470,False,False,False,False,True,False,
+21-168472,False,False,True,False,False,False,
+21-168474,False,False,True,False,False,False,
+21-168477,False,False,True,False,False,False,
+21-168478,False,False,True,False,False,False,
+21-168479,False,False,False,False,False,False,Société Anonyme Publique Locale
+21-168480,False,False,False,False,False,False,Collectivité territoriale
+21-168483,False,False,True,False,False,False,
+21-168484,False,False,True,False,False,False,
+21-168485,False,False,False,False,True,False,
+21-168486,False,False,True,False,False,False,
+21-168488,False,False,False,False,True,False,
+21-168491,False,False,False,False,False,False,autre
+21-168492,False,False,False,False,True,False,
+21-168493,False,False,True,False,False,False,
+21-168494,False,False,False,False,True,False,
+21-168495,False,False,False,False,True,False,
+21-168496,False,False,False,False,True,False,
+21-168497,False,False,True,False,False,False,
+21-168498,False,False,True,False,False,False,
+21-168500,False,False,False,False,False,False,autre
+21-168508,False,False,False,False,False,False,SOCIETE PUBLIQUE LOCALE
+21-168509,False,False,False,False,False,False,Aménagement urbain
+21-168510,False,False,True,False,False,False,
+21-168511,False,False,False,False,True,False,
+21-168516,False,False,False,False,True,False,
+21-168517,False,False,False,False,False,False,Protection sociale
+21-168523,False,False,False,False,True,False,
+21-168525,False,False,False,False,True,False,
+21-168526,False,False,False,False,True,False,
+21-168528,False,False,False,False,True,False,
+21-168529,False,False,False,False,True,False,
+21-168531,False,False,True,False,False,False,
+21-168537,True,False,False,False,False,False,
+21-168539,False,False,False,False,False,False,Commune
+21-168540,False,False,False,False,False,False,Organisme de sécurité sociale
+21-168541,False,False,False,False,False,False,Organisme de Sécurité Sociale - Caisse d'Allocations Familiales du Calvados
+21-168545,False,False,True,False,False,False,
+21-168548,False,False,False,False,False,False,EPIC
+21-168550,False,False,False,False,False,False,Etablissement public de santé
+21-168554,False,False,True,False,False,False,
+21-168556,True,False,False,False,False,False,
+21-168566,False,False,True,False,False,False,
+21-168569,False,False,False,False,True,False,
+21-168570,False,False,True,False,False,False,
+21-168572,False,False,False,False,False,False,autre
+21-168573,False,False,False,False,False,False,autre
+21-168574,False,False,True,False,False,False,
+21-168575,False,False,False,False,True,False,
+21-168576,False,False,False,False,True,False,
+21-168578,False,False,True,False,False,False,
+21-168583,False,False,True,False,False,False,
+21-168584,False,False,True,False,False,False,
+21-168585,True,False,False,False,False,False,
+21-168591,False,False,False,False,False,False,Centrale d'Achats Publics
+21-168592,False,False,False,False,False,False,"Établissements publics à caractère scientifique, culturel et professionnel, d'enseignement supérieur et de recherche"
+21-168593,False,False,True,False,False,False,
+21-168594,False,False,False,False,True,False,
+21-168595,False,False,False,False,False,False,Etablissement public national
+21-168597,False,True,False,False,False,False,
+21-168598,False,False,True,False,False,False,
+21-168600,True,False,False,False,False,False,
+21-168605,False,False,False,False,True,False,
+21-168608,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+21-168609,False,False,True,False,False,False,
+21-168611,False,False,False,False,True,False,
+21-168619,False,False,False,False,True,False,
+21-168620,False,False,False,False,True,False,
+21-168622,False,False,True,False,False,False,
+21-168627,False,False,False,False,True,False,
+21-168629,True,False,False,False,False,False,
+21-168631,False,False,False,False,False,False,Opérateur de compétences - Financement de la formation
+21-168632,False,False,True,False,False,False,
+21-168634,True,False,False,False,False,False,
+21-168639,False,False,False,False,False,False,Santé
+21-168643,False,False,False,False,False,False,Institution Consulaire
+21-168646,False,False,True,False,False,False,
+21-168651,False,False,True,False,False,False,
+21-168653,False,False,False,False,False,False,Protection sociale
+21-168654,False,False,True,False,False,False,
+21-168656,False,False,False,False,False,False,Etablissement de santé
+21-168658,False,False,True,False,False,False,
+21-168661,False,False,True,False,False,False,
+21-168669,False,False,False,False,False,False,autre
+21-168672,False,False,True,False,False,False,
+21-168673,False,False,True,False,False,False,
+21-168687,False,False,True,False,False,False,
+21-168688,False,False,False,True,False,False,
+21-168692,False,False,True,False,False,False,
+21-168694,False,False,True,False,False,False,
+21-168695,False,False,True,False,False,False,
+21-168699,False,False,True,False,False,False,
+21-168700,False,False,True,False,False,False,
+21-168704,False,False,True,False,False,False,
+21-168707,False,False,False,False,False,False,Société d'Aménagement
+21-168708,False,False,True,False,False,False,
+21-168709,False,False,True,False,False,False,
+21-168712,True,False,False,False,False,False,
+21-168713,False,False,True,False,False,False,
+21-168715,False,False,False,False,True,False,
+21-168718,False,False,False,False,True,False,
+21-168719,False,False,False,False,True,False,
+21-168721,True,False,False,False,False,False,
+21-168722,False,False,False,False,True,False,
+21-168726,False,False,False,False,True,False,
+21-168731,True,False,False,False,False,False,
+21-168735,False,False,True,False,False,False,
+21-168746,False,False,False,False,True,False,
+21-168748,False,False,False,False,False,False,Santé
+21-168749,False,False,False,False,False,False,EPIC
+21-168750,False,False,False,False,False,False,Association loi 1901
+21-168752,False,False,False,False,False,False,Etablissement Public Territorial
+21-168756,False,False,True,False,False,False,
+21-168757,False,False,True,False,False,False,
+21-168758,False,False,True,False,False,False,
+21-168760,False,False,False,False,True,False,
+21-168770,False,False,True,False,False,False,
+21-168771,False,False,True,False,False,False,
+21-168772,False,False,True,False,False,False,
+21-168774,False,False,True,False,False,False,
+21-168775,False,False,True,False,False,False,
+21-168777,False,False,True,False,False,False,
+21-168778,False,False,True,False,False,False,
+21-168779,False,False,False,False,True,False,
+21-168780,False,False,False,False,True,False,
+21-168782,True,False,False,False,False,False,
+21-168790,False,False,False,False,True,False,
+21-168794,False,False,False,False,False,False,Commune
+21-168797,False,False,True,False,False,False,
+21-168798,True,False,False,False,False,False,
+21-168800,False,False,False,False,True,False,
+21-168803,False,False,False,False,True,False,
+21-168806,False,False,False,False,True,False,
+21-168809,False,False,False,False,False,False,Etablissement public de santé
+21-168812,False,False,False,False,False,False,Organisme de Protection Sociale
+21-168815,False,False,True,False,False,False,
+21-168817,False,False,True,False,False,False,
+21-168819,False,False,True,False,False,False,
+21-168821,False,False,True,False,False,False,
+21-168822,True,False,False,False,False,False,
+21-168823,False,False,True,False,False,False,
+21-168824,False,False,False,False,True,False,
+21-168831,False,False,False,False,True,False,
+21-168832,False,False,False,False,True,False,
+21-168833,False,False,False,False,True,False,
+21-168834,False,False,False,False,True,False,
+21-168835,False,False,True,False,False,False,
+21-168837,False,False,False,False,True,False,
+21-168842,False,False,True,False,False,False,
+21-168844,False,False,True,False,False,False,
+21-168847,False,False,False,False,True,False,
+21-168848,False,False,False,True,False,False,
+21-168853,False,False,True,False,False,False,
+21-168855,False,False,False,False,False,False,Institut National (association soumise au code de la commande publique)
+21-168856,True,False,False,False,False,False,
+21-168857,False,False,True,False,False,False,
+21-168860,False,False,True,False,False,False,
+21-168861,False,False,True,False,False,False,
+21-168862,False,False,True,False,False,False,
+21-168864,False,False,True,False,False,False,
+21-168865,False,False,False,False,False,False,Aéroportuaire
+21-168866,False,False,False,False,True,False,
+21-168867,True,False,False,False,False,False,
+21-168871,False,False,True,False,False,False,
+21-168872,False,False,False,False,True,False,
+21-168874,False,False,False,False,False,False,autre
+21-168876,False,False,True,False,False,False,
+21-168877,False,False,False,False,False,False,autre
+21-168883,False,False,False,False,False,False,Opérateur de compétences
+21-168885,False,False,False,False,True,False,
+21-168895,True,False,False,False,False,False,
+21-168899,False,False,True,False,False,False,
+21-168901,True,False,False,False,False,False,
+21-168904,False,False,False,False,True,False,
+21-168907,False,False,True,False,False,False,
+21-168908,True,False,False,False,False,False,
+21-168910,False,False,True,False,False,False,
+21-168919,False,False,True,False,False,False,
+21-168930,False,False,False,False,False,False,société publique locale
+21-168932,False,False,False,False,False,False,Assemblée parlementaire
+21-168934,False,False,False,False,True,False,
+21-168935,False,False,False,False,True,False,
+21-168936,False,False,False,False,True,False,
+21-168938,False,False,False,False,True,False,
+21-168939,False,False,True,False,False,False,
+21-168940,False,False,True,False,False,False,
+21-168944,False,False,True,False,False,False,
+21-168946,False,False,False,True,False,False,
+21-168947,False,False,False,False,True,False,
+21-168949,False,False,False,False,False,False,Enseignement supérieur et recherche
+21-168951,False,False,False,False,False,False,Collectivité territoriale
+21-168953,False,False,True,False,False,False,
+21-168954,False,False,False,False,True,False,
+21-168960,False,False,True,False,False,False,
+21-168961,False,False,False,False,True,False,
+21-168962,True,False,False,False,False,False,
+21-168964,False,False,False,False,False,False,Etablissement public de santé
+21-168966,False,False,True,False,False,False,
+21-168969,False,False,True,False,False,False,
+21-168972,False,False,False,False,True,False,
+21-168975,False,False,False,False,True,False,
+21-168976,False,False,False,False,True,False,
+21-168980,False,False,False,False,True,False,
+21-168981,True,False,False,False,False,False,
+21-168982,False,False,True,False,False,False,
+21-168983,False,False,False,False,False,False,Santé
+21-168984,False,False,False,False,True,False,
+21-168989,False,False,True,False,False,False,
+21-168992,False,False,False,False,True,False,
+21-168994,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel, Enseignement supérieur et recherche"
+21-169001,False,False,True,False,False,False,
+21-169004,False,False,True,False,False,False,
+21-169005,False,False,False,False,True,False,
+21-169008,False,False,False,False,True,False,
+21-169009,False,False,False,False,True,False,
+21-169012,False,False,False,False,True,False,
+21-169015,False,False,False,False,False,False,autre
+21-169016,False,False,False,False,True,False,
+21-169017,False,False,True,False,False,False,
+21-169019,False,False,True,False,False,False,
+21-169022,False,False,False,False,True,False,
+21-169023,True,False,False,False,False,False,
+21-169026,False,False,True,False,False,False,
+21-169030,False,False,True,False,False,False,
+21-169035,False,False,True,False,False,False,
+21-169038,False,False,True,False,False,False,
+21-169039,False,False,True,False,False,False,
+21-169040,False,False,True,False,False,False,
+21-169043,False,False,True,False,False,False,
+21-169046,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+21-169051,False,False,True,False,False,False,
+21-169052,False,False,False,False,True,False,
+21-169056,False,False,False,False,False,False,SPL Aménagement urbain
+21-169061,False,False,True,False,False,False,
+21-169062,False,False,True,False,False,False,
+21-169064,False,False,True,False,False,False,
+21-169068,False,False,False,False,False,False,HOPITAL
+21-169070,False,False,False,False,False,False,Établissement public de coopération intercommunale
+21-169071,False,False,False,False,False,False,OPH HLM
+21-169072,True,False,False,False,False,False,
+21-169074,True,False,False,False,False,False,
+21-169075,False,False,False,False,False,False,Société d'économie mixte - personne morale de droit privé
+21-169077,False,False,True,False,False,False,
+21-169079,True,False,False,False,False,False,
+21-169081,False,False,True,False,False,False,
+21-169082,False,False,False,False,False,False,Organisme de sécurité sociale
+21-169085,False,False,True,False,False,False,
+21-169086,False,False,True,False,False,False,
+21-169087,False,False,True,False,False,False,
+21-169089,False,False,False,False,True,False,
+21-169090,False,False,True,False,False,False,
+21-169091,False,False,True,False,False,False,
+21-169096,False,False,False,False,True,False,
+21-169097,False,False,True,False,False,False,
+21-169099,False,False,False,False,False,False,COMMUNE
+21-169101,False,False,True,False,False,False,
+21-169104,False,False,True,False,False,False,
+21-169110,False,False,True,False,False,False,
+21-169112,False,False,True,False,False,False,
+21-169114,False,False,True,False,False,False,
+21-169118,False,False,True,False,False,False,
+21-169119,False,False,False,False,True,False,
+21-169121,False,False,False,False,True,False,
+21-169124,True,False,False,False,False,False,
+21-169127,False,False,True,False,False,False,
+21-169130,False,False,True,False,False,False,
+21-169131,False,False,True,False,False,False,
+21-169132,False,False,True,False,False,False,
+21-169133,False,False,False,False,True,False,
+21-169134,False,False,False,False,True,False,
+21-169135,False,False,False,False,True,False,
+21-169137,False,False,False,False,True,False,
+21-169139,False,False,False,False,False,False,Établissement de santé
+21-169140,False,False,False,False,True,False,
+21-169141,False,False,True,False,False,False,
+21-169147,False,False,False,False,True,False,
+21-169149,False,False,True,False,False,False,
+21-169150,True,False,False,False,False,False,
+21-169151,False,False,False,False,False,False,Santé
+21-169152,False,False,True,False,False,False,
+21-169153,False,False,False,False,False,False,Métropole
+21-169159,False,False,False,False,True,False,
+21-169160,False,False,True,False,False,False,
+21-169161,False,False,True,False,False,False,
+21-169167,False,False,False,False,False,False,COMMUNAUTE D'AGGLOMERATION
+21-169168,False,False,False,False,False,False,syndicat mixte
+21-169169,False,False,False,False,False,False,EPIC (Etablissement public industriel et commercial) de l'Etat
+21-169171,False,False,False,False,False,False,INSTITUT NATIONAL DE RECHERCHE ET DE SECURITE
+21-169174,False,False,True,False,False,False,
+21-169176,False,False,True,False,False,False,
+21-169178,True,False,False,False,False,False,
+21-169187,False,False,False,False,True,False,
+21-169188,True,False,False,False,False,False,
+21-169193,False,False,False,False,True,False,
+21-169194,True,False,False,False,False,False,
+21-169195,False,False,True,False,False,False,
+21-169196,False,False,False,False,True,False,
+21-169197,False,False,False,False,False,False,Transports
+21-169199,False,False,False,False,True,False,
+21-169200,False,False,False,False,False,False,SPL
+21-169201,False,False,False,False,True,False,
+21-169203,False,False,False,False,True,False,
+21-169206,False,False,True,False,False,False,
+21-169207,False,False,True,False,False,False,
+21-169208,False,False,True,False,False,False,
+21-169209,False,False,True,False,False,False,
+21-169217,False,False,True,False,False,False,
+21-169219,False,False,False,False,True,False,
+21-169222,False,False,False,False,False,False,autre
+21-169224,False,False,True,False,False,False,
+21-169228,True,False,False,False,False,False,
+21-169229,False,False,False,False,True,False,
+21-169230,False,False,False,False,True,False,
+21-169232,False,False,False,False,True,False,
+21-169233,False,False,False,False,True,False,
+21-169235,False,False,False,False,True,False,
+21-169236,False,False,True,False,False,False,
+21-169239,False,False,True,False,False,False,
+21-169243,False,False,True,False,False,False,
+21-169246,False,False,False,False,False,False,EPCI
+21-169247,False,False,False,False,False,False,EPCI
+21-169253,False,False,True,False,False,False,
+21-169261,False,False,False,False,False,False,EPIC
+21-169262,True,False,False,False,False,False,
+21-169263,False,False,False,False,True,False,
+21-169265,False,False,True,False,False,False,
+21-169275,False,False,False,False,False,False,Établissement public de Santé
+21-169277,False,False,False,False,True,False,
+21-169278,False,False,True,False,False,False,
+21-169281,False,False,True,False,False,False,
+21-169289,False,False,False,False,False,False,Transports
+21-169290,True,False,False,False,False,False,
+21-169291,True,False,False,False,False,False,
+21-169292,False,False,False,False,False,False,Etablissement public de santé
+21-169299,False,False,True,False,False,False,
+21-169300,False,False,True,False,False,False,
+21-169305,False,False,True,False,False,False,
+21-169307,False,False,False,False,False,False,Organisme de sécurité sociale
+21-169311,False,False,True,False,False,False,
+21-169316,False,False,False,False,False,False,SAEM
+21-169317,False,False,True,False,False,False,
+21-169319,False,False,False,False,True,False,
+21-169320,False,False,False,False,True,False,
+21-169322,False,False,False,False,False,False,Établissement public de santé
+21-169325,False,False,False,False,True,False,
+21-169328,False,False,False,False,True,False,
+21-169329,False,False,False,False,False,False,OPH
+21-169331,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire"
+21-169339,False,False,False,False,True,False,
+21-169342,False,False,True,False,False,False,
+21-169347,False,False,True,False,False,False,
+21-169349,False,False,True,False,False,False,
+21-169350,False,False,True,False,False,False,
+21-169353,False,False,True,False,False,False,
+21-169355,False,False,False,False,True,False,
+21-169359,False,False,True,False,False,False,
+21-169360,False,False,False,False,True,False,
+21-169361,False,False,True,False,False,False,
+21-169362,False,False,True,False,False,False,
+21-169363,False,False,False,False,False,False,autre
+21-169364,False,False,True,False,False,False,
+21-169365,False,False,False,False,True,False,
+21-169367,False,False,True,False,False,False,
+21-169369,False,False,False,False,True,False,
+21-169370,False,False,False,False,True,False,
+21-169372,False,False,True,False,False,False,
+21-169373,True,False,False,False,False,False,
+21-169377,True,False,False,False,False,False,
+21-169380,False,False,True,False,False,False,
+21-169385,False,False,True,False,False,False,
+21-169387,False,False,True,False,False,False,
+21-169389,False,False,False,False,True,False,
+21-169390,False,False,False,False,True,False,
+21-169391,False,False,False,False,True,False,
+21-169395,False,False,False,False,False,False,organisme de protection sociale
+21-169397,False,False,True,False,False,False,
+21-169399,False,False,False,False,False,False,Association
+21-169402,False,False,False,False,True,False,
+21-169403,False,False,False,False,False,False,EPCI
+21-169404,False,False,False,False,False,False,Organisme privé de sécurité sociale
+21-169405,False,False,False,False,True,False,
+21-169407,False,False,True,False,False,False,
+21-169408,True,False,False,False,False,False,
+21-169410,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+21-169416,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation du territoire."
+21-169419,False,False,True,False,False,False,
+21-169420,False,False,True,False,False,False,
+21-169422,False,False,False,False,False,False,établissement public de santé
+21-169426,False,False,False,False,False,False,autre
+21-169427,False,False,True,False,False,False,
+21-169428,False,False,True,False,False,False,
+21-169429,False,False,True,False,False,False,
+21-169431,False,False,False,False,False,False,autre
+21-169435,False,False,False,False,False,False,autre
+21-169436,False,False,True,False,False,False,
+21-169439,True,False,False,False,False,False,
+21-169442,False,False,False,False,False,False,Etablissement public local
+21-169444,False,False,True,False,False,False,
+21-169445,False,False,False,True,False,False,
+21-169447,False,False,False,False,False,False,"Syndicat mixte, Collectivité territoriale"
+21-169449,False,False,True,False,False,False,
+21-169450,False,False,False,False,False,False,autre
+21-169458,True,False,False,False,False,False,
+21-169459,False,False,True,False,False,False,
+21-169461,False,False,True,False,False,False,
+21-169462,True,False,False,False,False,False,
+21-169465,False,False,True,False,False,False,
+21-169466,False,False,False,False,True,False,
+21-169469,False,False,True,False,False,False,
+21-169472,False,False,False,False,False,False,Etablissement public administratif
+21-169473,True,False,False,False,False,False,
+21-169474,False,False,False,False,True,False,
+21-169475,False,False,False,False,True,False,
+21-169477,False,False,False,False,False,False,Mines
+21-169478,False,False,False,False,False,False,EPCI
+21-169479,False,False,False,False,True,False,
+21-169480,False,False,True,False,False,False,
+21-169481,False,False,False,False,False,False,Aménagement
+21-169483,False,False,False,False,False,False,Organisme privé gérant un service public.
+21-169485,False,False,True,False,False,False,
+21-169486,False,False,True,False,False,False,
+21-169487,False,False,False,True,False,False,
+21-169488,True,False,False,False,False,False,
+21-169490,False,False,False,False,False,False,Société Publique Locale
+21-169491,False,False,False,False,True,False,
+21-169492,False,False,False,False,False,False,SOCIETE PUBLIQUE LOCALE
+21-169493,False,False,False,False,True,False,
+21-169495,False,False,False,False,True,False,
+21-169496,False,False,False,False,False,False,OPCO
+21-169497,False,False,False,False,False,False,Opérateur de Compétences
+21-169498,False,False,False,False,True,False,
+21-169501,False,False,False,False,True,False,
+21-169502,False,False,True,False,False,False,
+21-169504,False,False,True,False,False,False,
+21-169506,False,False,False,False,False,False,autre
+21-169512,False,False,True,False,False,False,
+21-169517,False,False,True,False,False,False,
+21-169519,False,False,True,False,False,False,
+21-169520,False,False,False,False,False,False,autre
+21-169523,False,False,True,False,False,False,
+21-169527,True,False,False,False,False,False,
+21-169530,False,False,False,False,True,False,
+21-169531,True,False,False,False,False,False,
+21-169535,False,False,True,False,False,False,
+21-169537,False,False,False,True,False,False,
+21-169538,False,False,True,False,False,False,
+21-169539,False,False,True,False,False,False,
+21-169540,False,False,False,False,False,False,Aménageur
+21-169541,False,False,False,False,False,False,Association
+21-169542,False,False,True,False,False,False,
+21-169543,False,False,True,False,False,False,
+21-169551,False,False,False,False,False,False,autre
+21-169552,False,False,False,False,False,False,autre
+21-169553,False,False,False,False,True,False,
+21-169554,False,False,False,False,False,False,autre
+21-169557,False,False,True,False,False,False,
+21-169563,False,False,True,False,False,False,
+21-169565,False,False,True,False,False,False,
+21-169573,False,False,True,False,False,False,
+21-169579,False,False,False,False,False,False,Établissement public culturel
+21-169583,False,False,False,False,True,False,
+21-169732,False,False,False,False,True,False,
+21-169793,True,False,False,False,False,False,
+21-18864,True,False,False,False,False,False,
+21-18932,False,False,False,False,True,False,
 21-49474,False,False,False,False,True,False,
+21-49727,False,False,True,False,False,False,
+21-63969,False,False,False,False,True,False,
 21-67189,True,False,False,False,False,False,
+21-77647,False,False,True,False,False,False,
+21-79318,False,False,True,False,False,False,
+21-86899,False,False,True,False,False,False,
+21-87075,False,False,False,False,False,False,EPS
+21-8838,True,False,False,False,False,False,
+21-89028,True,False,False,False,False,False,
